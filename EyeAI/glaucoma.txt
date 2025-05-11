@@ -1,0 +1,2360 @@
+
+# Glaucoma
+
+# INTRODUCTION
+
+Aqueous humour is produced from plasma by the ciliary epithelium of the ciliary body pars plicata, using a combination of active and passive secretion. A high-protein filtrate passes out of fenestrated capillaries (ultrafiltration) into the stroma of the ciliary processes, from which active transport of solutes occurs across the dual-layered ciliary epithelium. The osmotic gradient thereby established facilitates the passive flow of water into the posterior chamber. Secretion is subject to the influence of the sympathetic nervous system, with opposing actions mediated by beta-2 receptors (increased secretion) and alpha-2 receptors (decreased secretion). Enzymatic action is also critical; carbonic anhydrase is among those playing a key role.
+
+# Aqueous outflow
+
+# Anatomy
+
+The trabecular meshwork (trabeculum) is a sieve-like structure at the angle of the anterior chamber (AC) through which 90% of aqueous humour leaves the eye. It has three components:
+
+- The uveal meshwork is the innermost portion, consisting of cord-like endothelial cell-covered strands arising from the iris and ciliary body stroma. The intertrabecular spaces are relatively large and offer little resistance to the passage of aqueous.
+- The corneoscleral meshwork lies external to the uveal meshwork to form the thickest portion of the trabeculum. It is composed of layers of connective tissue strands with overlying endothelial-like cells. The intertrabecular spaces are smaller than those of the uveal meshwork, conferring greater resistance to flow.
+- The juxtacanalicular (cribriform) meshwork is the outer part of the trabeculum and links the corneoscleral meshwork with the endothelium of the inner wall of the canal of Schlemm. It consists of cells embedded in dense extracellular matrix with narrow intercellular spaces and offers the major proportion of normal resistance to aqueous outflow.
+
+# Physiology
+
+Aqueous flows from the posterior chamber via the pupil into the AC, from where it exits the eye via three routes:
+
+- Trabecular outflow (90%): aqueous flows through the trabeculum into the Schlemm canal and then the episcleral veins. This is a bulk flow pressure-sensitive route; increasing IOP will increase outflow.
+- Uveoscleral drainage (10%): aqueous passes across the face of the ciliary body into the suprachoroidal space and is drained by the venous circulation in the ciliary body, choroid, and sclera.
+- Iris: some aqueous also drains via the iris.
+
+# Intraocular pressure
+
+Intraocular pressure (IOP) is determined by the balance between the rate of aqueous production and the rate of aqueous outflow.
+
+# Figures
+
+Fig: 11.1 Scanning electron micrograph of the trabecular meshwork
+
+Fig: 11.2 Anatomy of outflow channels. (A) Uveal meshwork; (B) corneoscleral meshwork; (C) Schwalbe line; (D) Schlemm canal; (E) connector channels; (F) longitudinal muscle of the ciliary body; (G) scleral spur.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+The latter is related to factors that include the resistance encountered in the trabeculum and the level of episcleral venous pressure.
+
+Concept of normal intraocular pressure
+
+The upper range of normal for adults is 21 mmHg on applanation tonometry (see below). Some individuals develop glaucomatous damage with IOP less than 21 mmHg, but others remain unscathed with IOP well above this level. Whilst reduction of IOP is a key modifiable element in all types of glaucoma, additional incompletely understood factors are critical in determining whether a particular individual or eye develops glaucomatous damage. These include factors affecting the susceptibility of the optic nerve to damage, such as the integrity of its blood supply and structural vulnerability to mechanical stress at the optic nerve head.
+
+# Fluctuation
+
+Normal IOP varies with time of day (diurnal variation), heartbeat, blood pressure and respiration. The diurnal pattern varies, with a tendency to be higher in the morning and lower in the afternoon and evening. This is at least partially due to a diurnal pattern in aqueous production, which is lower at night. Glaucomatous eyes exhibit greater than normal fluctuation, the extent of which is directly proportional to the likelihood of progressive visual field damage and a single reading may therefore be misleading. It is good practice to note the time of day in conjunction with a recorded IOP.
+
+# Measurement of IOP
+
+Intraocular pressure. The risk increases with increasing IOP.
+
+Age. Older age is associated with greater risk.
+
+Central corneal thickness (CCT). The risk is greater in eyes with OHT and CCT < 555 um and lower in eyes with high CCT (7588 um). This may be due to under- and overestimation of IOP, although it is more likely that associated structural factors, perhaps at the lamina cribrosa, might be involved. CCT can be determined using optical imaging.
+
+# OCULAR HYPERTENSION
+
+Definition: In the general population, the mean IOP is 16 mmHg. Two standard deviations on either side of this provides a 'normal IOP range for individuals over the age of 40 years of 11-21 mmHg: The distribution is Gaussian with the curve skewed to the right (Fig: 11.4). The upper range of normal in individuals over 70 years is 23 mmHg: It is estimated that 4-7% of the population over the age of 40 have an IOP >21mmHg with open filtration angles and without detectable glaucomatous damage. These individuals are referred to as having ocular hypertension (OHT).
+
+Approximately 1 in 10 will develop glaucoma over a 10-year period and the majority will not develop glaucoma in their lifetime.
+
+# Risk factors for developing glaucoma in OHT
+
+The Ocular Hypertension Treatment Study (OHTS) was a multicentre longitudinal trial. In addition to looking at the effect of treatment of individuals with ocular hypertension (IOP in one eye between 24mmHg and 32 mmHg), invaluable information was gained about the effect of a range of putative risks for conversion from OHT to glaucoma. The percentage of OHT patients likely to develop glaucoma at 6 years taking key factors into account is set out in Tables 11.1 and 11.2.
+
+Limitations include the following: the study goal was an IOP reduction of 20%, which may not be sufficient in some individuals; compliance with medication was not measured; and there is a possibility that early glaucomatous damage was already present in some patients.
+
+# Conclusions based on factors that were significant on multivariate analysis of developing glaucoma
+
+|Intraocular pressure|The risk increases with increasing IOP.|
+|---|---|
+|Age|Older age is associated with greater risk.|
+|Central corneal thickness (CCT)|The risk is greater in eyes with OHT and CCT < 555 um and lower in eyes with high CCT (7588 um).|
+
+Fig: 11.3 Routes of aqueous outflow: (A) Trabecular; (B) uveoscleral; (C) iris
+
+Fig: 11.4 Distribution of IOP in the general population
+---
+# Ocular Hypertension
+
+# Table 11.1 Risk of Developing Glaucoma According to IOP (Intraocular Pressure) and CCT (Central Corneal Thickness)
+
+|Mean IOP|CCT < 555um|CCT > 555 to 588um|CCT > 588um|
+|---|---|---|---|
+|25.75 mmHg|36%|13%|6%|
+|23.75 to < 25.75 mmHg|12%|10%|7%|
+|< 23.75 mmHg|17%|9%|296|
+
+# Table 11.2 Risk of Developing Glaucoma According to Vertical C/D Ratio and CCT
+
+|C/D ratio|CCT < 555um|CCT > 555 to 588um|CCT > 588um|
+|---|---|---|---|
+|2.29|16%|8%| |
+|2.50|135|45|900|
+|2.30 to < 2.50|566|780| |
+|< 0.30|CCT|CCT > 555|CCT|
+| |S555 um|to 588 um| |
+| |195|345|540|
+| |F563|480| |
+| |210|330|420|
+| |225|315|360|
+| |240|300|300|
+| |255|270|285|
+
+Cupldisc (CID) ratio. The greater the CID ratio the higher the risk. This may be because an optic nerve head with a large cup is structurally more vulnerable; or it may be that early damage is already present.
+
+Pattern standard deviation (PSD) The higher the PSD value the greater the risk (This possibly signifies early glaucomatous field change).
+
+# Conclusions based on factors that were significant on univariate analysis only
+
+African ethnic background (including Afro-Caribbean; African-American) is associated with a higher glaucoma risk.
+
+Males are more likely to convert: significant risk factor: Heart disease is a.
+
+Factors examined in the OHTS but found to be insignificant:
+
+- Myopia (although it is suspected that myopic discs are susceptible to glaucomatous damage at a lower IOP than emmetropic discs).
+- Diabetes: of glaucoma (which is curious, as patients with glaucoma often have family history of the disease).
+
+# Genetics of ocular hypertension
+
+A single nucleotide polymorphism in TMCo1 appears to be significantly associated with conversion to glaucoma in white people with ocular hypertension (3-fold risk in individuals with two risk alleles compared with those with no risk alleles). A recent meta-analysis has identified 112 genetic loci associated with IOP and suggests a major role for angiopoietin-receptor tyrosine kinase signalling, lipid metabolism, mitochondrial function, and developmental processes as risk factors for elevated IOP.
+
+# TIP
+
+In ocular hypertension, validated prediction models using an individual's ocular parameters allow the risk of developing glaucoma to be determined.
+
+# Clinical evaluation
+
+History and examination should be carried out as for glaucoma (see below). Consideration should be given to whether any.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+systemic medication is being taken that might be influencing IOP, either upwards (e.g: steroids) or downwards (e.g: beta-blockers).
+
+# Classification
+
+Glaucoma may be congenital (developmental) or acquired. Open-angle and angle-closure types are distinguished based on the mechanism by which aqueous outflow is impaired with respect to the AC angle configuration. Distinction is also made between primary and secondary glaucoma. In the latter a recognizable ocular or non-ocular disorder contributes to elevation of IOP.
+
+This concept refers to glaucomatous damage, usually manifested by a suspicious optic disc and/or the presence of retinal nerve fibre layer defects, in which no visual field abnormality has developed. The field-testing modality for this purpose is usually taken as standard achromatic automated perimetry.
+
+# Management
+
+Raised IOP is an important risk factor in the development of glaucoma and can be modified with treatment: However, it is difficult to justify the treatment of all individuals with raised IOP because of the high prevalence of ocular hypertension, the low conversion rate to glaucoma and the cost and side effects of treatment: In the OHTS, untreated patients with ocular hypertension had a 9.5% cumulative risk of developing primary open-angle glaucoma (POAG) after 5 years. Treatment (which aimed to reduce IOP by 20% or more and to reach 24mmHg or less) reduced this to 4.4%.
+
+Validated prediction models using the ocular parameters of a given individual with ocular hypertension allow the 5-year risk of developing glaucoma to be estimated and expressed as a percentage: This helps in deciding on the frequency of testing and whether to start treatment. In general, only those at high risk should be treated, although patient preference may be a decisive factor: Age, and therefore life expectancy, is a key point to consider: Most practitioners would treat every patient with an IOP of 30mmHg or more (>40% 5-year risk of glaucoma). The decision to treat in patients with varying risk profiles is not straightforward and has to be made on an individual basis.
+
+OHT increases the risk of retinal venous occlusion, an additional point to consider when deciding whether to start treatment: Treatment options are the same as for POAG, although a less aggressive pressure-lowering approach is frequently taken. Careful monitoring is a reasonable alternative in many circumstances: baseline visual fields and retinal nerve fibre layer (RNFL)/disc imaging should be performed.
+
+# PRIMARY OPEN-ANGLE GLAUCOMA
+
+# Introduction
+
+# Definition
+
+Primary open-angle glaucoma (POAG) is a chronic; progressive neuropathy of adult onset: It is characterized by:
+
+- Retinal nerve fibre layer thinning:
+- Glaucomatous optic nerve damage.
+- Characteristic visual field loss as damage progresses.
+- An open anterior chamber angle.
+- Absence of signs of secondary glaucoma or a non-glaucomatous cause for the optic neuropathy:
+
+IOP is a key modifiable risk factor:
+
+# Goal of treatment
+
+The goal of glaucoma treatment is to slow the rate of progression throughout a patient's lifetime in order to maintain visual function and related quality of life, at a sustainable cost: POAG is the most prevalent type of glaucoma in people of European and African ethnic origin. In those older than 70 years of age the prevalence of POAG has been reported to be approximately 6% in white populations, 16% in black populations and around 3% in Asian populations. It affects both genders equally:
+---
+# Primary Open-Angle Glaucoma
+
+# Risk factors
+
+of myocilin and its role in glaucoma is as yet undetermined. If a single family member develops glaucoma prior to age 35 years, the likelihood of high = greater chances of a mutation in the myocilin gene may be as 33%.
+
+IOP. The higher the IOP, the greater the likelihood of glaucoma. Asymmetry of IOP of 4 mmHg or more is also significant.
+
+Age. POAG is more common in older individuals.
+
+Race: It is significantly (perhaps four times) more common, develops at an earlier age and may be more difficult to control in black individuals than in whites.
+
+Family history of POAG. First-degree relatives of patients with POAG are at increased risk. An approximate risk to siblings is four times and to offspring twice the normal population risk, though surveyed figures vary.
+
+Diabetes mellitus: Longitudinal studies show no increased risk of glaucoma. Selection bias probably explains why clinic-based studies report a higher prevalence of glaucoma in people with diabetes.
+
+Myopia is associated with an increased incidence of POAG and myopic eyes may be more susceptible to glaucomatous damage.
+
+Anti-VEGF (vascular endothelial growth factor) therapy: Patients undergoing anti-VEGF therapy for age-related macular degeneration or diabetic macular oedema are at risk of sustained IOP elevation; this is more likely to occur after recurrent injections with bevacizumab than with ranibizumab. The risk is significantly greater for patients with glaucoma than for normal individuals. The risk that glaucoma surgery will be needed increases after six injections.
+
+Contraceptive pill: Recent research suggests that long-term use of the oral contraceptive pill may increase the risk of glaucoma, perhaps by blocking a protective oestrogen effect.
+
+Vascular disease: A range of systemic conditions linked to vascular compromise may be associated, though clear-cut relationships have proved difficult to demonstrate consistently: Systemic hypertension, cardiovascular disease, diabetes and vasospastic conditions such as migraine have all been implicated. Poor ocular perfusion may be a risk factor for glaucoma progression.
+
+# Screening
+
+Universal population screening for glaucoma has not been demonstrated to be cost-effective and current practice restricts case-finding to high-risk groups such as: 1) older individuals, 2) those over the age of 40 with a history of POAG in a close family member, and 3) people of African racial background. In these groups, screening tends to be performed sporadically via routes such as commercial optometric eye examinations, which may lead to the relative exclusion of underprivileged economic groups. Population screening with tonometry alone is unsatisfactory, since it will label a significant number of cases with other features of POAG such as cupping and visual field loss; routine screening and eye examinations should include visual field assessment as well as tonometry and ophthalmoscopy.
+
+# Genetics
+
+POAG has been associated with at least loci in the human genome; but mutations in only the MYOC gene, coding for the protein myocilin that is found in the trabecular meshwork, and the OPTN gene which codes for optineurin, are broadly accepted as causing glaucoma. A number of different mutations have been described in the MYOC gene; though the normal function of the protein is still under investigation.
+
+# Diagnosis
+
+History: Visual symptoms will usually be absent unless damage is advanced. Sometimes symptomatic central field defects may occur at an early stage; in the presence of a relatively normal peripheral field.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+Previous ophthalmic history: Specific enquiry should be made about:
+
+- Refractive status, as myopia carries an increased risk of POAG and hypermetropia of primary angle-closure glaucoma (PACG).
+- Causes of secondary glaucoma such as ocular trauma or inflammation. Previous eye surgery, including refractive surgery which may affect IOP readings.
+
+Family history:
+
+- POAG or related conditions such as OHT.
+- Other ocular disease in family members.
+
+Past medical history:
+
+- Asthma, heart failure or block, peripheral vascular disease, which are contraindications to the use of beta-blockers.
+- Head injury, intracranial pathology including stroke as these conditions may cause optic atrophy or visual field defects.
+- Vasospasm: migraine and Raynaud phenomenon.
+- Diabetes, systemic hypertension and cardiovascular disease may increase the risk of POAG.
+- Oral contraceptive pill for several years may be associated with an increased risk of glaucoma.
+
+Current medication:
+
+- Steroids including skin cream and inhalants.
+- Oral beta-blockers may lower IOP.
+
+Social history including smoking and alcohol intake, especially if toxic/nutritional optic neuropathy is suspected.
+
+Allergies, particularly to any drugs likely to be used in glaucoma treatment, e.g., acetazolamide is contraindicated if there is a history of sulfonamide allergy.
+
+# Examination
+
+Visual acuity (VA) is likely to be normal except in advanced glaucoma:
+
+- Pupils. Exclude a relative afferent pupillary defect (RAPD). If initially absent but develops later, this constitutes an indicator of substantial progression.
+- Colour vision assessment such as Ishihara chart if there is any suggestion of an optic neuropathy other than glaucoma.
+- Slit lamp examination. Exclude features of secondary glaucoma such as pigmentary and pseudoexfoliation.
+- Tonometry prior to pachymetry, noting the time of day.
+- Gonioscopy.
+- Optic disc examination for glaucomatous changes (see below) should be performed with the pupils dilated, provided gonioscopy does not show critically narrow angles. Red-free light can be used to detect RNFL defects.
+
+# Evaluation of the optic nerve head
+
+Normal optic nerve head:
+
+Neuroretinal rim: The neuroretinal rim (NRR) is the orange-pink tissue between the outer edge of the cup and the optic disc margin. The inferior rim is the broadest followed by the...
+
+Fig: 11.6 Normal optic disc. Cup/disc ratio (arrows show cup and arrow heads show edge of optic disc)
+
+Fig: 11.7 Normal discs. (A) Small disc with a low cup/disc ratio; (B) large disc with a proportionally larger cup.
+---
+# 352 Primary Open-Angle Glaucoma
+
+Only 2% of the population have CID ratio greater than 0.7. In any individual, asymmetry of 0.2 or more between the eyes should also be regarded with suspicion, though it is critical to exclude corresponding difference in overall disc diameter (see next):
+
+# Optic disc size
+
+Optic disc size is important in deciding if a CID ratio is normal and is also a prognostic indicator: large discs are believed to be more likely to sustain damage; particularly in NTG. This may be the result of the larger diameter conferring relative mechanical weakness and hence greater vulnerability to IOP-induced displacement of the lamina cribrosa, which has been found to be thinner in eyes with NTG. Disc size varies on average between racial groups and is largest in Africans. Imaging can objectively measure disc area, but vertical diameter is the parameter most frequently used clinically:
+
+Normal median vertical diameter (for non-glaucomatous discs) is 15-17 mm in white population.
+
+A narrow slit beam is focused on the disc using a fundus lens. The height of the beam is adjusted until it matches the distance between the superior and inferior limits of the NRR (not the scleral rim surrounding the neural tissue) and the diameter in millimetres is read from the slit lamp graticule. A correction factor may be necessary, depending on the lens used (Table 11.3). Refractive error affects measurement only minimally, although myopia above dioptres may distort the result:
+
+TIP: A large disc has a large cup and may be entirely healthy; while any cupping in a small disc may be abnormal.
+
+# Changes in glaucoma
+
+In some cases it is not possible to be certain whether an individual optic disc is glaucomatous. The clinical findings and results of investigation should be considered together to guide management. Glaucomatous damage results in characteristic signs involving (a) the optic nerve head, (b) the peripapillary area and (c) the retinal nerve fibre layer:
+
+# Optic nerve head
+
+Pathological cupping caused by an irreversible decrease in the number of nerve fibres, glial cells and blood vessels. A documented increase in cup size is always significant (Fig: 11.8). If an eye with small optic disc and...
+
+# Table 11.3 Correction Factors for Estimating Optic Disc Diameter
+
+|Lens|Correction factor|
+|---|---|
+|Volk 60 D|X0.88-1.0|
+|Nikon 60 D|Around 1.0|
+|Volk 90 D|X1.3|
+|Volk 78 D|x1.1|
+|Goldmann 3-mirror|X1.27|
+
+Fig. 11.8 (A) Normal optic disc with a small cup; (B) same disc 2 years later showing concentric glaucomatous enlargement.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+Fig: 11.9 Classic subtypes of glaucomatous damage. (A) Focal ischaemic inferior notch; (B) myopic with a temporal crescent and superior notching; (C) sclerotic with superior shelving and inferior notching; (D) concentrically enlarged with deep uniform enlargement of the optic cup.
+
+Concentrically enlarging discs (verified by serial monitoring) are characterized by fairly uniform NRR thinning (Fig: 11.9D) and are frequently associated with diffuse visual field loss. IOP is usually significantly elevated at presentation.
+
+Non-specific signs of glaucomatous damage: Other disc signs of glaucomatous damage include:
+
+- Disc haemorrhages (Fig: I.104 and B) often extend from the NRR onto the retina, most commonly inferotemporally. Their presence is a risk factor for the development and progression of glaucoma. They are more common in NTG, but can also occur in healthy individuals as well as patients with systemic vascular disease. When screening for glaucoma approximately three out of four people with a disc haemorrhage will not have glaucoma.
+- Baring of circumlinear blood vessels is a sign of early thinning of the NRR. It is characterized by a space between the neuroretinal rim and a superficial blood vessel (Fig: 11.10C).
+- The laminar dot sign occurs in advancing glaucoma: Grey dot-like fenestrations in the lamina cribrosa (see Fig: 11.10F) become exposed as the NRR recedes. The fenestrations sometimes appear linear and this itself may be a sign of advanced damage; indicating distortion of the lamina. The dots may be seen in normal eyes.
+- 'Sharpened edge' or 'sharpened rim' is a sign of advancing damage. As NRR is lost adjacent to the edge of the disc, the disc margin contour assumes a sharper angle backwards. Bayoneting of vessels is often seen at a sharpened edge: With NRR loss, a vessel entering the disk.
+
+Collaterals between two veins at the disc (Fig: I.10E), similar to those following central retinal vein occlusion (CRVO), are relatively uncommon. They are probably caused by chronic low-grade circulatory obstruction: Retinal vascular tortuosity may also occur.
+
+Loss of nasal NRR (Fig: I.1F) is a sign of moderately advanced damage. A space may develop between the NRR and the central retinal vasculature.
+---
+# 354 Primary Open-Angle Glaucoma
+
+Fg: 11.10 Non-specific signs of glaucomatous damage (A)ᵃⁿᵈ (B) Disc haemorrhage (arrow); (C) baring of inferior circumlinear blood vessel (arrow); (D) bayoneting of inferior blood vessels associated with advanced glaucomatous damage; (E) collateral vessels; (F) laminar dot sign (arrow) and nasal cupping associated with advanced glaucomatous damage. This should not be confused with a 'sharpened nasal edge', which refers to the sharp angulation of the NRR at the nasal margin of a focal vertical polar notch (Fig: 1L1L) and may be a sign of early damage in patients with ocular hypertension:
+
+TIP An optic disc haemorrhage is a risk factor for the development and progression of glaucoma and can be missed unless magnification is used to examine the disc.
+
+Alpha (outer) zone is characterized by superficial retinal pigment epithelial changes. It tends to be larger and possibly more common in glaucomatous eyes.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+Fibres arising from the nasal retina also follow a relatively straight course to the optic nerve:
+
+Fibres arising temporal to the macula follow an arcuate path around the papillomacular bundle to reach the optic nerve head. They do not cross the horizontal raphe that extends from the foveola to the temporal retinal periphery, demarcating the superior and inferior halves of the retina. The arcuate fibres reaching the superotemporal and inferotemporal aspect of the optic nerve head are most vulnerable to glaucomatous damage (Fig: 11.13). The fibres in the papillomacular bundle are the most resistant.
+
+Within the optic nerve head, the retinal fibres are arranged as follows (Fig: 11.14):
+
+- Fibres from the peripheral fundus lie deep within the retinal nerve fibre layer (i.e. nearer the pigment epithelium) but occupy the most peripheral (superficial) portion of the optic nerve.
+- Fibres arising near to the optic nerve lie superficially within the nerve fibre layer (i.e. near the vitreous) but they occupy the central (deep) portion of the optic nerve.
+
+In glaucoma, subtle RNFL defects precede the development of detectable optic disc and visual field changes. Their onset often follows disc haemorrhages. Two patterns occur: (a) localized wedge-shaped defects and (b) diffuse defects that are larger and have indistinct borders. Defects are sometimes evident following disc haemorrhages. Red-free (green) light increases the contrast between normal retina and defects on slit lamp biomicroscopy or fundus photography and typically makes identification easier; Optical coherence tomography (OCT) and scanning laser polarimetry are highly effective means of quantifying the RNFL (Fig: 11.15). It should be noted that RNFL defects are not specific to glaucoma and can be seen in a range of neurological diseases, as well as in apparently normal individuals.
+
+TIP: Retinal nerve fibre layer defects precede the development of optic disc and visual field change in glaucoma:
+
+Beta (inner) zone is characterized by chorioretinal atrophy: It is distinct from the scleral rim; the white band of exposed sclera central to the beta zone. The beta zone is larger and more common in glaucoma and is a risk factor for progression. The location of beta-zone PPA seems to indicate the orientation of likely visual field loss.
+
+Pachymetry, the measurement of corneal thickness, is an essential part of the assessment of glaucoma patients (see Fig: 11.5).
+
+Stereo disc photography. Stereo photography has historically been regarded as the reference standard in optic disc imaging and remains a valuable option: The images are taken by repositioning slightly between shots, either manually or using a stereoseparator built into the camera.
+
+Ultrasound biomicroscopy (UBM). This is a type of ultrasound that creates a more detailed image than regular.
+---
+60
+DE ?
+Perpachary RNFLT Chssificatin
+2-0
+L
+MAS SUP MAS
+---
+# CHAPTER 11
+
+# Glaucoma
+
+Fig: 11.16 UBM of the anterior segment: (A) Showing normal angle appearance; (B) showing closed angle (arrow)
+
+Ultrasound biomicroscopy (UBM) is used for imaging the anterior segment of the eye. This results in resolutions up to 25 µm axially and 50 µm laterally, but the depth of tissue penetration is less than this. It is particularly useful to show the anatomy in patients with primary angle-closure glaucoma (Fig: 11.16). In comparison to anterior segment OCT, the main strength of UBM is its ability to demonstrate structures behind the iris, particularly the ciliary body and lens.
+
+Fig: 11.17 OCT of the peripheral iris. (A) Thickened iris; (B) abnormal iris insertion; (C) peripheral iris roll on pupil dilatation.
+
+Optical coherence tomography of the anterior segment has an expanding range of clinical applications primarily in the evaluation of angle-closure glaucoma: It is useful when demonstrating the relationship of the peripheral iris to the filtration angle (Fig: 11.17). It can be used to detect damage and progression (Fig: 11.19). In advanced glaucoma, it is less helpful because of the 'floor' effect (i.e. when the retinal nerve fibre layer reaches 45-50 µm it does not decrease any further even though progressive damage may be occurring). Macular thickness measurements may be more helpful in these circumstances. Sensitivity and specificity utilizing comparison with a normative database is as high as 90%.
+
+Peripapillary RNFL. This involves the acquisition of a circular scan of the retina around the optic nerve head. Because different OCT devices use different scanning protocols, caution should be taken when comparing RNFL thickness between machines.
+---
+# IR JO" ART [HS]
+
+# Asymmetry
+
+# IR J0" ART [HS]
+
+# OD OS
+
+LZv0
+
+OCL ARLULQ: 23 [HSL
+
+0.10
+PMB
+OCTARLUO: 24[HS]
+Above Normal Limie (p&lt;0.01)
+
+|300|BorderIine Above (P&lt;0.05)|
+|---|---|
+|240|wiithn Nonmal Uimee (psQ.051)|
+|180| |
+|120|BorderIne Bclow (P&lt;0.051)|
+|180 -135|Below Noral Umlb (p&lt;0.01)|
+
+NAS INF TMP SUP NAS
+
+Position
+
+|300| | | | | | |
+|---|---|---|---|---|---|---|
+|240| | | | | | |
+|180| | | | | | |
+|120| | | | | | |
+|~180 -135| |135 180| | | | |
+| | |NAS|Position|SuP|Nas| |
+
+# PMD Classification OD
+
+Below Normal Limits
+
+# Classification OS
+
+Within Normal Limits
+---
+# CHAPTER 11
+
+# Glaucoma
+
+|Above Normal Limits (p<0.01)|Above Normal Limits (p<0.01)|Borderline Above (p<0.051)|Borderline Above (p<0.051)|300|
+|---|---|---|---|---|
+|240|180|Within Normal Limits (p>0.061)|Within Normal Limits (p>0.061)|180|
+|120|60|Borderline Below (p<0.051)|Borderline Below (p<0.051)|120|
+|Below Normal Limits (p<0.01)|Below Normal Limits (p<0.01)|Below Normal Limits (p<0.01)|Below Normal Limits (p<0.01)|Below Normal Limits (p<0.01)|
+|-135|-90|45|45|90|
+|135|180|0|NAS|INF|
+|TMp|Sup|NAS|INF|TMp|
+|Sup|NAS|Position [%]|5|300|
+|OD|05|5|114|75|
+|240|0|180|135|90|
+|45|45|90|135|180|
+|03|NAS|INF|TMp|Sup|
+|NAS|TS|NS|Position [" ]|NS|
+|123|105|52|97| |
+|PMB|T|G|N|NIT|
+|53|68|88|86|0.98|
+|Classification OD|Classification OS|142|51|56|
+|36|34|106|NI| |
+|Borderline Below|Below Normal Limits|NI|TI| |
+|103| |71|55| |
+|Above Normal Limits (p<0.01)|Borderline Above (p<0.051)|300|240| |
+|180|Within Normal Limits (p>0.061)|180|120|60|
+|Borderline Below (p<0.051)|120|80| | |
+|Below Normal Limits (p<0.01)|Below Normal Limits (p<0.01)|Below Normal Limits (p<0.01)|Below Normal Limits (p<0.01)|Below Normal Limits (p<0.01)|
+|-135|-90|45|90|135|
+|180|0|NAS|INF|TMp|
+|Sup|NAS|Position [" ]|5|300|
+|OD|05|5|110|63|
+|240|1|180|4|T|
+|63|63|120|29| |
+|87|0|180|-135|-90|
+|45|90|135|180|50|
+|NAS|INF|THP|Sup|NAS|
+|TS|NS|Position [" ]|NS|TS|
+|118|103|46|80| |
+|PMB|T|G|N|NIT|
+|50|63|81|63|1.00|
+|B|92|82|Below Normal Limits|Below Normal Limits|
+|52|48| | | |
+
+Fig: 11.19 OCT of the optic disc. (A) At presentation; (B) after 2 years showing progressive RNFL thinning.
+---
+# Patient Information
+
+|Patient:|Disease:|Operator:|
+|---|---|---|
+|DOB (age):|Ethnicity: Caucasian|Algorithm Ver: A6,1,0, 12|
+|Gender: M|Physician:| |
+
+# OD GCC Significance
+
+# Optic Nerve Head Map
+
+# RNFL Parameters
+
+|Avg RNFL|[O 107]|
+|---|---|
+|Sup, Avg|[05,30 163 81]|
+|Avg|I5 07 105 %|
+
+# Nerve Head Parameters OD
+
+|Rim Volume (mm3)|0.085|0.102|
+|---|---|---|
+|Nerve Head Volume (mm3)|0.172|0.203|
+|Cup Volume (mm3)|0.743|0.836|
+|Optic Disk Area (mm2)|3.07|3.52|
+|Cup/Disc Area Ratio|0.60|0.55|
+|Horizontal CID Ratio|0.96|0.93|
+|Vertical CID Ratio|0.80|0.83|
+|Rim Area (mm2)|1.2|1.57|
+|Cup Area (mm2)|1.85|1.95|
+|p<5?|Borderline| |
+
+# OS Exam Date
+
+Exam Date: 12/08/2013, SSI= 72.2
+Exam Date: 12/08/2013, SSI= 70.8
+
+# GCC Parameters
+
+|Avg; GCC (um)|Sup. GCC (um)|Inf. GCC (um)|FLV (%)|GLV (%)|
+|---|---|---|---|---|
+| |96.86|37.2|0.008|8 E43|
+
+# Exam Date
+
+Exam Date: 12/08/2013, SSI= 70.2
+Exam Date: 12/08/2013, SSI= 65.4
+---
+# CHAPTER 11
+
+# Glaucoma
+
+The Heidelberg Retinal Tomograph (HRT) is still in widespread clinical practice, but has been superseded by optical coherence tomography: As with the OCT, it is used to distinguish normal from glaucomatous eyes by comparison against a normative database (Moorfields regression analysis) and to monitor disease progression. Keratometry values must be entered and significant (>1.0 dioptre) astigmatism corrected by means of a cylindrical lens. High-quality images can usually be acquired without pupillary dilatation and through mild-moderate lens opacity. After image capture, for greatest accuracy the operator should manually mark the contour line that defines the edge of the neuroretinal rim. Images, data and analysis can be examined on a computer screen or print-out (Fig: 11.21). Detailed stereometric data are presented, with abnormal readings identified.
+
+| |Immi|2 [mm]|[mm]| | | | | | | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|00|04|08|1.2|1.6|20|24|28|32|36|40|44| | | | | | | |
+| | |0.0|0.44|0.8|1.2|1.6|0.4|0.8|12|1.8|20|24|28|32|36|40|4.44|0.0|
+| | |0.0|0.44|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0| | | | | |
+
+|Stereometric Analysis QNH|Normal Range|Predicted|
+|---|---|---|
+|Disk Area|1.650|1.89 - 2.82|
+|Cup Area|0.817|0.26 - 1.27|
+|Rim Area|0.775 mm|1.20 - 1.78|
+|Cup Volume|0.146 cm³|0.01 - 0.39|
+|Rim Volume|0.129 cm³|0.24 - 0.40|
+|Cup/Disk Area Ratio|0.532|0.16 - 0.47|
+|Linear Cup-Disk Ratio|0.730|0.36 - 0.80|
+|Mean Cup Depth|0.257|0.44 - 0.38|
+|Maximum Cup Depth|0.567 mm|0.40 - 0.90|
+|Cup Shape Measure|4.27|- - 0.09|
+|Height Variation Contour|0.591 mm|0.30 - 0.47|
+|Mean RNFL Thickness|0.202 mm|0.18 - 0.31|
+|RNFL Cross Sectional Area|0.424 mm²|0.95 - 1.6|
+|Reference Height|0.562 mm| |
+|Topography Std Dev|2.5 mm| |
+
+Date: 19/Jan/2006 Signature:
+
+Software: IRI-V1.7R64t
+
+Fig: 11.21 Heidelberg Retinal Tomograph of a glaucomatous eye
+---
+# Right Fundus Image
+
+# TSNIT
+
+|Parameters|Actual Val: OD|Actual Val: Left|
+|---|---|---|
+|TSNIT Average|35.8|48.5|
+|Superior Average|28.9|61.3|
+|Inferior Average|4.1|54.3|
+|TSNIT Std: Dev:|12.5|20.1|
+|Inter-Eye Symmetry|0.71|0.71|
+
+# NFI
+
+|Right Nerve Fiber Thickness|P|D|Left Nerve Thickness|
+|---|---|---|---|
+|Thickness: Map Legend (microns)|&lt;1%|&lt;0.5%| |
+|100 120 140 160 180|100 120 140 160 180|100 120 140 160 180|100 120 140 160 180|
+
+# Impression / Plan:
+
+|Right Deviation Map (from Normal)|Left Deviation Map (from Normal)|
+|---|---|
+|Signature:|Date:|
+|Rlelit Nerve Fiber Layer|Both Nerve Fiber Layer|
+|Left Nerve Fiber Layer| |
+
+---
+# CHAPTER 11
+
+# Glaucoma
+
+363
+
+|A|B|
+|---|---|
+|D|E|
+
+Fig: 11.23 Grey-scale display showing progression of glaucomatous damage (see text)
+---
+# 364 Primary Open-Angle Glaucoma
+
+Ring scotoma develops when superior and inferior arcuate defects become continuous, usually in advanced glaucoma (Fig: 11.23F). End-stage changes are characterized by a small island of central vision, typically accompanied by a temporal island. The 10-2 perimetry pattern facilitates monitoring of the residual central field.
+
+Summary measures should always be considered. On average, an annual deterioration in mean total deviation of just over 1.0 dB can be expected in untreated patients, but there is significant individual variation (see 'Natural history of open-angle glaucoma' above) (Fig: 11.24).
+
+# Minimal criteria for glaucomatous damage on SAP
+
+One of the following defects on Humphrey visual field testing (Hodapp, Parrish and Anderson's criteria):
+
+- Glaucoma hemifield test outside normal limits on at least two consecutive occasions.
+
+This provides information concerning differences between superior and inferior halves of the visual field by evaluating threshold at mirror-image points above and below the.
+
+|19-04-1934|SIT-FAST| |LB hH| |
+|---|---|---|---|---|
+|27|27|{26|20| |
+|29|32|3J1|29| |
+|22|22|8| | |
+|29|30|30|Az7| |
+|20|26|?|2| |
+|21|1|#|#0#| |
+|28|32|32|I29| |
+|14|(%|2|0| |
+|31| |27| | |
+|31| |#| | |
+|FOWER:|@FF|FL:|@ct2| |
+|Fi:|7%|FF:|2%| |
+|Ti:|-9,22 #B|FSi:|6.69 [B F| |
+|23-37-2h00|SITA-Fast| |4+1 HH| |
+|Z8|24|25|29| |
+|#|#|0|0| |
+|3J3|{0722|38|4zg| |
+|{0|16|(0|{@| |
+|3|29|27|29| |
+|FB|19|27|2a| |
+|#| | | | |
+|32|Ja|39|/29| |
+|27|29|8| | |
+|38|32|12z|29| |
+|Fl:|[712|FHE|B%| |
+|FP:|9%|4.63|0#| |
+|P|{|13|18,22| |
+|MB|p|22-10-2801|SITA-Fast| |
+|5.2|M|23|22| |
+|28|24|29|29| |
+|2E||27|28|28|
+|27|24|12|2| |
+|01|30|27|26| |
+|32_8|28|28|27| |
+|26|4|#|#| |
+|29|(0|31| | |
+|28|30|25|41| |
+|03|4|29|24| |
+|31|31|/30|9| |
+|Fqueh:|GFF|Fl|0<13| |
+|2%|FP:|7%| | |
+|Hp:|~,26|De|P| |
+|0,5%|P51:|10,11|DE| |
+
+Fig: 11.24 Progression of visual field defect and deterioration of global indices over a period of 30 months
+---
+# CHAPTER 11
+
+# Glaucoma
+
+PATTERN DEVIATION
+
+|#|#|A|SINGF F ]FTN At.Hi|ETE1 I,FFT|NAMC [ 6*4117;|ID|Dijp] 21-3-19*:|WPILFL|
+|---|---|---|---|---|---|---|---|---|
+|{#LW;:[II =K| |([r"44|4}|5%|:i.# F"&lt; FTPIFE ;|6; / ';,0 if #: #| | |
+|2%|:16|# (1%|:|3|0.5%|24 1 0 Air 2 % &|2 045| |
+|4|:|3|21"0|Fig: 11.25 Positive diagnostic criterion for glaucoma showing|% 7 :|2] %|25|75|
+| | | |(A|Fig: 11.26 Mild glaucomatous damage (A) minimal cupping;|(B) paracentral scotoma| | | |
+
+This program also compares the overall height of the hill of vision with age-adjusted normal values. A cluster of three or more non-edge points in a location typical for glaucoma, all of which are depressed on PSD at P&lt;s% level and one which is depressed at P&lt;1% level, on two consecutive occasions (Fig: 11.25). CPSD that occurs in less than 5% of normal individuals on two consecutive fields.
+
+# Staging
+
+A discrete-levels staging system can be used to determine the stage of damage. Early glaucomatous loss is a MD of &lt; -6 dB (Fig: 11.26), moderate glaucomatous loss ~6 to -12 dB (Fig: 11.27) and severe glaucomatous loss > -12 dB (Fig: 11.28). Any absolute defect (0 dB) in the central 5 degrees is considered severe.
+
+# Management
+
+The primary aim of treatment is to prevent functional impairment of vision within the patient's lifetime, by slowing the rate of ganglion cell loss. Currently, the only proven method of achieving this is to reduce IOP. Both higher mean IOP and substantial variation in IOP are predictive of progressive visual field loss in patients with glaucoma, whether newly diagnosed or advanced.
+
+# Patient instruction
+
+An explanation should be offered concerning the nature of the disease and relevant literature provided. The timing of medication use should be specified, and the patient educated in the technique of eye drop instillation. At follow-up visits, the patient's proficiency at instilling drops should be checked. In order to maximize drug contact time with the anterior segment and to minimize systemic absorption, the patient should be instructed either to perform lacrimal sac occlusion by applying fingertip pressure at the medial canthus or to close the eyes for about 3 minutes after instillation. Common or severe potential adverse effects should be explained at the commencement of treatment and their occurrence enquired about at review visits.
+
+# Treatment goals
+
+Target pressure: It is assumed that the pre-treatment level of IOP has damaged the optic nerve and will continue to do so. An IOP level is identified below which further damage is considered unlikely: the target pressure: This is identified considering.
+---
+# Primary Open-Angle Glaucoma
+
+A
+
+c[NCLEFELL E E &lt;LEft [FL D ANAI Yx1 LEFT INrIME [7{ Duy 53-103137 NAY = [TJRi
+
+9.: Fi:ii; Wi]-E Mivt :
+
+EF[; [FTLtf 3F5I #In Avti 51*'I: ::i:
+
+Fl:-t ;T:Tr-; TM E[
+
+LII: : '24 0.:
+
+'j Flc: *; Ie.u:l Kl:i: J5
+
+340 :⁴ 0 7; ## # 8ᵀ # 4 " #/0 4 4 49 # 4 "
+
+1 > .>6 4 Iv I: CHT 7$' 'Ip .} 1 . # JJ'::: I6 :I"
+
+"I? FL I&lt; 3 2 Zt )7 2.a] J] u%
+
+"rIk; FT 1.12 : $ : I 44.5] 13 15
+
+Cpelll & A.i % i:2,, V":
+
+B # B
+
+Fig: 11.27 Moderate glaucomatous damage (A) moderate cupping; (B) arcuate scotoma
+
+Fig: 11.28 Severe glaucomatous damage (A) marked cupping; (B) extensive visual field loss
+
+The severity of existing damage (particularly a greater vertical CID ratio and a higher mean deviation on visual fields), the level of IOP, CCT, the rapidity with which damage occurred if known and the age and general health of the patient. Greater age is associated with a higher likelihood of rapid progression, but a shorter life expectancy may also influence management.
+
+Therapy should maintain the IOP at or below the target level. If not achievable by conservative measures, a decision is made on whether to proceed to surgery or to continue monitoring with an above-target IOP. A reasonable initial goal is to reduce IOP to less than 18mmHg: This is based on the results of the Advanced Glaucoma Intervention Study (AGIS), which found that significant damage is sustained despite apparently good IOP control; surgery should be considered.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+Medical therapy Patients may deteriorate despite apparently good IOP control. Causes include occult adherence failure, undetected diurnal variation and possibly other mechanisms not readily detectable clinically such as impaired optic nerve perfusion: The possibility of an alternative pathology, particularly a compressive lesion, should always be considered in these circumstances.
+
+# Commencing medical therapy
+
+Any drug chosen should be prescribed in the lowest concentration consistent with the desired therapeutic effect and administered as infrequently as possible. Ideally the drug with the fewest potential side effects should be used. Initial treatment is usually with one type of medication, typically a prostaglandin analogue or beta-blocker.
+
+# Review
+
+The interval to review after starting medication is set according to the individual patient; but is usually 4-8 weeks. Response to the drug is assessed against the target IOP. If the response is satisfactory, subsequent assessment is generally set for a further 3-6 months. If there has been little or no response the initial drug is withdrawn and another substituted. If there has been an apparently incomplete response another drug may be added or a fixed combination substituted. When two separate drugs are used the patient should be instructed to wait 5 minutes before instilling the second drug to prevent washout of the first. Sometimes it may be worthwhile to allow a further month or two of treatment before altering a regimen, as response may improve over time.
+
+Inadequate drop instillation technique should be considered as a cause of unsatisfactory IOP response: adherence should always be borne in mind; if progression occurs despite excellent IOP readings at review assessments. When drops are administered in the morning, it is good practice always to ask whether that day's dose has been used prior to attendance.
+
+# Perimetry
+
+If IOP control is good and glaucomatous damage mild or moderate with no substantial threat to central vision, perimetry every 6-12 months is generally sufficient; Gonioscopy should be performed annually in most patients because the anterior chamber angle tends to narrow with age. Optic disc examination should be performed at each visit, as a disc haemorrhage may indicate ongoing damage: A new haemorrhage should be recorded pictorially, optimally by photography. Serial imaging is increasingly viewed as standard care.
+
+# Causes of treatment failure
+
+Inappropriate target pressure. If the IOP is maintained in the upper part of the statistically normal range, progressive field loss is relatively common: Poor adherence to the therapeutic regimen occurs in at least 25% of patients. Wide fluctuations in IOP are not uncommon in patients treated medically and are associated with a tendency to progression.
+
+# NORMAL-TENSION GLAUCOMA
+
+# Introduction
+
+NTG, also referred to as low-tension or normal-pressure glaucoma, is usually regarded as a variant of POAG. The distinction between NTG and POAG is based on an epidemiologically derived range of normal IOP. It is an arbitrary division that may not have significant clinical value, though it is possible that a spectrum exists in which, towards the NTG end, IOP-independent factors are of increasing relative importance. Depending on ethnic background, 30-65% of patients with open-angle glaucoma may have an IOP that is within the normal range on initial assessment.
+
+NTG is characterized by:
+
+- IOP consistently equal to or less than 21mmHg or diurnal testing:
+---
+# 368 Normal-Tension Glaucoma
+
+Signs of optic nerve damage in a characteristic glaucomatous pattern:
+
+- Visual field loss
+- An open anterior chamber angle.
+- No features of secondary glaucoma or a non-glaucomatous cause for the neuropathy.
+
+Race: NTG occurs more frequently in people of Japanese origin.
+
+Family history: The prevalence of POAG is greater in families of patients with NTG than in the normal population. Mutations coding for optineurin have been identified in the OPTN gene in patients with NTG, though also in patients with POAG.
+
+Patients with NTG than POAG. CCT is lower in patients with NTG.
+
+Pathogenesis: Aetiological factors distinct from those in POAG have not been conclusively determined, although various mechanisms have been postulated including anomalies of local and systemic vascular function, structural optic nerve anomalies, and autoimmune disease.
+
+With the introduction of widespread CCT assessment, patients can be explained by very low CCT: Overall, CCT in patients with NTG is lower than in POAG. A small proportion of NTG patients have been found to have marked nocturnal IOP spikes, sometimes only detected on testing in the supine position.
+
+The Early Manifest Glaucoma Treatment trial confirms that low blood pressure is a risk factor in patients with NTG. The duration and magnitude of decrease in nocturnal blood pressure below the daytime mean blood pressure predicts progression in NTG.
+
+# Risk factors
+
+- Age: Patients tend to be older than those with POAG, though this may be due to delayed diagnosis.
+- Gender: Some studies have found higher prevalence in females.
+
+Autoantibody levels have been found to be higher in some groups of NTG patients by some investigators.
+
+|Series1|Series2|
+|---|---|
+|2|15|
+|20|18|
+|17| |
+
+Fg- 11.29 24-hour blood pressure chart showing a nocturnal dip.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+Translaminar pressure gradient: This may on average be larger than in POAG. Ocular perfusion pressure may be relatively lower than in POAG. Myopia is associated with a greater likelihood of glaucoma and of its progression. Thyroid disease may be more common.
+
+# Differential diagnosis
+
+Angle closure should always be ruled out by meticulous dark-room gonioscopy. Low CCT leading to underestimation of IOP. It is possible that a thin posterior ocular wall may increase mechanical stress in the region of the lamina cribrosa. Prior refractive surgery and corneal ectasia also lead to falsely low IOP readings. POAG presenting with apparently normal IOP because of wide diurnal fluctuation. Plotting a diurnal IOP curve over an 8-hour period (phasing) during office hours may detect daytime elevation, but detection of nocturnal IOP spikes requires substantial resource commitment. Previous episodes of raised IOP may have occurred as a result of ocular trauma, uveitis or local or systemic steroid therapy: Masking by systemic treatment such as an oral beta-blocker, commenced after glaucomatous damage has already been sustained. Spontaneously resolved pigmentary glaucoma. The typical examination features of pigmentary glaucoma tend to become less evident with increasing age. The IOP in some cases of POAG may also spontaneously normalize over time. Progressive retinal nerve fibre defects not due to glaucoma such as may occur in myopic degeneration and optic disc drusen. Congenital disc anomalies simulating glaucomatous cupping, such as a disc pit or coloboma. Neurological lesions causing optic nerve or chiasmal compression can produce visual field defects that may be misinterpreted as glaucomatous and neuroimaging should be performed if there is any suspicion, particularly in young patients.
+
+# Clinical features
+
+History and examination are essentially the same as for POAG but specific points warrant attention:
+
+# History
+
+Migraine and Raynaud phenomenon: Episodes of shock. Head or eye injury: Headache and other neurological symptoms (intracranial lesion). Medication, e.g. systemic steroids, beta-blockers. IOP is usually in the high teens, but may rarely be in the low teens. In asymmetrical disease the more damaged disc typically corresponds to the eye with the higher IOP.
+
+# Optic nerve head
+
+The optic nerve head tends to be larger on average in NTG than in POAG (Fig: 11.30). The pattern of cupping is similar, but acquired optic disc pits and focal nerve fibre layer defects are more common. Peripapillary atrophic changes may be more prevalent. Splinter haemorrhages on the disc margin are more frequent than in POAG and are associated with a greater likelihood of progression. These are often missed if the disc is not photographed or is examined without magnification (see Fig: I.10A and B). Pallor disproportionate to cupping should prompt a suspicion of an alternative diagnosis:
+
+A
+
+B
+
+Fig: 11.30 Bilateral advanced glaucomatous damage in normal-tension glaucoma. (A) Right eye; (B) left eye
+---
+# Primary Angle-Closure Glaucoma
+
+Visual field defects are the same as in POAG although there is some evidence that they tend to be closer to fixation, deeper, steeper and more localized. In more than half of patients, field changes are progressive over a period of 5 years or more without treatment. However, perhaps because of delayed diagnosis, patients tend to present with more advanced damage than in POAG. A high level of suspicion for a deficit pattern suggesting a lesion posterior to the optic nerve is important.
+
+Other investigations are as for POAG although in selected patients the following can be considered:
+
+- Assessment of systemic vascular risk factors:
+- Blood pressure measurement can be used to calculate ocular perfusion pressure: 24-hour ambulatory monitoring will exclude nocturnal systemic hypotension in selected patients.
+- Blood tests for other causes of non-glaucomatous optic neuropathy such as vitamin B12, red cell folate, full blood count, erythrocyte sedimentation rate/C-reactive protein, treponemal serology including Lyme disease; serum angiotensin-converting enzyme level, plasma protein electrophoresis and autoantibody screen.
+
+Indications for neuroimaging in a patient with NTG:
+
+- Loss of VA of proportion to cupping
+- Loss of colour vision on Ishihara testing
+- Visual field loss not consistent with retinal nerve fibre layer drop-out
+- Pallor of the neuroretinal rim of the disc
+- Rapid progression despite normal pressure
+
+Carotid duplex imaging (e.g. laser flowmetry) may have useful clinical potential. Neuroprotective agents of proven benefit are not yet available. Memantine is used to retard neuronal death in some central nervous system (CNS) disorders, but has not been shown to be beneficial in glaucoma. Ginkgo biloba (40 mg three times daily) may confer some benefit in selected cases.
+
+# PRIMARY ANGLE-CLOSURE GLAUCOMA
+
+# Introduction
+
+The term 'angle closure' refers to occlusion of the trabecular meshwork by the peripheral iris (iridotrabecular contact ITC), obstructing aqueous outflow. Angle closure can be primary, when it occurs in an anatomically predisposed eye, or secondary to another ocular or systemic factor. PACG may be responsible for up to half of all cases of glaucoma globally and is particularly common in Asia. It progresses rapidly and is more likely to result in visual loss than POAG.
+
+# Gonioscopy
+
+In practice, the angle is graded by many practitioners simply according to the number of structures visible, together with qualifying comments relating to the width of the iris approach. The angle is usually narrowest superiorly. The main aims are to evaluate the functional status of the angle; the degree of closure and the risk of future closure.
+
+# Treatment
+
+A large proportion of untreated patients will not deteriorate (approximately 50% at 5-7 years), progression should be demonstrated before commencing treatment in most patients. Some cases of NTG progress rapidly than others and because further lowering of IOP is effective in reducing progression, treatment should be considered in patients with advanced glaucomatous damage, particularly if central vision is threatened and in those with a long life expectancy. Regular assessment including perimetry should be performed at 6-monthly intervals initially.
+
+Non-specific advice: Patients should be encouraged to take regular exercise. Yoga exercises that involve head-stands should be avoided. Prostaglandins usually prescribed as initial treatment. Brimonidine may have neuroprotective effect in addition to an IOP-lowering effect. Topical beta-blockers should be used with caution, particularly at bedtime.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+The Shaffer system records the angle in degrees between two imaginary lines tangential to the inner surface of the trabeculum and the anterior surface of the iris about one-third of the distance from its periphery. The system assigns a numerical grade to each quadrant of the angle.
+
+- Grade 4 (35-45°) is the widest angle, characteristic of myopia and pseudophakia. The ciliary body can be visualized without tilting the lens.
+- Grade 3 (25-35°) is an open angle in which the scleral spur is visible.
+- Grade 2 (20°) is an angle in which the trabeculum but not the scleral spur can be seen.
+- Grade 1 (10°) is a very narrow angle in which only the Schwalbe line and perhaps the top of the trabeculum can be identified.
+- Slit angle is one in which there is no obvious iridocorneal contact but no angle structures can be identified.
+- Grade 0 (0°) is closed due to iridocorneal contact.
+
+Indentation will distinguish appositional from synechial angle closure.
+
+# Other systems
+
+The Spaeth system is detailed but underused. It allows formal description of the position of iris insertion, the angular approach and peripheral iris curvature. The Scheie classification refers to the angle structures visible and allocates a Roman numeral accordingly. In contrast to common clinical use, in the original system a higher numeral (e.g: IV) actually signifies a narrower angle.
+
+# Classification
+
+Knowledge about the epidemiology and mechanisms of angle closure has increased, classification has moved away from a symptom-based approach (acute, subacute and chronic) to reflect the stages in the natural history of the disease. The scheme below has been suggested by a consensus group of the Association of International Glaucoma Societies:
+
+- Primary angle closure suspect (PACS) (Fig: 11.32A). Axial anterior chamber depth is less than normal. Because of the convexity of the iris-lens diaphragm, a crescentic shadow forms over the nasal iris when a light is projected across the anterior chamber from the temporal side (the 'eclipse' sign) (Fig: 11.32B).
+- Gonioscopy shows posterior meshwork ITC in three or quadrants but no peripheral anterior synechiae (PAS) more.
+- A lower threshold for diagnosis is used if gonioscopy reveals two quadrants of ITC and signs of intermittent closure, like pigment smudging (Fig: 11.32C).
+- Normal IOP, optic disc and visual field. No PAS.
+- Anterior segment OCT shows an occludable angle (Fig: 11.32D). The risk of developing angle-closure disease in individuals classified as PAC suspects is low. The ZAP study (a large community-based randomized controlled trial) shows an incidence rate of 8.0 per 1000 eye-years in untreated PACS (versus 4.2 per 1000 eye-years in those who had undergone laser PI).
+
+Fig: 11.31 Grading of angle width according to number of visible structures
+
+# Table 11.4 Van Herick Method for Anterior Chamber Angle Assessment
+
+|Anterior chamber depth as a proportion of corneal thickness|Description|Grade|Comment|
+|---|---|---|---|
+|≥1/2|Peripheral AC space equal to full corneal thickness or larger|4|Wide open|
+|1/4 - 1/2|Space between one-fourth and one-half corneal thickness|3|Incapable of closure|
+|1/4|Space equal to one-fourth corneal thickness|2|Should undergo gonioscopy|
+|&lt;1/4|Space less than one-fourth corneal thickness|1|Gonioscopy will usually demonstrate a dangerously narrowed angle|
+
+---
+# 372 Primary Angle-Closure Glaucoma
+
+Anele
+
+Fg.14.32 Primary angle closure suspect. (A) Shallow anterior chamber and a convex-shaped iris-lens diaphragm; (B) 'eclipse' sign (arrow) in an eye with a shallow anterior chamber Note the oval pupil; (C) gonioscopy Schwalbe line and part of the non-pigmented trabecular meshwork are visible; (D) very narrow angle on dark-room anterior segment OCT
+
+# Primary angle closure (PAC)
+
+Gonioscopy shows three or more quadrants of ITC associated with raised IOP and/or PAS; best evaluated using indentation gonioscopy (Fig: 11.33). Usually anatomically relieved by peripheral iridotomy, which equalizes anterior and posterior chamber pressure. Reduction of IOP will follow provided the angle has opened adequately. This may not occur if there are substantial PAS or an additional mechanism of angle closure is in effect:
+
+# Normal optic disc and field
+
+Some authorities further classify PAC into non-ischaemic and ischaemic, the latter showing anterior segment evidence of prior substantial IOP elevation such as iris changes or glaukomflecken (see below).
+
+# Primary angle-closure glaucoma (PACG)
+
+ITC in three or more quadrants; associated with glaucomatous optic neuropathy: Optic nerve damage from an episode of severe IOP elevation, such as acute angle closure, may not appear as typical glaucomatous cupping:
+
+# Mechanism
+
+The mechanisms involved in angle closure can be categorized according to the anatomical level (anterior to posterior) at which causative forces act. In many patients more than one level is contributory:
+
+# Relative pupillary block
+
+Failure of physiological aqueous flow through the pupil leads to pressure differential between the anterior and posterior chambers, with resultant anterior bowing of the iris (Fig: 11.34).
+
+# Non-pupillary block
+
+Thought to be important in many Asian patients. Associated with a deeper AC than found in those with pure pupillary block. Patients with non-pupillary block, particularly those with plateau iris, tend to be younger than those with pure pupillary block.
+
+An element of pupillary block is invariably present; but angle closure is not fully relieved by iridotomy: The term 'mixed mechanism' has been suggested to describe glaucoma in which both significant pupillary block and non-pupillary block mechanisms co-exist.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+A
+
+B
+
+Fig: 11.33 Primary angle closure on indentation gonioscopy: (A) Diagrammatic representation; (B) in a narrow angle showing inferior PAS (arrow)
+
+Specific anatomical causative factors include plateau iris secondary to anteriorly positioned/rotated ciliary processes (Fig: 11.354) and a thicker or more anteriorly positioned iris. The concept of a 'thick peripheral iris roll' has been introduced by some authorities. A thick peripheral iris may be relatively important in Asians (see Fig: 11.17).
+
+Plateau iris configuration is characterized by a flat or only slightly convex central iris plane, often in association with normal or only slightly shallow central anterior chamber depth (Fig: 11.35B). The angle recess is typically very narrow, with a sharp backward iris angulation over anteriorly positioned and/or orientated ciliary processes. A characteristic 'double hump' sign is seen on indentation gonioscopy, the central hump being due to the underlying central lens supporting the iris and the peripheral hump resulting from the underlying ciliary processes.
+
+Plateau iris syndrome describes the persistence of gonioscopic angle closure despite a patent iridotomy in a patient with morphological plateau iris. Factors such as a dark environment or pharmacological pupillary dilatation may be necessary to demonstrate the angle closure. It is divided into a complete form in which occlusion of the functional trabecular meshwork (TM) is present and the IOP is elevated and an incomplete form with occlusion to a lesser extent and normal IOP.
+
+Lens-induced angle closure: Angle closure that is predominantly lens-induced or due to a retrolenticular cause is often categorized as secondary (see below). This includes those cases in which a sudden change in position leads to an acute or subacute lens volume and/or IOP rise. Usually rapid progression of lens intumescence (phacomorphic glaucoma) or anterior lens subluxation: All cases of pupillary block have a phacomorphic element that increases with age as the lens thickens.
+
+Retrolenticular malignant glaucoma ('ciliolenticular block'). Posterior segment causes of secondary angle closure see below.
+
+'Combined mechanism' has been proposed as a formal label for the combination of angle-closure and open-angle elements. Reduced aqueous outflow in angle closure has been postulated to be caused by the following mechanisms in varying degree:
+
+- Appositional obstruction by the iris
+- Degeneration of the TM itself due to chronic or intermittent contact with the iris or damage sustained due to elevated IOP
+- Permanent occlusion of the TM by PAS. The prognosis for IOP control correlates well with the extent of PAS
+---
+G: 80 dB TGC: Dr: 2.445
+(CIGB IIS7 D}
+---
+# CHAPTER 11
+
+# Glaucoma
+
+Most patients with angle closure are asymptomatic, including most of those with intermittently or chronically elevated IOP.
+
+# Signs
+
+Acute primary angle closure (APAC), previously called acute glaucoma.
+
+VA is usually 6/60 to HM. The IOP is usually very high (50-80 mmHg).
+
+- Conjunctival hyperaemia with violaceous circumcorneal injection.
+- Corneal epithelial oedema (Fig: 11.364).
+- The AC is shallow and aqueous flare is usually present.
+- Non-reactive mid-dilated vertically oval pupil is classic (Fig: 11.36B).
+
+The fellow eye typically shows an occludable angle. If this is not present, secondary causes of angle closure should be considered.
+
+# Resolved APAC
+
+Early: low IOP (ciliary body shutdown and effect of intensive treatment), folds in Descemet membrane if IOP has reduced rapidly (Fig: 11.374), optic nerve head congestion, choroidal folds.
+
+Chronic presentation: VA is normal unless damage is advanced. The AC is usually shallower in relative pupillary block than non-pupillary block.
+
+IOP elevation may be only intermittent: gradual 'Creeping' angle closure is characterized by a band-like anterior advance of the apparent insertion of the iris. It starts in the deepest part of the angle superiorly and spreads circumferentially.
+
+Intermittent ITC may be associated with the formation of discrete PAS, individual lesions having a pyramidal 'Saw-tooth' appearance (see Fig: 11.33B).
+
+Optic nerve signs depend on the severity of damage.
+
+# Investigation
+
+Anterior segment OCT (AS-OCT see Fig: 11.16, ultrasound biomicroscopy) or Scheimpflug photography may be useful to supplement gonioscopic findings and for patient education.
+
+Anterior chamber depth measurement is helpful in some cases. Biometry if lens extraction is considered. Atypical posterior segment ultrasonography in cases to exclude causes of secondary angle closure.
+
+Provocative testing: This may aid decision-making in some circumstances, particularly when plateau iris syndrome is suspected.
+
+Pharmacological mydriasis is a poor discriminator and carries a small risk of precipitating APAC in susceptible patients without a patent iridotomy.
+
+Dark room/prone provocative test (DRPPT): the patient sits in a dark room, face down for 1 hour without sleeping (sleep induces miosis). The IOP is checked before and immediately after the test, as IOP can normalize very rapidly. An IOP rise of 8 mmHg or more is considered significant: Gonioscopy without indentation should be used to confirm closure of the angle. If the test is positive in a patient with a patent laser iridotomy, the underlying anatomical cause is usually plateau iris, which can be confirmed with an OCT scan. A positive response is abolished after lens extraction.
+
+# Fig: 11.36
+
+Acute (congestive) primary angle closure (A) Corneal epithelial oedema with numerous tiny epithelial cysts; (B) mid-dilated vertically oval pupil.
+---
+# 376 Primary Angle-Closure Glaucoma
+
+# Differential diagnosis of acute IOP elevation
+
+- Lens-induced angle closure due to swollen or subluxated lens
+- Malignant glaucoma (aqueous misdirection), especially if the patient has recently undergone intraocular surgery
+- Other causes of secondary angle closure with or without pupillary block
+- Neovascular glaucoma may occasionally cause the sudden onset of pain and congestion
+- Hypertensive uveitis, e.g., iridocyclitis with trabeculitis (particularly herpetic including cytomegalovirus), glaucomatocyclitic crisis (Posner-Schlossman syndrome)
+- Scleritis with or without angle closure
+- Pigment dispersion
+- Pseudoexfoliation
+- Orbital/retro-orbital lesions including orbital inflammation, hemorrhage, and carotid-cavernous fistula
+
+# Treatment
+
+# APAC
+
+# Initial treatment
+
+The patient should lie down in a supine position to encourage the lens to shift posteriorly under the influence of gravity.
+
+Acetazolamide 500 mg is given intravenously if IOP >50 mmHg and orally (not slow-release) if IOP <50 mmHg. Contraindications include sulfonamide allergy and angle closure secondary to topiramate or other sulfonamide derivatives.
+
+A single dose of apraclonidine 0.5% or 1%, timolol 0.5%, and prednisolone 1% or dexamethasone 0.1% is instilled into the affected eye, leaving 3-5 minutes between each.
+
+Pilocarpine 2% one drop to the affected eye, repeated after half an hour and one drop of 1% into the fellow eye. This should not be repeated if the IOP remains >40 mmHg; ischemia may compromise its action, may exert forward vector, and excessive dosing carries systemic toxicity risk.
+
+Analgesia and an antiemetic may be required.
+
+# Resistant cases
+
+Central corneal indentation with squint hook or indentation goniolens to force aqueous into the angle. Epithelial edema can be cleared first with topical 50% glycerol to improve visualization and to avoid abrasion.
+
+Mannitol 20% 1-2 g/kg intravenously over 1 hour; oral glycerol 50% 1 g/kg or oral isosorbide 1-1.5 g/kg having checked for contraindications.
+
+Fig: 11.37 Resolved acute primary angle closure. (A) Folds in Descemet membrane in post-congestive angle closure; (B) glaukomflecken, spiral-shaped atrophic iris, dilated pupil and posterior synechiae; (C) iris atrophy in post-congestive angle closure; (D) optic atrophy combined pallor and cupping.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+Fig: 11.38 (A) Gonioscopy showing total angle closure; (B) open angle following laser iridotomy (Courtesy of E Michael Van Buskirk, from Clinical Atlas of Glaucoma, WB Saunders, 1986)
+
+# Surgical options:
+
+peripheral iridectomy, lens extraction, goniosynechialysis, trabeculectomy and cyclodiode laser treatment.
+
+# Subsequent medical treatment
+
+Pilocarpine 2% four times daily to the affected eye and 1% four times daily to the fellow eye.
+
+Topical steroid (prednisolone 1% or dexamethasone 0.1%) four times daily if the eye is acutely inflamed.
+
+Any or all of the following should be continued according to response: timolol 0.5% twice daily, apraclonidine 1% three times daily and oral acetazolamide 250 mg four times daily.
+
+Bilateral laser iridotomy is performed once an attack has been broken, signified by a clear cornea and preferably normal IOP.
+
+Fig: 11.39 OCT showing (A) configuration of iris before laser PI; (B) after laser PI; (C) after lens extraction.
+
+Topical steroids are continued for at least a week.
+
+Gonioscopy needs to be repeated to ensure that the angle is open:
+
+Subsequent management is as for post-iridotomy chronic PACIPACG. A low threshold may be adopted for cataract surgery, particularly if a significant phacomorphic element is suspected. Trabeculectomy is occasionally necessary for persistent IOP elevation despite a successfully opened angle:
+
+# PACS
+
+Laser iridotomy (Fig: 11.38). The ZAP trial concludes that laser PI has a modest prophylactic effect, but should only be offered to those with the highest risk of developing PACG.
+
+If significant ITC persists after iridotomy, options include observation (most), laser iridoplasty and long-term pilocarpine prophylaxis, e.g: 1% twice daily. If symptomatic cataract is present, lens extraction usually opens the angle (Fig: 11.39).
+
+If IOP is elevated, then by definition PAC is present.
+
+# PAC and PACG
+
+Management is the same as that recommended for PACS, but with a lower threshold for further intervention if angle widening is inadequate after iridotomy, particularly if IOP remains elevated.
+
+The EAGLE study (Effectiveness of early lens extraction for the treatment of primary angle-closure glaucoma) concludes that clear lens extraction with IOL implantation shows greater efficacy and is more cost-effective than laser peripheral iridotomy in patients with primary angle closure and IOP >29 mmHg or in patients with primary angle-closure glaucoma.
+---
+# Classification of Secondary Glaucoma
+
+# GLAUCOMA
+
+# Open-angle
+
+Secondary open-angle glaucoma can be subdivided on the basis of the site of aqueous outflow obstruction.
+
+- Pre-trabecular; in which aqueous outflow is obstructed by a membrane covering the trabeculum (Fig: 11,40A), which may consist of:
+- - Fibrovascular tissue (neovascular glaucoma)
+- Endothelial cellular membranous proliferation (irido-corneal endothelial syndrome)
+- Epithelial cellular membranous proliferation (epithelial ingrowth)
+
+Trabecular; in which the obstruction occurs as a result of 'clogging up' of the meshwork (Fig: 11,40B) and secondary degenerative changes:
+
+# Closed angle
+
+With pupillary block (Fig: 11.40C)
+
+- Seclusio pupillae (360° posterior synechiae), usually secondary to recurrent iridocyclitis.
+- Subluxated lens:
+
+Without pupillary block (Fig: 11.40D)
+
+Secondary causes of PAS such as advanced neovascular glaucoma and chronic anterior uveitis.
+
+Fg. 11.40 Pathogenesis of secondary glaucoma. (A) Pre-trabecular obstruction; (B) trabecular obstruction; (C) angle closure with pupillary block; (D) angle closure without pupillary block.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+Cilio-choroidal effusion
+
+Capsular block syndrome without iris-capsule adhesion:
+
+Ciliary body/iris cyst or other ciliary body or posterior segment tumour.
+
+Contraction of retrolenticular fibrovascular tissue such as in proliferative vitreoretinopathy and retinopathy of prematurity.
+
+Malignant glaucoma (ciliolenticular block).
+
+# PSEUDOEXFOLIATION
+
+# Introduction
+
+Pseudoexfoliation syndrome (PXS) is an important ocular manifestation of a systemic disorder and is the commonest cause of secondary open-angle glaucoma. It is easily overlooked in the early stages, as the signs are not always obvious. It is rare before the age of 50 years, but the prevalence increases rapidly after the sixth decade of life, with a prevalence of 5% at age 75-85 years. It is more common in women than men and although the condition is found worldwide, the prevalence is highest in Scandinavia. Not all patients with PXS will develop glaucoma and there is no reliable method of determining which patients with the condition will subsequently develop optic disc damage: The incidence of glaucoma (PXG) at diagnosis of PXS is 15-30% and the cumulative risk of eyes with PXS requiring glaucoma treatment may be as high as 60% at 5 years. It should be distinguished from true capsular exfoliation, which occurs secondary to chronic infrared exposure (sometimes termed 'capsular glaucoma') and is usually due to elevated IOP secondary to trabecular obstruction by pseudoexfoliative material and liberated iris pigment leading to secondary degenerative outflow dysfunction. Curiously, despite the systemic nature of the condition and the fact that biopsy reveals subclinical pseudoexfoliative material in the apparently unaffected eye, glaucoma remains confined to one eye in about two-thirds of patients.
+
+# Clinical features
+
+Diagnosis is usually incidental, but can follow vision loss from advanced glaucoma:
+
+- Cornea: Pseudoexfoliative material may be deposited on the endothelium and scattered pigment deposits are common. A vertical (Krukenberg) spindle may rarely form, similar to that seen in pigment dispersion syndrome. Endothelial cell abnormality, such as low density, is more common than average.
+- Anterior chamber: Pseudoexfoliative material particles are sometimes seen: Mild aqueous flare from an impaired blood-aqueous barrier is common.
+- Iris: Granular pseudoexfoliative material deposits, pupillary ruff loss and patchy transillumination defects at the pupillary margin.
+- Lens: The anterior lens capsule typically shows a central disc and a radially indented peripheral layer of pseudoexfoliative material, separated by a clear zone maintained by pupillary abrasion. Peripheral capsular deposition is often visible only with pupillary dilatation. Deposits may be flaky, with scrolled edges. Cataract is more common in an eye with pseudoexfoliative material, probably because of reduced ascorbate levels in the aqueous: Phacodonesis (lens instability) due to zonular weakness may be present, but spontaneous subluxation is rare.
+
+# Pathogenesis
+
+Pseudoexfoliative material is a grey-white fibrillary substance deriving from abnormal extracellular matrix metabolism in ocular and other tissues. The material is deposited on various ocular structures including the lens capsule, zonular fibres, iris, trabeculum and conjunctiva. Pseudoexfoliative material has been found in skin and visceral organs, leading to the concept that PXS is the ocular manifestation of a systemic disorder: PXS is associated with an increased prevalence of high-tone hearing loss and cardiovascular disorders. The pathogenesis is multifactorial, but in some populations almost all patients with PXS have single nucleotide polymorphisms (SNPs) in the LOXL1 gene on chromosome 15, which codes for an enzyme that is involved in cross-linking of tropoelastin and collagen and is therefore important for the formation and maintenance of elastic fibres and extracellular matrix. However, these SNPs are common in the general population and most individuals with the SNPs do not develop PXS. Plasma and aqueous humour homocysteine levels tend to be higher than controls and inadequate dietary folate intake (folate reduces homocysteine) may be a risk factor.
+---
+# Pseudoexfoliation
+
+Fg: 11.42 Anterior segment signs in pseudoexfoliation syndrome: (A) Loss of the pupillary ruff and pseudoexfoliative material on the pupillary margin; (B) peripheral pseudoexfoliative material on the lens more obvious with pupil dilatation; (C) retroillumination; (D) gonioscopy showing patchy trabecular hyperpigmentation and a markedly irregular Sampaolesi line.
+
+# Anterior chamber angle:
+
+Patchy trabecular and Schwalbe line hyperpigmentation is common, especially inferiorly: the Sampaolesi line, which is an irregular band of pigment running on or anterior to the Schwalbe line; is commonly seen (Fig: 11.42D). It is not pathognomonic and can be found in pigment dispersion syndrome. Dandruff-like pseudoexfoliative material deposits may be seen.
+
+# Prognosis
+
+This is worse than POAG as the IOP is usually higher and may exhibit marked fluctuation. Severe damage may be present at diagnosis and can develop rapidly: In the long term, these patients are at significant risk of visual loss and blindness. It is therefore important to monitor closely and it may be prudent for review in patients with PXS to take place at intervals of no more than 6 months.
+
+# Treatment
+
+Medical treatment is similar to that of POAG, but failure is more common. Trabeculoplasty is more effective than in POAG, with mean IOP reduction around 13%. Care should be taken not to apply excessive energy, as trabecular pigmentation may confer higher absorption resulting in transient IOP spikes. A significant rise in IOP may occur approximately 2 years after SLT.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+Phacoemulsification alone may significantly lower IOP, though it may give better control combined with trabeculectomy. There is a high risk of complications, due to poor mydriasis, increased fragility of the zonules and lens capsule and endothelial deficiency. There is also an increased risk of postoperative IOP spike, postoperative corneal oedema, inflammation, capsular opacification, capsulorhexis contraction (capsular phimosis) and late IOL decentration or dislocation. Filtration surgery in PXG has a similar success rate to POAG. Trabecular aspiration alone seems to confer at least a short-term benefit and can be performed at the same time as other intraocular procedures.
+
+# PIGMENT DISPERSION SYNDROME AND PIGMENTARY GLAUCOMA
+
+# Introduction
+
+Pigment dispersion syndrome (PDS) is characterized by the liberation of pigment granules from iris pigment epithelium and their deposition throughout the anterior segment. Secondary pigmentary glaucoma (PG) is common: PDS and PG are more common in males, particularly young myopic white men. In Africans, where it is rare, the condition tends to affect older hypermetropic women. About 15% of patients with PDS will develop elevated IOP or glaucoma after 15 years. AD inheritance with incomplete penetrance seems to be present in at least some families and a range of genetic loci have been linked. Myopia is a risk factor for clinical manifestation, higher degrees of myopia being associated with earlier and more severe glaucoma. Secondary pigment dispersion can occur as a consequence of trauma, intraocular tumour and rubbing of a malpositioned IOL on the iris pigment epithelium.
+
+# Pathogenesis
+
+In primary PDS/PG, pigment shedding is precipitated by rubbing of the posterior pigment layer of the iris against the zonules as a result of excessive posterior bowing of the mid-peripheral portion of the iris. It is believed that an increase in anterior chamber pressure relative to the posterior chamber occurs due to reverse pupillary block, supported by the observation that peripheral iridotomy flattens the iris and decreases iridozonular contact. The pigment epithelium itself may be abnormally susceptible to shedding in affected individuals. Pigment shedding decreases from middle age onwards due to physiological changes resulting in decreased iridozonular contact. Acute IOP elevation can occur due to direct trabecular obstruction by released melanin granules. Chronic elevation appears to be caused by pigmentary obstruction of the intertrabecular spaces and damage to the trabeculum secondary to denudation, collapse and sclerosis. Patients with pigmentary glaucoma have an increased incidence of steroid responsiveness.
+
+# Diagnosis
+
+Presentation: PDS and PG are typically detected at a routine eye examination. The myopic individuals who tend to develop.
+
+# Fig: 11.43
+
+Ultrasound biomicroscopy in pigment dispersion syndrome. (A) Deep anterior chamber and posterior bowing of the peripheral iris; (B) flattening of the peripheral iris following laser iridotomy.
+---
+# 382 Pigment Dispersion Syndrome and Pigmentary Glaucoma
+
+Fg. 11.44 Pigment dispersion syndrome. (A) Krukenberg spindle (arrow); (B) radial spoke-like iris transillumination defects; (C) pigment granules on the iris surface and inferior loss of the pupillary ruff; (D) homogeneous band of trabecular hyperpigmentation.
+
+# Gonioscopy
+
+The angle is wide open and there is often a characteristic mid-peripheral iris concavity where the iris bows backwards. The trabecular meshwork is heavily pigmented in all four quadrants, with a dense homogeneous circumferential posterior meshwork band (Fig: 11.44D). Pigment may also be seen on or anterior to the Schwalbe line. Pigmentation of the angle typically reduces with increasing age.
+
+# Lens
+
+Pigment granules may be deposited on the anterior surface: There may be a line (Scheie stripe) or a (Zentmayer) ring of pigment on the peripheral equatorial surface around the zonular insertions.
+
+# IOP
+
+This may be volatile, some patients exhibiting higher levels and wider fluctuations of IOP than in POAG. Over time the control of IOP may become easier as pigment liberation decreases and occasionally the IOP may revert to normal in some cases. If the history confirms this, appropriate advice should be given to alter exercise behaviour.
+
+# Treatment
+
+Individuals with PDS should be reviewed annually to exclude the development of raised IOP and/or glaucomatous damage. If glaucomatous atrophy is present the patient should be monitored at 4-6-monthly intervals as the combination of myopia and PDS can result in rapid deterioration of visual function.
+
+Medical treatment is similar to that of POAG. Miotics are theoretically of benefit because they decrease iridozonular contact in addition to facilitating aqueous outflow but are poorly tolerated by younger patients. This medication has the disadvantage of exacerbating myopia and also carries the risk of precipitating retinal detachment in short-sighted eyes.
+
+Topical thymoxamine; selective alpha-adrenergic antagonist; induces miosis without causing spasm of accommodation, but is also poorly tolerated as it causes irritation.
+
+# Posterior segment
+
+Peripheral retinal pigmentation may be seen and lattice degeneration is more common than in myopic patients without PDS or PG. The incidence of retinal detachment may also be higher. Glaucomatous optic neuropathy is dependent on disease stage and extent and may be markedly affected.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+Laser trabeculoplasty is often effective. It is important not to over-treat eyes with heavily pigmented angles. To reduce the risk of an IOP spike, use the lowest laser setting and treat only two quadrants. Laser iridotomy has been proposed to retard pigment liberation by reversing iris concavity and eliminating iridozonular contact. It can reduce the risk of intermittent IOP spikes, especially in patients under the age of 40 years, but does not reduce the risk of developing glaucoma.
+
+Filtration surgery is indicated more commonly than in POAG. The use of adjunctive antimetabolites improves surgical outcome, particularly in younger patients in whom there is a risk of failure. Postsurgical hypotony and suprachoroidal haemorrhage are more common in young patients with myopia.
+
+# Acute bilateral iris pigment loss with raised IOP
+
+Bilateral acute depigmentation of the iris (BADI) and bilateral acute iris transillumination (BAIT) have recently been proposed as distinct idiopathic clinical syndromes involving pigment dispersal from the iris into the anterior chamber. They are said to be more common in young to middle-aged women, occurring spontaneously or following a flu-like illness and possibly after oral antibiotic treatment, especially moxifloxacin. It is possible that the primary process is inflammation, but there is evidence that the mechanism is phototoxicity following sensitization in predisposed individuals. Presentation is usually with acute bilateral ocular redness and photophobia. Both may be associated with an IOP rise, but this has been reported to be more severe and resistant in BAIT.
+
+Findings described in the two differ in that pigment is lost from the iris stroma in BADI and the iris pigment epithelium in BAIT, with marked iris transillumination defects and irregular mydriasis in the latter. It is possible that BADI and BAIT represent different points on a common disease spectrum. Differential diagnosis is principally from viral anterior uveitis and pigment dispersion syndrome.
+
+# Clinical features
+
+Symptoms vary from none to severe pain, decreased vision, redness and photophobia.
+
+Cornea: Elevated IOP, particularly when substantial and acute, leads to corneal oedema. IOP may be normal early in the disease process, but is frequently extremely high later on. The anterior segment will often be congested once progression to elevated IOP has occurred. In advanced disease hypotony may supervene.
+
+Anterior chamber: Flare, cells and posterior synechiae may be present, depending on severity and stage. Presentation is sometimes with anterior chamber haemorrhage.
+
+Pupillary margin: Subtle vessels at the pupillary margin are often an early sign, but may be missed unless the iris is examined carefully under high magnification. Diagnosis at this stage is likely to substantially improve the prognosis.
+
+Iris surface: New vessels grow radially over the surface of the iris towards the angle, sometimes joining dilated blood vessels at the collarette. At this stage the IOP may still be normal, but elevation can occur fairly acutely.
+
+Gonioscopy: Angle neovascularization may commonly occur without other signs, particularly after CRVO and it is important to perform careful non-mydriatic gonioscopy in eyes at risk. Early signs may be very subtle, even in the presence of moderate IOP elevation. Neovascular tissue proliferates across the face of the angle, forming an obstructing fibrovascular membrane that subsequently contracts to close the angle. The angle closes circumferentially leading to very high IOP, severe visual impairment, congestion of the globe and pain. The visual prognosis is generally poor by this stage, but aggressive management can achieve comfort and retain useful sight in some cases. Cataract is common once ischaemia is established.
+
+Posterior segment: Signs correspond to aetiology: Glaucomatous neuropathy may be present.
+
+# Investigations
+
+Fluorescein angiography may be helpful in confirming aetiology and delineating ischaemia.
+---
+# 384 Neovascular Glaucoma
+
+Fg: 11.45 Neovascular glaucoma: (A) Rubeosis and angle closure by PAS; (B) progressive synechial angle closure; (C) mild rubeosis iridis at pupil margin; (D) severe rubeosis iridis; (E) tube (arrow) with hyphaema; (F) blind eye showing dilated pupil, ectropion uvea and cataract in the presence of a tube (arrow) (Courtesy of J Harry and G Misson, from Clinical Ophthalmic Pathology; Butterworth-Heinemann 2001 fig- A)
+
+Ultrasonography will help to exclude potential causes such as RD or a tumour when the posterior segment view is impaired. Factors that predict a poor visual outcome include: young age, VA less than 6/60 and IOP >35 mmHg on presentation.
+
+Anterior segment OCT has been proposed as a useful tool for angle assessment: Review. Frequent review during high-risk periods is critical: following ischaemic CRVO and the first few months following diabetic vitrectomy.
+
+# Treatment
+
+It is critical to address the cause of the neovascularization as well as the elevated IOP. Appropriate management of systemic disease is also of key importance in order to reduce the risk to the fellow eye. Medical treatment of elevated IOP is for POAG but miotics should be avoided. Topical atropine 1% twice daily will resist synechiae formation, and increase the outflow.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+of aqueous through the uveoscleral route. Topical steroids are beneficial in the acute stage. Topical apraclonidine and oral acetazolamide may be useful temporizing measures. Acetazolamide can be associated with renal dysfunction in diabetes, especially type 1 and should be used with caution in these patients.
+
+Panretinal photocoagulation (PRP) is usually effective in inducing regression of neovascularization and, if performed early, preventing progression to glaucoma. It will not reverse an established fibrovascular membrane. The timing of PRP in CRVO is discussed in Chapter 13. If the retinal view is poor, indirect ophthalmoscopic application may provide better access, if necessary performed in the operating room with iris hooks to open a small pupil caused by posterior synechiae. Trans-scleral cryotherapy may be used in eyes with opaque media or as an adjunct for increasing peripheral retinal coverage.
+
+Intraocular VEGF inhibitors, eg. bevacizumab (Avastin dose of 1.25 mg in 0.05 ml), is effective adjunctive measure whilst waiting for PRP to take effect, particularly if fibrovascular angle closure has not yet supervened and usually leads to rapid pain relief. Intracameral (AC) injection is an alternative to the intravitreal route. The duration of control from a single injection is limited and most patients require ongoing injections. In patients with ischaemic CRVO treated in this manner, the onset of NVG can be delayed by up to 18 months. There is a small risk of central retinal artery occlusion in patients with ocular ischaemic syndrome.
+
+Retinal detachment repair should be performed once the IOP is controlled, particularly if there is a tractional detachment involving the macula.
+
+Ciliary body ablation: Cyclodiode should be considered if medical IOP control is not possible. These have conventionally been used only in eyes with poor visual potential, but can be employed if there is reasonable vision in order to prevent severe glaucomatous damage occurring whilst neovascularization is brought under control. Lowering a substantially raised IOP generally improves comfort and clearing corneal oedema may facilitate an adequate retinal view for PRP. Care should be taken not to use excessive treatment, which can lead to hypotony. Endoscopic cyclophotocoagulation is an alternative to trans-scleral treatment.
+
+Filtration surgery may be considered if VA is HM or better. Options include an artificial filtering shunt (glaucoma drainage device) and trabeculectomy with mini-shunt implantation, adjunctive mitomycin C and postoperative subconjunctival 5-fluorouracil. Active neovascularization and inflammation should be controlled preoperatively (including preoperative anti-VEGF treatment) to improve the chances of surgical success. Even with treatment, there is a relatively high risk of hypotony. Postoperative anti-inflammatory treatment should be aggressive and may include systemic steroids.
+
+Pars plana vitrectomy with peroperative endolaser at an early stage may improve the prognosis in eyes with vitreous haemorrhage, especially in CRVO. Preoperative intravitreal anti-VEGF may be of benefit. Retrobulbar alcohol injection is useful in pain but may cause permanent ptosis and does not relieve congestion. Enucleation or evisceration may be considered if all else fails.
+
+TIP The underlying cause of neovascular glaucoma needs to be determined and treated in order to reduce the risk of visual loss in the fellow eye and to increase life expectancy:
+
+# Prognosis
+
+Patient expectations need to be realistic and the best outcome is often a blind but comfortable eye. The prevalence of blindness in the affected eye varies from 25% to 50% depending on the length of follow-up. Life expectancy is reduced significantly in these patients (approximately 50% of expected lifespan). A good presenting VA in the affected eye is a useful predictor of longer life expectancy.
+
+# INFLAMMATORY GLAUCOMA
+
+# Introduction
+
+# Overview
+
+Elevation of IOP secondary to intraocular inflammation frequently presents a diagnostic and therapeutic challenge. The elevation of IOP may be transient and innocuous or persistent and severely damaging. The prevalence of secondary glaucoma increases with chronicity and severity of disease. Secondary glaucoma is particularly common in Fuchs uveitis syndrome and chronic anterior uveitis associated with juvenile idiopathic arthritis. Posterior uveitis is less likely to affect the aqueous outflow pathway and consequently less likely to lead to IOP elevation.
+
+# Diagnostic dilemmas
+
+Assessment of glaucomatous damage may be hampered by a small pupil or opacities in the media. Poor VA may also compromise accurate perimetry. IOP fluctuation may be dramatic in uveitic glaucoma and phasing may be helpful in patients with borderline IOP. Ciliary body shutdown caused by acute exacerbation of chronic anterior uveitis is frequently associated with lowering of IOP that may mask the underlying tendency to glaucoma. Even eyes with considerably elevated IOP (30-35 mmHg) may become hypotonous during acute exacerbations of uveitis. Return of ciliary body function with subsidence of uveitis may be associated with a rise in IOP in the presence of permanently compromised outflow facility. Topical steroids, when used intermittently, can cause a fluctuating IOP. Iris vessels may give rise to diagnostic confusion with neovascular glaucoma.
+---
+# 386 Inflammatory Glaucoma
+
+# Angle-closure glaucoma with pupillary block
+
+# Pathogenesis
+
+Secondary angle closure is caused by posterior synechiae extending for 360° (seclusio pupillae), which obstruct aqueous flow from the posterior to the anterior chamber (Fig: 11.464). The resultant increased pressure in the posterior chamber produces anterior bowing of the peripheral iris (iris bombe Fig: 11.46B) resulting in shallowing of the anterior chamber and apposition of the iris to the trabeculum and peripheral cornea (Fig: 11.46C). Such inflamed iris easily sticks to the trabeculum and the iridocorneal contact may become permanent, with the development of PAS.
+
+# Diagnosis
+
+Slitlamp biomicroscopy shows seclusio pupillae; iris bombe and a shallow anterior chamber: Gonioscopy shows angle closure from iridotrabecular contact: Indentation may be used to assess the extent of opposed to synechial angle closure.
+
+# Angle-closure glaucoma without pupillary block
+
+# Pathogenesis
+
+Chronic anterior uveitis causes the deposition of inflammatory cells and debris in the angle (Fig: 41,47A and B). Subsequent organization and contraction pull the peripheral iris over the trabeculum, causing gradual synechial angle closure (Fig: 11.47C) and eventual elevation of IOP. The eye with a pre-existing narrow angle may be at higher risk.
+
+# Diagnosis
+
+The anterior chamber is deep but gonioscopy shows extensive angle closure by PAS.
+
+# Open-angle glaucoma
+
+# In acute anterior uveitis
+
+In acute anterior uveitis the IOP is usually normal or subnormal due to concomitant ciliary shutdown: Occasionally, however, secondary open-angle glaucoma develops due to obstruction of aqueous outflow, most commonly as acute inflammation is subsiding and ciliary body function returning: This effect which is often transient and innocuous, may be steroid-induced or caused by a combination of the following mechanisms:
+
+# In chronic anterior uveitis
+
+Trabecular obstruction by inflammatory cells and debris, which may be associated with increased aqueous viscosity due to leakage of protein from inflamed iris blood vessels: Acute trabeculitis involving inflammation and oedema of the trabecular meshwork with secondary diminution of intertrabecular porosity may result in a reduction in outflow facility: It is thought that this is especially relevant in anterior uveitis associated with herpes zoster, herpes simplex, other viral anterior uveitides and toxoplasma retinitis. The importance of this mechanism is, however, difficult to determine as most eyes also have some degree of synechial angle closure: Because of the variable appearance of the angle on gonioscopy, definitive diagnosis of trabecular damage is difficult. In some eyes, a gelatinous exudate is seen on the trabeculum.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+Long-acting depot steroid preparations should not be used in known or suspected steroid-responders. The effect of ocular hypotensive drugs is less predictable in uveitis, eg. some cases may be unexpectedly sensitive to topical carbonic anhydrase inhibitors (CAI). A beta-blocker is usually the drug of first choice. Prostaglandin derivatives should be avoided if possible as they may promote inflammation and macular oedema. The choice of additional agents often depends on the IOP level. If this is very high, oral acetazolamide may be required. For moderate elevation (e.g: less than 35 mmHg on a beta-blocker) in the absence of significant glaucomatous damage, an alpha-adrenergic agonist or topical CAL might be adequate. Miotics are contraindicated as they increase vascular permeability and as miosis promotes the formation of posterior synechiae.
+
+# Laser iridotomy
+
+Laser iridotomy is performed to re-establish communication between the posterior and anterior chambers in eyes with pupillary-block angle-closure glaucoma. Aniridotomy is likely to become occluded in the presence of active uveitis and intensive topical steroid should be used following the laser. Correction of pupillary block alone may not control the IOP if there is insufficient exposed functional angle, though a patent iridotomy may retard progressive PAS formation. Surgical iridectomy is the definitive method of preventing further pupil block and may be required if laser fails to maintain a viable iridotomy.
+
+# Surgery
+
+# Preoperative preparation
+
+Control of chronic uveitis for a minimum of 3 months before surgery is ideal. Preoperative topical steroids should be used, not only as prophylaxis against recurrent inflammation but also to reduce the conjunctival inflammatory cell population.
+
+Fig: 11.47 Secondary angle closure without pupillary block: (A) Deposition of inflammatory cells in the angle; (B) goni- oscopy showing inflammatory debris; (C) synechial angle closure (saw-toothed PAS) (Courtesy of J Harry and G Misson, from Clinical Ophthalmic Pathology, Butterworth-Heinemann 2001 fig: A)
+
+In patients with particularly labile inflammatory disease oral prednisolone should be considered (0.5 mg/kg/day). Immunosuppressive treatment has improved the prognosis in recent years. Trabeculectomy with mitomycin C or the implantation of a long-tube implant can be used in these circumstances. Combined cataract and glaucoma surgery is relatively contraindicated, but may sometimes be performed in conjunction with goniosynechialysis; occasionally cataract surgery alone can be appropriate. In most cases cataract surgery should be deferred for at least 6 months after trabeculectomy.
+
+# Treatment
+
+# Medical
+
+Medical control of IOP is more likely to be achieved if the angle is completely open. The target IOP is lower in eyes with advanced glaucomatous optic neuropathy. This is particularly likely to occur if there has been a pronounced reduction in the IOP when acetazolamide is introduced.
+---
+# Steroid-Induced Glaucoma
+
+Following surgery; steroids are tapered more slowly than agents may also be beneficial. The benefit of antiviral treatment is unclear. Cyclodestructive procedures should be used with caution as they may exacerbate inflammation. Possible underlying ciliary body insufficiency also carries the risk of profound hypotony that may progress to phthisis bulbi.
+
+# Introduction
+
+Inappropriate use of topical steroids is a significant risk factor for the development of raised IOP and glaucoma. Around one in three individuals develop some degree of elevation of IOP in response to a course of potent topical steroid, dividing the population into 'steroid responders' and 'non-responders'. Responders are more likely than non-responders to develop secondary glaucoma, and a majority of patients with POAG are responders.
+
+# Posner-Schlossman syndrome (PSS)
+
+PSS (glaucomatocyclitic crisis) is a condition characterized by recurrent attacks of unilateral acute raised IOP associated with mild anterior uveitis. The mechanism is speculated to be acute trabeculitis and there is evidence that infection, possibly cytomegalovirus (CMV) or H. Pylori, may play a role. Prostaglandins are thought to play a role and particularly PGE2; where the aqueous levels positively correlate with IOP. The presence of HLA-Bw54 haplotype has been implicated in some cases. PSS typically affects young to middle-aged adults. Males are affected more frequently than females. Episodes are unilateral, although 50% of patients have involvement of the other eye at different times. The intervals between attacks vary, but usually become longer with time. Patients should be followed even after the attacks have completely subsided, because a significant proportion will develop chronic IOP elevation, with the fellow eye also at risk.
+
+# Diagnosis
+
+An acute IOP rise in PDS and demonstrable CMV or other viral anterior uveitis can present in an almost identical manner; the signs of the former may be atypical in older patients and those with dark irides. Simple IOP volatility in POAG, especially the juvenile variant, must also be distinguished. Presentation is with mild discomfort; haloes around lights and slight blurring of vision in one eye, sometimes redness. Slit lamp biomicroscopy typically shows a few anterior chamber cells and one or several fine white central keratic precipitates. Injection is likely to be absent or minimal. Mild corneal epithelial oedema is frequent. Mydriasis is common. Posterior synechiae are not a feature. IOP is typically raised to over 40mmHg out of proportion to iritis severity and untreated persists for hours to weeks. Elevation precedes the inflammatory signs. Gonioscopy shows an open angle without PAS. Glaucomatous optic neuropathy is relatively uncommon in most cases. Reversible cupping has been described.
+
+# Treatment
+
+Topical steroids are used to control inflammation, with aqueous suppressants to lower the IOP. Topical steroids should only be used while there is active inflammation and should not be used prophylactically. Discontinuation of the topical steroid is usually all that is required to reduce the IOP back to normal. In the acute form, this occurs within days and in the chronic form within 1-4 weeks. A less potent steroid drop can be prescribed, for example fluorometholone 0.1%, rimexolone 1% or loteprednol etabonate. In 3% of patients, elevated IOP may persist despite stopping all steroids. The duration of steroid therapy influences the reversibility of IOP elevation. This is usually seen in patients with a family history of glaucoma. Persistent IOP elevation should be managed with medication or glaucoma surgery. Steroid-induced raised IOP is unlikely to occur in the presence of an established bleb.
+
+TIP: In any patient with raised IOP who is using topical steroids, simply discontinuing the steroids will often result in a rapid reduction of IOP (thus identifying the patient as a 'steroid responder').
+---
+# CHAPTER 11
+
+# Glaucoma
+
+# LENS-RELATED GLAUCOMA
+
+# Phacolytic glaucoma
+
+Phacolytic glaucoma is a secondary open-angle glaucoma occurring in association with a hypermature cataract. Trabecular obstruction is caused by high molecular-weight lens proteins that leak through the intact capsule into the aqueous humour leading to trabecular obstruction. Macrophages containing lens proteins may also contribute (Fig: 11.48C). Phacolytic glaucoma should not be confused with phacogenic (previously phacoanaphylactic) uveitis, an autoimmune granulomatous reaction to exposed lens proteins occurring with a compromised lens capsule (see Ch: 12).
+
+# Diagnosis
+
+Presentation is with pain. Vision is poor due to cataract. Slit lamp biomicroscopy shows corneal oedema, a hypermature cataract and a deep anterior chamber. There may be large floating white particles in the AC, consisting of lens protein and protein-containing macrophages (Fig: 11.48B), which may impart a milky appearance to the aqueous if very dense.
+
+# Treatment
+
+After IOP is controlled medically, proteinaceous material is washed out from the anterior chamber and the cataract is removed. Care should be taken not to rupture the zonule, which is likely to be more fragile than usual.
+
+# Phacomorphic glaucoma
+
+# Pathogenesis
+
+Phacomorphic glaucoma is an acute secondary angle-closure glaucoma precipitated by an intumescent cataractous lens. Equatorial age-related growth of the lens slackens the suspensory ligament and allows the lens to move anteriorly. Associated anteroposterior growth leads to increased iridolenticular contact and potentiates pupillary block and iris bombe.
+
+# Figures
+
+Fig: 11.48 Phacolytic glaucoma: (A) Lens protein-containing macrophages in the angle; (B) hypermature cataract, lens protein-containing macrophages floating in the aqueous; (C) dense milky aqueous with pseudohypopyon; (D) residual particles in the anterior chamber following incomplete irrigation after complicated surgery (Courtesy of J Harry fig: A)
+---
+# 390 Traumatic Glaucoma
+
+# Diagnosis
+
+Dislocation may be into the AC; the zonules may be stretched or only part of the attachments may be disrupted so that the intact part acts as hinge and the lens may remain fully or partially in the posterior chamber: Vitreous herniation may be contributory:
+
+# Presentation
+
+Presentation is similar to acute PACG with shallow AC and mid-dilated pupil. A dense white cataract is evident (Fig: 11.49). The fellow eye may demonstrate deep AC and an open angle; phacomorphic glaucoma is more likely in eyes with a shorter axial length and shallower AC:
+
+A lens fully or partially dislocated into the anterior chamber will usually be evident (Fig: 11.50). Acute pupillary block will cause sudden severe elevation of IOP with associated visual impairment: Imaging such as ultrasound biomicroscopy may be diagnostic.
+
+# Treatment
+
+Medical treatment is initially similar to that of acute PACG. Miotics are omitted as they tend to increase iris-lens apposition and shift the lens anteriorly: Dilatation is sometimes helpful but should be implemented with caution:
+
+Systemic hyperosmotic agents may be required more commonly than in PACG. Laser iridotomy may be worthwhile but is often not possible (due to corneal oedema or lens-cornea proximity) or ineffective. A similar procedure should be considered for the fellow eye:
+
+Laser iridoplasty may be useful as a temporizing measure. Cataract extraction constitutes the definitive treatment; ideally once the IOP has been normalized and the eye is quiet. The surgery can be difficult and carries higher risk of complications:
+
+The IOP is initially reduced with osmotic agents, which reduce vitreous volume. Treatment should be urgent as prolonged lenticulocorneal contact, particularly in the presence of high IOP, may cause permanent endothelial damage:
+
+Initial treatment: The patient should adopt a supine posture with the pupil dilated, to attempt to reposition the lens in the posterior chamber; following which miotic can be used with caution. Bilateral laser iridotomy may provide extended control in some cases; but lens extraction may be necessary:
+
+# Pupillary block from disruption of lens position
+
+# Causes
+
+Blunt ocular trauma even if relatively trivial may result in lens dislocation in cysts with a weak zonule as in pseudoexfoliation and homocystinuria. Congenitally small lens (microspherophakia), e.g., Weill-Marchesani syndrome.
+
+# Hyphaema
+
+Introduction: In a patient with traumatic hyphaema which is usually small and innocuous and transient; IOP elevation may still result from trabecular obstruction by red blood cells. The size of a hyphaema is a useful indicator of visual prognosis and risk of complications.
+
+Hyphaema involving less than half the anterior chamber is associated with a 20% incidence of complications and a final VA of better than 6/18 in 80% of eyes (Fig: 11.514). However; a hyphaema may still present risks.
+
+Fig: 11.49 Intumescent cataract, shallow anterior chamber; dilated pupil and corneal oedema in phacomorphic glaucoma.
+
+Fig: 11.50 Traumatic dislocation into the anterior chamber of a normal size lens.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+involving more than half the anterior chamber is associated with an 80% incidence of complications and a final VA of better than 6/18 in only one third (Fig: 11.51B). The visual prognosis is determined mainly by the extent of injury to the retina sustained at the time of the original injury. Severe and prolonged elevation of IOP may cause corneal blood staining and damage to the optic nerve. A protective eye shield should be worn.
+
+The optic nerve is endangered by IOP of greater than 50 mmHg. Secondary haemorrhage, often more severe than the primary bleed, may develop within 3-5 days of the initial injury and is associated with a reduced visual outcome. Patients with sickle-cell haemoglobinopathy are at increased risk of complications, especially IOP elevation due to trabecular meshwork obstruction by deformed red cells and vascular occlusion.
+
+# Treatment
+
+# General
+
+Coagulation abnormality, particularly haemoglobinopathy, should be excluded. Any current anticoagulant medication should be discontinued after liaison with a general physician to assess the risk. NSAIDs should not be used for analgesia. Likewise, specialist advice should be sought regarding the management of a patient with a haemoglobinopathy, particularly before administering high-risk medication.
+
+Topical prostaglandins, beta-blockers and/or a topical or systemic CAI is administered, depending on the IOP. CAI should not be used in sickle haemoglobinopathies. Miotics should also be avoided as they may increase pupillary block and disrupt the blood-aqueous barrier. Occasionally a hyperosmotic agent is needed, though as with CAI and alpha-agonists a high threshold is adopted in sickle patients.
+
+Topical steroids should be used since they reduce the risk of secondary haemorrhage and suppress inflammation. Atropine is often recommended in patients with a large hyphaema to achieve constant mydriasis and to reduce the chance of secondary haemorrhage. Antifibrinolysis with systemic aminocaproic acid (ACA) or tranexamic acid may be considered under higher-risk circumstances such as recurrent bleeding.
+
+Laser photocoagulation of angle bleeding points via a gonio-prism has been described, though gonioscopy should probably be deferred for 5-6 days post-injury. Anterior chamber paracentesis or surgical evacuation of blood is required in around 5%. Indications for surgery include a total hyphaema, an IOP of >50 mmHg for 2 days or an IOP >35 mmHg for 5 days. Surgical intervention reduces the risk of permanent corneal staining and optic atrophy and prevents the occult development of peripheral anterior synechiae and chronic secondary glaucoma. Particular vigilance is required in patients with sickle-cell anaemia (even moderate pressure elevation can lead to optic atrophy), patients with prior glaucomatous optic neuropathy and in young children with a risk of amblyopia. A glaucoma filtration procedure may be necessary in some cases.
+
+On discharge, the patient should be advised to avoid any activity with a risk of even minor eye trauma for several weeks. Symptoms of a rebleed should prompt immediate review.
+
+# Angle recession glaucoma
+
+# Introduction
+
+Angle recession involves rupture of the face of the ciliary body, the portion between the iris root and the scleral spur, due to blunt trauma. Although a large percentage of eyes with traumatic hyphaema exhibit some degree of angle recession, glaucoma only develops in less than 10% after 10 years. The rise in IOP is secondary to associated trabecular damage rather than from angle recession itself. However, the risk of glaucoma is directly related to the extent of angle recession and is unlikely to follow if less than three quadrants are recessed.
+
+# Fig: 11.51
+
+Hyphaema. (A) Small with low risk of raised IOP; (B) secondary haemorrhage with raised IOP and increased risk of glaucoma.
+---
+# 392 Iridocorneal Endothelial Syndrome
+
+# Diagnosis
+
+When cataract surgery is complicated by a vitreous haemorrhage and hyphaema. The hyphaema clears but the red cells in the vitreous persist and evolve into ghost cells.
+
+# Clinical features
+
+The cornea may be oedematous due to elevated IOP. The anterior chamber exhibits ghost cells, which may be recognized as reddish-brown khaki particles in the aqueous. They should not be confused with leucocytes, since this may result in unwarranted treatment for uveitis:
+
+# Treatment
+
+Follow-up: Individuals with more than two quadrants of angle recession should have their IOP checked on a yearly basis. They should be reassured that their risk of developing secondary glaucoma is low.
+
+Medical treatment is as for other types of secondary open-angle glaucoma but is frequently unsatisfactory: Laser trabeculoplasty is of no benefit. Trabeculectomy with adjunctive antimetabolite is generally effective. An artificial filtering shunt or cyclodiode should be considered if trabeculectomy fails.
+
+# GHOST CELL 'GLAUCOMA'
+
+# Pathogenesis
+
+Ghost cell 'glaucoma' is due to trabecular obstruction by degenerating erythrocytes, which causes raised IOP and, rarely, glaucoma. Approximately 2 weeks after a vitreous haemorrhage, haemoglobin leaks from the erythrocytes, which evolve into ghost cells. These then pass through a defect in the anterior hyaloid face and into the anterior chamber. Because their pliability is lost, the cells become entrapped within the pores of the trabecular meshwork and obstruct aqueous outflow. The condition may occur in the following settings:
+
+- Cataract surgery in the context of pre-existing vitreous haemorrhage
+- Vitreous haemorrhage in an already aphakic or pseudophakic eye
+
+Glaucoma is due to trabecular obstruction by proliferating tissue followed by angle closure secondary to contraction. Polymerase chain reaction (PCR) testing shows the presence of herpes simplex virus DNA in a substantial percentage of ICE syndrome corneal specimens, suggesting a possible viral aetiology.
+
+# Diagnosis
+
+Clear differentiation between the three presentations may be difficult. Apparent transition from one to another has been reported. Differentiation depends primarily on iris appearance; but there is often substantial overlap. Gonioscopically visible changes in some patients may be subtle despite elevated IOP, particularly in early disease. The specular microscopic appearance is characteristic.
+
+Chandler syndrome is the most common clinical presentation and is characterized by an abnormal corneal endothelial appearance said to resemble hammered silver. It frequently presents with blurred vision and haloes due to corneal oedema. Iris atrophy is absent in about 60% and in the remainder is variable in severity. Corectopia is mild-moderate when present. When glaucoma occurs, it is usually less severe than in the other two presentations.
+
+# Figures
+
+Fig; 11.52 Gonioscopy of angle recession showing irregular widening of the ciliary body band (Courtesy of R Curtis)
+
+Progressive (essential) iris atrophy is characterized by iris changes including corectopia (pupil malposition), iris atrophy in the early stage, pseudopolycoria.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+Fig: 11.53 Chandler syndrome. (A) 'Hammered silver' endothelial changes; (B) corneal oedema due to endothelial decompensation (Courtesy of J McAllister fig: B)
+
+Fig: 11.54 Iridocorneal endothelial syndrome. (A) Corectopia; (B) iris atrophy; (C) pseudopolycoria; (D) gonioscopy showing broad peripheral synechiae; (E) progressive iris atrophy with pseudopolycoria; (F) transillumination of eye in (E) (Courtesy of C Barry fig: A)
+---
+# 394 Glaucoma Secondary to Epithelial Ingrowth
+
+(supernumerary false pupil Fig: 1.54C) and broad-based PAS that often extend anterior to the Schwalbe line (Fig: 1L.54D). Severe iris atrophy occurs in the late stage and is associated with ectropion uveae and severe glaucoma (Fig 11.54E and F). (Cogan-Reese) syndrome is characterized by either a diffuse naevus that covers the anterior iris, or by iris nodules (Fig: 11.55). Iris atrophy is absent in 50% of cases and in the remainder; it is usually mild-moderate; although corectopia may be severe: The appearance may be mimicked by a diffuse iris melanoma.
+
+# Treatment
+
+Medical treatment of glaucoma is usually ineffective. Trabeculectomy with mitomycin C can be tried, but the long-term results are poor. Glaucoma drainage device laser may be required.
+
+# Prognosis
+
+The long-term prognosis is poor.
+
+# GLAUCOMA ASSOCIATED WITH INTRAOCULAR TUMOURS
+
+Approximately 5% of eyes with intraocular tumours develop a secondary elevation of IOP. Potential mechanisms are set out below:
+
+- Trabecular block Distinction between different mechanisms may not be possible clinically: (Fig: 11.56A).
+- Angle invasion by a solid iris melanoma (Fig: 11.56B). Rarely, tumour from retinoblastoma may also invade the trabeculum.
+- Melanomalytic glaucoma may occur in some eyes with iris melanoma. It is due to trabecular blockage by macrophages that have ingested pigment and tumour cells, similar to phacolytic glaucoma.
+- Secondary angle closure Neovascular glaucoma is the most common mechanism in eyes with choroidal melanoma or retinoblastoma.
+- Anterior displacement of iris-lens diaphragm may occur in an eye with a ciliary body melanoma or a large tumour of the posterior segment (Fig: 11.56C).
+
+# GLAUCOMA SECONDARY TO EPITHELIAL INGROWTH
+
+# Introduction
+
+Epithelial ingrowth (downgrowth) is a rare but potentially blinding complication of anterior segment surgery or trauma, occurring when conjunctival or corneal epithelial cells migrate through a wound and proliferate in the anterior segment (Fig: 11.574). Elevation of IOP is due to trabecular obstruction by one or more of an epithelial membrane; secondary synechial angle.
+
+Fig; 11.55 Iris nodules in Cogan-Reese syndrome (Courtesy of R Martincova)
+
+Fig: 11.56 Glaucoma secondary to intraocular melanoma. (A) Angle invasion by solid iris melanoma; (B) melanoma cells infiltrating the trabeculum; (C) anterior displacement of the iris by a ciliary body melanoma (Courtesy of R Curtis fig: A; J Harry fig: B)
+---
+# CHAPTER 11
+
+# Glaucoma
+
+B
+
+Fig: 11.57 Diffuse epithelial ingrowth: (A) Stratified squamous epithelium lining the anterior iris surface and filtration angle; (B) translucent membrane with a scalloped border involving the posterior corneal surface (arrow); (C) cystic epithelial ingrowth after penetrating keratoplasty (Courtesy of J Harry and G Misson; from Clinical Ophthalmic Pathology, Butterworth-Heinemann 2001 fig: A)
+
+closure and desquamated epithelial and inflammatory cells.
+
+# IRIDOSCHISIS
+
+The associated glaucoma can be particularly intractable and the prognosis poor.
+
+# Diagnosis
+
+- Persistent postoperative anterior uveitis.
+- Diffuse epithelialization characterized by a greyish translucent membrane with a scalloped border that involves the posterior corneal surface in the area of a surgical or traumatic wound (Fig: 11.57B).
+- Cystic and fibrous proliferative patterns sometimes occur and tend to have a better prognosis (Fig: 11.57C).
+- Pupillary distortion:
+
+# Treatment
+
+The aim of treatment is the eradication of all invading epithelium to avoid recurrence.
+
+Block excision involves the simultaneous excision of adjacent iris and pars plicata of the ciliary body, together with all layers of the sclera and cornea in contact with the lesion: The resultant defect is covered with a tectonic corneoscleral graft. The area of iris involvement may be delineated by applying argon laser burns, which will cause whitening of the affected area.
+
+Cryotherapy may be applied to devitalize the epithelium remaining on the posterior surface of the cornea, in the angle and on the ciliary body. Intraocular air is used to insulate other tissues from the effects of the cryotherapy.
+
+Intracameral 5-fluorouracil has been tried with variable results. There is some evidence that intravitreal injections of methotrexate 400 mg/0.1 ml every 2 weeks for six cycles can lead to successful resolution of the ingrowth.
+
+Glaucoma drainage devices are of value for medically uncontrolled glaucoma associated with extensive epithelial ingrowth unsuitable for surgical excision.
+
+# PRIMARY CONGENITAL GLAUCOMA
+
+# Introduction
+
+Primary congenital glaucoma (PCG) is rare, with an incidence of 1: 10,000 in many populations. Boys are more commonly affected than girls in most surveys. Involvement is more often bilateral, but frequently asymmetrical. It can be classified as follows:
+
+- True congenital glaucoma (40%) in which IOP is elevated during intrauterine life.
+- Infantile glaucoma (55%) which manifests prior to age 3.
+- Juvenile glaucoma, the least common, in which IOP rises between 3 and 16 years of age.
+
+PCG is, by definition, not associated with other major ocular abnormalities. It is thought to be caused by impaired aqueous outflow due to maldevelopment of the anterior chamber angle (trabeculodysgenesis). It is usually sporadic; but approximately 10% are inherited in an autosomal recessive fashion with variable penetrance. Several genes have been implicated, prominently CYP1B2. The prognosis is dependent on severity and age at onset.
+---
+# 396 Primary Congenital Glaucoma
+
+Fig: 11.59 Buphthalmos. (A) Bilateral; (B) left eye only diagnosis. Secondary infantile glaucoma can be caused by a range of conditions including tumours such as retinoblastoma, persistent fetal vasculature (persistent hyperplastic primary vitreous) and uveitis:
+
+# Diagnosis
+
+Presentation usually occurs when corneal haze, large (Fig: 11.594) or asymmetrical eyes (Fig: 11.59B), watering photophobia or blepharospasm (Fig: 11.60) is noticed by parents or a health professional.
+
+Corneal haze (Fig: 11.614) is due to diffuse oedema secondary to raised IOP, or localized oedema due to breaks in Descemet membrane:
+
+Buphthalmos (Fig 11.61B) is a large eye as a result of stretching due to elevated IOP prior to the age of 3 years. The thinned sclera often appears blue due to increased visualization of the underlying uvea. Complications include myopia and lens subluxation.
+
+Fig: 11.58 Iridoschisis (A) Mild; (B) moderate; (C) severe. Haab striae (Fig 11.61C) are curvilinear healed breaks in Descemet membrane. Corneal scarring and vascularization (Fig: 11.61D). Optic disc cupping in infants may regress once IOP is normalized.
+
+# TIP
+
+Primary congenital glaucoma is always treated surgically as soon as the diagnosis has been confirmed. Evaluation under general anaesthesia is generally required: Intravenous ketamine lowers IOP less than other agents.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+397
+
+Fig. 11.60 Photophobia and blepharospasm in congenital glaucoma (Courtesy of U Raina)
+
+Fig: 11.61 Congenital glaucoma. (A) Corneal haze; (B) severe buphthalmos, worse in the right eye, which exhibits marked diffuse corneal oedema; (C) Haab striae; (D) corneal scarring and vascularization (Courtesy of M Parulekar fig: A; U Raina fig: D)
+---
+# 398 Primary Congenital Glaucoma
+
+Flg: 11.63 Goniotomy (white arrow shows the cleft; black arrow shows direction of needle) (Courtesy of M Papadopoulos)
+
+Flg: 14.62 (4) Normal infant angle showing the iris root, prominent ciliary body band but no discernible scleral spur flap is created (Fig: 11.644) and a Harms trabeculotome (Fig: 11.64B) is inserted into the Schlemm canal and rotated into the anterior chamber;
+
+A modification of trabeculotomy is used in some centres. An illuminated canaloplasty device is threaded into the Schlemm canal followed by a 6-0 Proline suture, which is then pulled into the anterior chamber thus opening 360% of the trabecular meshwork (Fig: 11.65). The postoperative IOP using this technique is approximately 5 mmHg lower at 2 years than that obtained with the traditional approach:
+
+Other procedures when angle surgery fails include trabeculectomy, tube shunt implantation and ciliary body ablative procedures:
+
+Monitoring of IOP, corneal diameter and other parameters is required long term:
+
+Amblyopia refractive error should be managed aggressively:
+
+Diagnosis
+
+Cloudy cornea
+
+Birth trauma.
+
+Rubella keratitis (congenital rubella is also associated with congenital glaucoma)
+
+Metabolic disorders such as mucopolysaccharidoses and mucolipidoses.
+
+Congenital hereditary endothelial dystrophy:
+
+Sclerocornea:
+
+Large cornea
+
+Megalocornea
+
+High myopia
+
+Epiphora
+
+Delayed/failed canalization of the nasolacrimal duct:
+
+Lacrimation secondary to ocular irritation, eg conjunctivitis, aberrant eyelashes, entropion:
+---
+# CHAPTER 11
+
+# Glaucoma
+
+# IRIDOCORNEAL DYSGENESIS
+
+# Posterior embryotoxon
+
+Posterior embryotoxon refers to a prominent and anteriorly displaced Schwalbe line, seen as a thin grey-white arcuate ridge adjacent to the limbus on the inner surface of the cornea (Fig: 11.66A). It is an innocuous isolated finding in up to 15% of the general population, but is one of the features of Axenfeld-Rieger syndrome, a multisystem genetic disorder. It is also seen in the Alagille anomaly syndrome, in which optic disc drusen are also common.
+
+# Introduction
+
+Axenfeld-Rieger syndrome is the umbrella term for a spectrum of disorders featuring bilateral developmental ocular anomalies: Axenfeld anomaly, Rieger anomaly, and Rieger syndrome. It is caused by defective neural crest cell-related processes during fetal development. An abnormal endothelial cell membrane has been identified on.
+
+# Figures
+
+Fig. 11.64 Trabeculotomy (see text) (Courtesy of K Nischal)
+
+Fig. 11.65 Modification of trabeculotomy using illuminated microcatheter (arrow) (Courtesy of M Papadopoulos)
+
+Fig. 11.66 Axenfeld anomaly: (A) Posterior embryotoxon; (B) gonioscopy showing strands of peripheral iris tissue extending to the cornea (Courtesy of Y Kerdraon fig: B)
+---
+# 400 Iridocorneal Dysgenesis
+
+- (A) Mild iris stromal hypoplasia;
+- (B) Severe iris stromal hypoplasia;
+- (C) Full-thickness iris hole with corectopia (in the right eye);
+- (D) Severe corectopia (in the left eye of the same patient);
+- (E) Gonioscopy showing peripheral anterior synechiae;
+- (F) Facial and dental anomalies (Courtesy of U Raina fig: F)
+---
+# CHAPTER 11
+
+# Glaucoma
+
+Anterior segment structures in some patients. The key implication of the syndrome is a 50% risk of glaucoma. Associated variants in several different genes have been found, including PITX2, PAX6, FOXC1, and RIEG2; that is, different genetic abnormalities can give a similar clinical picture. Cases may be sporadic, but a family history is common, when inheritance is autosomal dominant with variable expressivity but very high penetrance. There is no gender predilection.
+
+# Clinical features
+
+Axenfeld anomaly is characterized by posterior embryotoxon (see Fig: 11.66) with attached strands of peripheral iris, the latter best viewed with gonioscopy (Fig: 11.66B).
+
+Rieger anomaly often manifests with an anterior segment appearance similar to that of iridocorneal endothelial (ICE) syndrome:
+
+- Posterior embryotoxon.
+- Iris stromal hypoplasia (Fig: 11.67A and B).
+- Ectropion uveae.
+- Corectopia and full-thickness iris defects (Fig: 11.67C and D).
+
+Gonioscopy in mild cases shows the Axenfeld anomaly: In severe cases, broad leaves of iris adhere to the cornea anterior to the Schwalbe line (Fig: 11.67E).
+
+Glaucoma develops in about 50%, usually during childhood or early adulthood. Surgical management is often necessary.
+
+Rieger syndrome is characterized by the Rieger anomaly together with extraocular malformations that, as with the ocular features, are caused by defective neural crest cell-related tissue development:
+
+- Dental anomalies: hypodontia (few teeth) and microdontia (small teeth) (Fig: 11.67F).
+- Facial anomalies: maxillary hypoplasia, broad nasal bridge, telecanthus, and hypertelorism.
+- Other anomalies include redundant paraumbilical skin and hypospadias. Hearing loss, hydrocephalus, cardiac and renal anomalies, and congenital hip dislocation are rare.
+
+# Peters anomaly
+
+# Introduction
+
+Peters anomaly is a rare but often severe condition that is bilateral in more than half of cases. It is the result of defective neural crest cell migration during fetal development. Manifestations range from mild to severe. Most cases are sporadic, although autosomal recessive inheritance has been described.
+
+# Clinical features
+
+Peters type I affects the cornea alone, type II shows both corneal and lens abnormalities.
+
+- Central corneal opacity of variable density (Fig: 11.68A and B).
+- Posterior corneal defect involving the posterior stroma, Descemet membrane, and endothelium with or without iridocorneal or lenticulocorneal (Fig: 11.68C) adhesions.
+
+Glaucoma occurs in about 50% due to associated angle anomaly: Onset is usually in infancy but occasionally in childhood or later. The prognosis tends to be worse than in primary congenital glaucoma.
+---
+# 402 Iridocorneal Dysgenesis
+
+Systemic associations including craniofacial and central nervous system anomalies have been reported. 'Peters plus' syndrome includes a particular constellation of systemic abnormalities, includes about a third of patients. Children with sporadic aniridia have about a 50% chance of developing Wilms tumour; Gillespie syndrome accounts for only about 1% of cases.
+
+# Aniridia
+
+# Genetics
+
+Aniridia is a rare bilateral condition that may have life-threatening associations. It occurs as a result of abnormal neuroectodermal development secondary to a mutation in the PAX6 gene. PAX6 is adjacent to the gene WT1, mutation of which predisposes to Wilms tumour. Autosomal dominant aniridia accounts for about two-thirds of cases and has no complete penetrance (all patients with the genotype will have the phenotype) but expressivity (severity) is variable.
+
+# Diagnosis
+
+Patients with sporadic aniridia should have abdominal ultrasonography every 3 months until 5 years of age, every 6 months until 10 years of age, and annually until 16 years of age to detect the development of Wilms tumour or until molecular genetic analysis confirms the absence of a WT1 mutation. Presentation is typically at birth with nystagmus and photophobia. The parents may have noticed the absence of irides or apparently large pupils.
+
+Aniridia is variable in severity, ranging from minimal, detectable only by retroillumination, to total absence (Fig: 11.694 and B). Fig: 11.89 Aniridia: (A) Partial; (B) total; (C) gonioscopy in aniridia: open angle showing remnants of the iris root; (D) transillumination of pseudophakic eye showing silhouetted ciliary processes (Courtesy of R Curtis fig: C).
+---
+# CHAPTER 11
+
+# Glaucoma
+
+Lids often show meibomian gland dysfunction.
+
+# Cornea
+
+Tear film instability, dry eye and epithelial defects are common.
+
+Limbal stem cell deficiency may result in conjunctivalization of the peripheral cornea.
+
+Total corneal central stromal scarring and vascularization may occur in end-stage disease.
+
+# Fundus
+
+Possible abnormalities include foveal and/or optic nerve hypoplasia and choroidal coloboma.
+
+Gonioscopy even in eyes with apparently total aniridia usually shows a hypoplastic or rudimentary frill of iris tissue (Fig: 11.69C).
+
+Lens changes can include cataract and subluxation (Fig: 11.69D).
+
+Glaucoma (75%) usually presents in late childhood or adolescence. It is caused by synechial angle closure secondary to the contraction of rudimentary iris tissue. Treatment is difficult and the prognosis guarded.
+
+# Treatment
+
+# Glaucoma
+
+Medical treatment is usually inadequate:
+
+- Trabeculectomy with mitomycin or combined trabeculectomy-trabeculotomy have been tried in the past in Sturge-Weber syndrome but usually fail to control the IOP.
+- Glaucoma drainage devices offer the best chance of long-term successful control of IOP.
+- Diode laser cycloablation may be necessary if other modalities fail.
+
+Painted contact lenses may be used to create an artificial pupil and improve both vision and cosmesis. Simple tinted lenses are an alternative. Both may improve nystagmus.
+
+Lubricants are frequently required for associated keratopathy.
+
+Cataract surgery is often required. A tinted artificial lens implant may be used to try to improve photophobia. Trauma to the corneal limbus should be minimized in order to preserve stem cell function.
+
+Prosthetic iris implantation has been described in pseudophakic aniridic eyes, but may be complicated by, or worsen, glaucoma.
+
+Limbal stem cell transplantation with or without keratoplasty may be required.
+
+Refractive errors, amblyopia and squint should be managed aggressively.
+
+# GLAUCOMA IN PHACOMATOSES
+
+# Sturge-Weber syndrome
+
+# Introduction
+
+Sturge-Weber syndrome (encephalotrigeminal angiomatosis) is a congenital, sporadic phacomatosis (see Ch: 2). Glaucoma ipsilateral to the facial haemangioma develops in about 30% and in 60% of these IOP elevation occurs before the age of 2 years (Fig: 11.71). Neurofibromatosis type 1. (A) Left facial hemiatrophy and multiple neurofibromas; (B) congenital ectropion uveae.
+---
+# 404 Medical Treatment of Glaucoma
+
+The pathogenesis is uncertain but putative mechanisms include trabeculodysgenesis in infants and raised episcleral venous pressure associated with arteriovenous communication in an episcleral haemangioma (Fig: 11.70B) in older patients.
+
+# Treatment
+
+Medical treatment alone may be adequate for glaucoma because of the latter's potential for systemic side effects. Duration of action may extend for several days, though administration once every day (at bedtime) is generally recommended. Systemic side effects are few. The most commonly troublesome ocular side effect is conjunctival hyperaemia. If one prostaglandin fails to show adequate efficacy, inter-individual receptor variation means that an alternative preparation may be effective in a given patient. Paradoxically, the concomitant use of more than one PG can cause a rise in IOP.
+
+# Agents
+
+Latanoprost may cause fewer ocular adverse events than other PG agents and is often used first line. Approximately 5-10% of patients show no response (IOP reduction of less than 10%) to latanoprost but may respond to one of the other prostaglandins. Travoprost is similar to latanoprost but fewer patients tend to be non-respondents. Polyquade is a novel proprietary preservative introduced by a major pharmaceutical manufacturer in its travoprost formulation that may reduce ocular surface-related adverse effects. Bimatoprost 0.03% has a slightly greater IOP-lowering effect than latanoprost; but is more likely to cause conjunctival hyperaemia. A new 0.01% preparation has a comparable IOP-lowering effect to latanoprost with less hyperaemia. Preservative-free bimatoprost is available. Sustained-release intra-cameral bimatoprost is undergoing clinical evaluation and preliminary results indicate that IOP control can be achieved in up to 70% of subjects for 6 months with a single injection. Tadluprost is a relatively new prostaglandin derivative and was the first available in preservative-free form. Its IOP-lowering efficacy may be slightly less than that of other PG agents, but it is well tolerated and seems to cause less disruption of the ocular surface.
+
+# Side effects
+
+# Ocular
+
+Conjunctival hyperaemia is very common. Eyelash lengthening, thickening, and hyperpigmentation (Fig: 1L72A) and occasionally an increase in number: Irreversible iris hyperpigmentation (Fig: 1L.72B) occurs in up to a quarter of patients after 6 months. The highest incidence is in brown irides, less in green-t and yellow-brown irides and least in blue-grey/brown irides. It is caused by an increase in the number of pigmented granules within the superficial stroma rather than an increase in the number of melanocytes. Iris naevi and freckles are not affected. Hyperpigmentation of periocular skin is common but reversible (Fig: 1172C). Preoperative use of PG agents may increase the likelihood of cystoid macular oedema following cataract surgery. This is more likely to occur if PG agents are used in the postoperative period, particularly if there has been vitreous loss at the time of the surgery.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+Anterior uveitis is rare, but prostaglandins should be used with caution in inflamed eyes. Promotion of herpetic keratitis can occur, so prostaglandins should be used with caution in patients with a history of the condition. Systemic side effects include occasional headache, precipitation of migraine in susceptible individuals, malaise, myalgia, skin rash and mild upper respiratory tract symptoms.
+
+# Beta-blockers
+
+# Introduction
+
+Beta-blockers reduce IOP by decreasing aqueous production, mediated by an effect on the ciliary epithelium. A reduction of 21-27% from baseline can be expected in most patients. In approximately 10% of cases the response decreases with time (tachyphylaxis), sometimes within only a few days. There may be limited supplementary effect if a topical beta-blocker is prescribed for a patient who is already on a systemic beta-blocker: The combination may also increase the risk of systemic side effects. Beta-blockers should not be instilled at bedtime as this medication may cause a significant drop in blood pressure while the individual is asleep, thus reducing optic disc perfusion and potentially causing visual field deterioration. The IOP-lowering effect is also believed to be less marked during sleep, as nocturnal aqueous production is normally less than half the daytime rate. However, a beta-blocker may be preferred under some circumstances, such as monocular treatment to avoid the cosmetic disadvantage of the asymmetrical periocular skin darkening and/or conjunctival hyperaemia with prostaglandins. Beta-blockers are also preferred in conditions such as ocular inflammation and cystoid macular oedema, or where there is a history of herpes simplex keratitis.
+
+# Side effects
+
+Ocular: Ocular side effects are few but include allergy and punctate keratitis. Granulomatous uveitis has been reported with metipranolol.
+
+Systemic: Though severe problems are rare, deaths have been associated with topical beta-blocker use:
+
+- Bronchospasm: This may be fatal in asthma or other reversible airways disease and it is critical to exclude a history of asthma before prescribing a beta-blocker. About 1 in 50 patients without asthma will develop reversible airways disease requiring treatment within 12 months of commencing a topical beta-blocker.
+- Cardiovascular: There is a strong suggestion that cardiovascular mortality is higher in patients taking a topical beta-blocker: Effects include heart block, bradycardia, worsening of heart failure and hypotension, induction of the latter by topical beta-blocker having been reported as a common cause of falls in elderly patients. The pulse should be assessed before prescription. A peripheral vasoconstrictive effect means that they should be avoided in patients with peripheral vascular disease, including Raynaud phenomenon.
+
+Fig: 11.72 Side effects of topical medication. (A) Lengthening and hyperpigmentation of lashes with prostaglandin analogue treatment; (B) monocular prostaglandin analogue treatment darkening of left iris and eyelid skin; (C) periocular atrophy on the left; (D) blepharoconjunctivitis due to topical carbonic anhydrase inhibitors; (E) allergic conjunctivitis due to brimonidine; (F) iritis secondary to brimonidine, showing keratic precipitates.
+---
+# 406 Medical Treatment of Glaucoma
+
+Unpleasant but less severe side effects include sleep disorders; reduced exercise tolerance; hallucinations, confusion, depression, fatigue, headache; nausea, dizziness, decreased libido and dyslipidaemia.
+
+Alopecia is uncommon but is reversible on stopping the beta-blocker medication.
+
+TIP: Topical beta-blockers can cause asthma and heart block in predisposed individuals.
+
+# Agents
+
+Apraclonidine 1% (or 0.5%) is used principally to prevent or treat an acute rise in IOP following laser surgery on the anterior segment. The 0.5% concentration is typically used as a temporizing measure over the course of several weeks, such as awaiting glaucoma surgery: It is not suitable for long-term use because of a loss of therapeutic effect over weeks to months and a high incidence of topical side effects.
+
+# Topical Carbonic Anhydrase Inhibitors
+
+The CAI are chemically related to sulfonamide antibiotics: They lower IOP by inhibiting aqueous secretion and via the topical route are used three times daily as monotherapy or twice daily as adjunctive treatment. In general, they are slightly less effective than beta-blockers but may have supplementary neuroprotective effect. They precipitate corneal decompensation in patients with corneal endothelial dysfunction. Idiosyncratic bone marrow suppression can occur. Though cross-reaction is uncommon, topical (and systemic) CAI are relatively contraindicated in patients allergic to sulfonamide antibiotics. Research suggests that concomitant treatment with topical and systemic CAI does not usually give an additive effect.
+
+# Agents
+
+Dorzolamide: The main adverse effects are stinging and transient bitter taste following administration. Allergic blepharoconjunctivitis may occur, but is uncommon.
+
+Brinzolamide is similar to dorzolamide, but is less likely to cause stinging and local allergy; it is a suspension and white residue may be left on the eyelids after instillation if excess is not wiped away.
+
+# Alpha-2 Agonists
+
+Introduction: Ocular alpha-2 receptor stimulation decreases aqueous synthesis via an effect on the ciliary epithelium and increases uveoscleral outflow. There is probably a neuroprotective effect. This medication crosses the blood-brain barrier and should be used with caution in young children, in whom severe CNS depression and hypotension have been reported (contraindicated under the age of 2 years). They may potentiate vascular insufficiency: They should not be given with oral monoamine oxidase inhibitor antidepressants due to the risk of hypertensive crisis.
+
+# Agents
+
+Brimonidine 0.2% twice daily as a single agent generally has a slightly less marked IOP-lowering effect than timolol. Allergic conjunctivitis is common, but the onset may be delayed for up to 18 months after commencement of therapy. Granulomatous anterior uveitis can occur, but is rare. Systemic side effects include xerostomia and fatigue; the latter sometimes being severe.
+
+# Miotics
+
+Introduction: Miotics are cholinergic agonists that are predominantly used in the treatment of angle closure; though they were formerly the mainstay of the treatment of open-angle glaucoma. They can be useful in patients with pseudophakic or aphakic glaucoma. In angle-closure glaucoma, miotic-induced contraction of the sphincter pupillae pulls the peripheral iris away from the trabecular meshwork opening the angle: Miotics also reduce IOP by contraction of the ciliary muscle, which increases the facility of aqueous outflow through the trabecular meshwork. Local side effects include miosis; brow ache; myopic shift and exacerbation of the symptoms of cataract: Visual field defects appear denser and larger. Systemic side effects are rare; but include confusion, bradycardia, bronchospasm, gastrointestinal symptoms and urinary frequency.
+
+# Agents
+
+Pilocarpine 0.5%, 1%, 2%, or 4% solution as four times daily monotherapy is equal in efficacy to beta-blockers. Pilocarpine gel (Pilogele) 4% (discontinued in the UK in 2011) is instilled once daily at bedtime so that induced myopia and miosis are.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+predominantly confined to sleep: Gel, o drops twice daily, may be used to prevent angle closure following laser iridotomy in the presence of a substantial non-pupillary block element: Carbachol is an alternative to pilocarpine.
+
+# Combined preparations
+
+Combined preparations with similar ocular hypotensive effects to the sum of the individual components improve convenience and patient adherence. They are also more cost effective. Proprietary examples include:
+
+- Cosopto: timolol and dorzolamide, administered twice daily.
+- Xalacom: timolol and latanoprost once daily.
+- TimPilo: timolol and pilocarpine twice daily.
+- Combigan: timolol and brimonidine twice daily.
+- DuoTrave: timolol and travoprost once daily.
+- Ganfort: timolol and bimatoprost once daily.
+- Taptiqom: timolol and tafluprost once daily.
+- Azarga: timolol and brinzolamide twice daily.
+- Simbrinza: brimonidine and brinzolamide: a new combination (the only combination that does not contain the beta-blocker timolol) administered twice daily.
+
+# New topical medications
+
+Latanoprostene bunod 0.024% (Vyzulta) is a new FDA-approved topical medication that reduces IOP significantly. It has a dual mechanism of action: the latanoprost component increases outflow through the uveoscleral route and the butanediol mononitrate component undergoes further metabolism in the anterior chamber to produce nitric oxide, which has an effect on the trabecular meshwork leading to enhanced aqueous outflow. It is used once daily and reduces the IOP more effectively than latanoprost alone. It has similar side effects to other prostaglandins.
+
+# Agents
+
+Mannitol is given intravenously (1 g/kg body weight or 5 ml/kg body weight of a 20% solution in water) over 30-60 minutes, with a peak action within 30 minutes. Glycerol is an oral agent (1 g/kg body weight or 2 ml/kg body weight of a 50% solution) with a sweet and sickly taste and can be given with lemon (not orange) juice to avoid nausea. Peak action occurs within 1 hour. Glycerol is metabolized to glucose and careful monitoring with insulin cover may be required if administered to a (well-controlled only) diabetic patient. Isosorbide is a metabolically inert oral agent with a minty taste, using the same dose as glycerol. It may be safer for diabetic patients.
+
+# Systemic carbonic anhydrase inhibitors
+
+Systemically administered CAI are generally used for short-term treatment, particularly in patients with acute glaucoma. Because of their systemic side effects, long-term use is reserved for patients at high risk of visual loss. Sulfonamide ('sulfa') allergy is a relative contraindication:
+
+- Acetazolamide is available as 250 mg tablets (250-1000 mg daily in divided doses), sustained-release 250 mg capsules (250-500 mg daily) and 500 mg powder vials for injection (single dose, typically used in acute angle-closure glaucoma).
+
+# LASER TREATMENT OF GLAUCOMA
+
+# Laser trabeculoplasty
+
+Laser trabeculoplasty (LTP) involves the delivery of laser to the trabecular meshwork with the aim of enhancing aqueous outflow and thereby lowering IOP. Selective laser trabeculoplasty (SLT) has increased in popularity over recent years and is now widely performed.
+---
+# Laser Treatment of Glaucoma
+
+Overlap with those of SLT and there may also be mechanical opening of the trabecular spaces: As the TM sustains thermal damage; repeat treatment is of limited benefit and is infrequently performed. Complications include peripheral anterorsynechiae; acute elevation of IOP (should be monitored carefully over subsequent weeks in patients with severe glaucomatous damage), cystoid macular oedema and anterior uveitis (usually mild). There is concern that there may be an adverse effect on the outcome of subsequent filtration surgery: Micropulse laser trabeculoplasty (MLT) is a relatively new modality that uses extremely short duration pulses of laser to deliver thermal energy to the TM to stimulate cells without damage: Unlike SLT and ALT; there is no visible tissue reaction, a smaller area is targeted than in SLT (Fig: 11.73, right), limiting potential collateral effects on adjacent tissue: Initial results suggest benign safety profile with results comparable to other LTP forms.
+
+# Indications
+
+Type of glaucoma. LTP can be used in primary and secondary open-angle glaucoma (including primary, pseudoexfoliative and pigmentary) and can also be used in ocular hypertension.
+
+532 nm frequency-doubled, Q-switched Nd:YAG laser is used to selectively target melanin pigment in TM cells, leaving non-pigmented structures unscathed. It is probably similar in efficacy to medical monotherapy and argon laser trabeculoplasty (see below). The mechanism is incompletely understood, but possibly includes stimulation of TM cell division, macrophage and extracellular matrix recruitment. Laser application is made easier by broad targeted and treated area (Fig: 11.73, left), which may lead to more consistent results. Reported protocols (e-¹⁸⁰⁹ 3609 TM treatment) and results vary markedly, but IOP reductions of 10-40% can be expected after 6 months in responsive patients, with 25% being common. Probably around two-thirds of patients will achieve a reasonable IOP fall within 6 months of 180° TM treatment; in patients with ocular hypertension and early glaucoma approximately 80% will be drop-free and at target pressure at 3 years. The effects generally wane over time; but because there is no thermal tissue damage, treatment can be repeated with successful outcome even if initial treatment has been unsuccessful. The prior use of topical glaucoma medication does not seem to affect results.
+
+# Technique
+
+LTP is performed under topical anaesthesia. A drop of apraclonidine brimonidine is instilled 30-60 minutes pre-procedure with the aim of preventing or minimizing an early post-laser IOP rise. A similar drop is instilled post-procedure: Some practitioners instil a drop of pilocarpine prior to the procedure; particularly if the angle is not wide: There is likely to be greater potential for PAS formation in narrow angles, particularly with ALT and this should be borne in mind when considering a particular patient’s suitability for LTP. A goniolens is inserted with the mirror at the 12 o'clock position the inferior angle is visualized.
+
+ALT: initial settings are commonly 50 µm spot size, 0.1 duration and 700 mW power (range of 400-1200 mW, largely dependent on angle pigmentation). The aiming beam is focused at the junction of the pigmented and non-pigmented TM ensuring that the spot is round and has clear edge. The optimal reaction is a very light blanching or the appearance of a minute gas bubble. If the reaction is inadequate; the power is increased by 50-200 mW. Fifty burns are applied at regularly spaced intervals over 180° of the angle. Many practitioners apply initial treatment of the entire circumference, treating the other 180° if the initial response is unsatisfactory. Primary treatment of the entire circumference is associated with a higher risk of complications.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+IOP spikes Topical fluorometholone or prednisolone 0.5% four times daily for 1 week is prescribed post-laser: SLT: a common initial power setting is 0.8 mJ. As with ALT, this should be varied depending on angle pigmentation (range 0.3-1.0 mJ). The spot size and duration are fixed at 400 um and 3 ns respectively. The TM is brought into focus rather than the aiming beam: The beam is centred on the pigmented TM and then fired, an optimal reaction consisting of a few tiny ('champagne') bubbles with adjustment of the power higher or lower as required to achieve this. The number of burns applied is as for ALT: The total energy used for SLT is considerably less than for ALT and it is common not to prescribe any post-laser anti-inflammatory drops, though non-steroidal or weak steroid drops can be used if significant inflammation occurs.
+
+With practice it is possible to perform LTP by continually rotating the goniolens and applying each burn through the centre of the mirror: Using this technique, treatment of the entire inferior half of the angle is accomplished by first rotating the lens to one side (e.g. anticlockwise) by 90° whilst applying 25 shots, then returning to the 12 o'clock position before applying an additional 25 shots whilst rotating the lens to the opposite side (clockwise in this example).
+
+An IOP check should be performed 30-60 minutes after the laser to exclude a substantial early spike, with further IOP measurement, treatment and review as appropriate if this occurs, depending on each patient's risk profile: Medical glaucoma therapy is generally continued. Follow-up is dependent on the perceived level of risk (usually 1-2 weeks).
+
+A potent topical steroid (e.g: dexamethasone 0.1%) is prescribed post-procedure. Varying regimens have been described; with a limited evidence base for the optimal approach: Instillation every 10 minutes for a half hour followed by hourly for 6-8 hours immediately post-laser is commonly used and significantly reduces the risk of inflammation and posterior synechiae. Four times daily for 1 week is a reasonable subsequent regimen, particularly in patients with a slightly pigmented iris.
+
+The IOP should be checked 1-2 hours after the procedure to exclude an early spike. Routine review is usually at 1 or 2 weeks, with subsequent monitoring according to individual circumstances. Patients with marked glaucomatous damage may require extended ocular hypotensive cover and earlier review.
+
+# Laser iridotomy
+
+# Introduction
+
+Laser iridotomy is used principally in the treatment of primary angle closure, but may also be indicated in secondary angle closure with pupillary block. It is also sometimes performed in pigment dispersion syndrome, though its effectiveness in this scenario remains under investigation.
+
+# Technique
+
+A topical anaesthetic agent is instilled. Apraclonidine or brimonidine is given prophylactically as for LTP. The pupil is constricted with topical pilocarpine (e.g: one drop of 2%). A special iridotomy contact lens (e.g: Abraham Fig: 11.744, Volk MagPlus) is inserted. Many practitioners target a site under the upper eyelid between 11 and 10 o'clock (Fig: 11.74B), though some prefer 3 or 9 o'clock (Fig: 11.74C). The highest risk of monocular diplopia or glare occurs when an iridotomy is half-covered by the lid margin: Radially, the iridotomy should be located within the outer third in order to reduce the risk of damage to the crystalline lens.
+
+# Complications
+
+Bleeding occurs in around 50% but is usually mild and stops after only a few seconds. Persistent bleeding can be terminated by increasing contact lens pressure. IOP elevation is usually early and transient but occasionally persistent. Iritis, especially if excessive laser is applied post-laser or steroid therapy is inadequate, or in darker irides (including those due to prostaglandin derivative treatment). Corneal burns may occur if a contact lens is not used or if the AC is shallow, but these usually heal rapidly without sequelae.
+---
+# Laser Treatment of Glaucoma
+
+Flg. 11.74 Nd:YAG iridotomy: (A) Abraham lens; (B) appropriate iridotomy size in upper quadrant (arrow); (C) temporal iridotomy (arrow); (D) posterior synechiae due to laser-induced iritis.
+
+# Cataract
+
+Localized lens opacities occasionally develop at the treatment site: There is some evidence that age-related cataract formation may be accelerated by iridotomy. Dysphotopsia may occur regardless of the location, size of the iridotomy, or the amount of laser energy used, but usually settles without intervention.
+
+# Indications
+
+- Raised IOP in patients with poor vision.
+- Pain relief in a blind eye with raised IOP.
+- In patients with uncontrolled secondary glaucoma (e.g., vascular glaucoma or malignant glaucoma).
+- In patients where glaucoma filtration surgery is unlikely to be successful or technically difficult (e.g., in the presence of conjunctival scarring).
+
+# Diode Laser Cycloablation
+
+Diode laser ablation (cyclodiode) lowers IOP by destroying part of the secretory ciliary epithelium, thereby reducing aqueous secretion. More than one treatment session is commonly required for adequate IOP control because ciliary epithelium can regenerate.
+
+# Technique of Trans-scleral Cyclophotocoagulation
+
+Diode laser (810 nm wavelength) is applied to the ciliary processes using either a trans-scleral technique (trans-scleral cyclophotocoagulation; TS-CPC) or using an endoscope (ECP). In the past, it was used mainly in uncontrolled end-stage secondary glaucoma with minimal visual potential, mainly to control pain. However, its use in eyes with good vision, especially those with a poor prognosis for penetrating drainage surgery, has been well described over recent years.
+
+More than one treatment session is commonly required for adequate pressure control. Moderate post-procedure pain and anterior segment inflammation are common. A temporary IOP rise is not uncommon during the first few weeks. Serious complications are rare but include chronic hypotony, phthisis bulbi, suprachoroidal hemorrhage, corneal decompensation, and retinal detachment.
+
+A peribulbar anaesthetic is administered. Laser settings are 15-2 and 1500-2000 mW; the spot size is fixed. The power is adjusted over sequential shots until a 'popping' sound is heard and then reduced to just below that level. Approximately 12-24 burns are placed posteriorly to the limbus over 360°, avoiding the neurovascular bundles at 3 and 9 o'clock.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+A
+
+Fig: 11.76 Direct cycloablation of ciliary body (arrow)
+
+The power is titrated to achieve whitening and shrinkage of the ciliary processes by positioning the probe either closer or further from the processes (Fig: 11.76).
+
+# Post-procedural management as above
+
+# Complications
+
+Moderate post-procedural pain and anterior segment inflammation is common during the first few weeks.
+
+- Temporary IOP rise may occur
+- Visual reduction in 6-13% of patients.
+- Conjunctival burn may rarely be a consequence of TS-CPC if the eye becomes dry during the procedure or in the presence of subconjunctival blood.
+- Fibrinous uveitis, hyphaema and cystoid macular oedema may follow ECP in approximately 10% of cases.
+- Serious complications are rare and include chronic hypotony, phthisis bulbi, suprachoroidal haemorrhage and serous retinal detachment.
+- There are single reports of scleritis and sympathetic ophthalmitis following this treatment.
+
+B
+
+Fig: 11.75 (A) Diode laser cycloablation; (B) close up of cyclodiode probe during laser application
+
+Fewer shots (e.g. treatment of only one or two quadrants) can be used for eyes with good vision, in order to reduce the risk of complications. However, more treatment sessions are likely to be required using this approach.
+
+# Laser iridoplasty
+
+Laser iridoplasty is performed to widen the anterior chamber angle by contraction of the peripheral iris away from the angle recess (Fig: 11.77A). It can be used to attempt to break an episode of acute angle closure, but is more commonly applied on an elective basis, for example in plateau iris syndrome (Fig: 11.77B and C):
+
+Complications tend to be mild, but heavy treatment can be associated with a substantial and persistent IOP spike that may be potentiated by heavy iris pigmentation. Altered accommodation is fairly common but almost always transient.
+
+# Technique of endo-cyclophotocoagulation
+
+A topical anaesthetic is instilled. A sub-Tenon or peribulbar anaesthetic is administered. One drop each of 1% pilocarpine and 1% apraclonidine is instilled.
+
+Laser settings: 0.2W, continuous wave.
+
+The probe can be inserted either at the limbus or through the pars plana. In the limbal approach, a cohesive viscoelastic is placed behind the iris and anterior to the lens to deepen the ciliary sulcus space. In a pseudophakic eye, a pars plana approach is preferable.
+
+Three to four quadrants are treated.
+
+Post-procedure, 1% apraclonidine is given (oral prophylaxis e.g. acetazolamide may be given if significant glaucomatous neuropathy is present).
+---
+# 412 Trabeculectomy
+
+# Trabeculectomy principles
+
+(A) Pathway of aqueous egress following trabeculectomy; (B) schematic representation of appearance from inside the eye following completion
+
+# Indications
+
+- Failure of conservative therapy to achieve adequate IOP control:
+- - Progressive deterioration despite seemingly adequate IOP control (including poor adherence to the recommended medical regimen)
+
+Primary therapy - Advanced disease requiring a very low target pressure may achieve superior long-term outcome from early surgery, particularly in younger patients:
+- Patient preference: Occasionally patients express a strong desire to be free of the commitment to chronic medical treatment
+
+# Technique
+
+Numerous modifications are in use. The following description relates predominantly to the classical procedure. By placing the incisions at 12 o'clock there is less likelihood of bleb dysesthesia to allow aqueous outflow from the anterior chamber to the sub-Tenon space (Fig: 11.78).
+
+The pupil is constricted preoperatively (e.g., pilocarpine 2%). A bridle suture is inserted (commonly superior cornea superior rectus muscle):
+
+# Medications
+
+Topical ketorolac, prednisolone 1% or dexamethasone 0.1% four times daily for a week is common regimen:
+
+Review is typically 1-2 hours post-laser, then after a week and subsequently depending on progress and glaucomatous damage patients with significant glaucomatous neuropathy may need frequent review for the first few weeks to exclude an IOP spike:
+---
+# CHAPTER 11
+
+# Glaucoma
+
+limbal or fornix-based flap of conjunctiva and Tenon capsule is fashioned superiorly. Episcleral tissue is cleared and major vessels cauterized. Incisions are made through about 50% of scleral thickness, to create a 'trapdoor' lamellar scleral flap (Fig: 11.794). This flap may be rectangular (3 X 3-4 mm), trapezoidal or triangular; according to preference. The superficial flap is dissected forwards until clear cornea is reached (Fig: 11.79B). A paracentesis is made in temporal peripheral clear cornea. The AC is entered along most of the width of the trapdoor base. Deep sclera is excised, usually using punch (e.g: Kelly = Fig: 11.79C).
+
+A peripheral iridectomy is created to prevent blockage of the internal sclerostomy (Fig: 11.79D). Some surgeons omit this step in pseudophakic eyes, but there remains a small risk of iris prolapse into the sclerostomy site if that option is adopted. The superficial scleral flap is sutured at its posterior corners, either so that it is lightly opposed to the underlying bed or tightly closed with releasable or lysable sutures to reduce the risk of postoperative leakage. Some surgeons insert a suture into each of the radial edges to reduce the risk of a substantial lateral leak (Fig: 11.79E).
+
+Balanced salt solution is injected through the paracentesis to deepen the anterior chamber and to test the patency of the fistula (Fig: 11.79E). Conjunctiva/Tenon capsule flap is sutured. Irrigation through the paracentesis is repeated to produce a bleb, which is checked for leakage. A drop of atropine 1% is instilled. When no iridectomy has been performed, pilocarpine 2% may be used instead (Fig: 11.79F). Steroid and antibiotic are injected under the inferior conjunctiva.
+
+Steroid and antibiotic drops are used four times daily for 2 weeks and then changed to steroid alone for a further 8-12 weeks.
+
+# Ex-PressTm mini-shunt
+
+This is a valveless titanium MRI-compatible stent inserted under a scleral flap during a modified trabeculectomy, with a principal aim of standardization of drainage (Fig: 11.80). Following creation of the scleral flap as for a standard trabeculectomy, a needle is used to enter the anterior chamber instead of creating a punch sclerostomy. A peripheral iridectomy is not performed. The rate of complications such as hypotony and hyphaema is lower than with standard trabeculectomy, but IOP control is equivalent: It is not viewed as suitable in primary angle-closure glaucoma without prior or contemporaneous cataract surgery.
+
+# Antimetabolites in filtration surgery
+
+# Indications
+
+Adjunctive antimetabolites inhibit the natural healing response that may preclude successful filtration surgery. They should be used with caution because of potential complications and are usually considered in the presence of risk factors for surgical failure. In uncomplicated glaucoma the use of low-dose antimetabolites may improve long-term control of IOP.
+
+# Risk factors for surgical failure:
+
+- Previous failed trabeculectomy or MIGS.
+- Previous conjunctival or cataract surgery.
+- Secondary glaucoma (e.g: inflammatory, neovascular, post-traumatic).
+- Demographic: black ethnicity, age under 65 years.
+- Patients on topical medication (particularly sympathomimetics) for over 3 years.
+
+5-fluorouracil (5-FU) inhibits fibroblast proliferation by retarding DNA synthesis. It is a less aggressive antimetabolite than mitomycin C (see below), but substantial complications can still occur, notably persistent corneal epithelial defects and bleb leakage. Intraoperative use involves the application of one or more small cellulose sponges soaked in a 50 mg/ml solution, placed under the dissected flap of Tenon’s capsule at the site of filtration for 5 minutes prior to creation of the scleral trapdoor. Postoperative subconjunctival injection of 0.1 ml of 25 mg/ml or 50 mg/ml solution can be used. Placement may be away from the fistula, even at the opposite limbus. Various regimens are described, including daily injections for several postoperative days and ad hoc use if a drainage bleb appears to be unduly vascularized or fibrotic. It is also often used as an adjunct to a limited 'needling' revision of a trabeculectomy (see below).
+
+Mitomycin C (MMC) is an alkylating agent that inhibits proliferation of fibroblasts and suppresses vascular ingrowth: It is more potent than 5-FU. It is generally used intraoperatively in the manner described above for 5-FU, a typical exposure protocol being 0.2 mg/ml for 2 minutes, though a higher concentration (e.g: 0.4 mg/ml) may be used for particularly high-risk patients. Higher concentrations and extended exposure times are associated with an increased risk of complications. A cystic thin-walled bleb is common following the use of mitomycin C and may predispose to chronic hypotony, late-onset bleb leak and endophthalmitis. The bleb profile can be considerably improved by placing the MMC-soaked sponges well away from the limbus.
+
+# Bevacizumab
+
+Bevacizumab is a monoclonal antibody against VEGF that can be used at the time of trabeculectomy: Intracameral or subconjunctival bevacizumab is more effective than placebo in these circumstances, but it appears to increase the risk of bleb encapsulation: It is not more effective than mitomycin C and combining it with MMC does not appear to improve the success rate.
+
+# Shallow anterior chamber
+
+Shallow anterior chamber (Fig: 11.81A) following trabeculectomy may be due to pupillary block, overfiltration or malignant glaucoma. Severe and sustained shallowing is uncommon.
+---
+# 414 Trabeculectomy
+
+Fg: 14.79 Trabeculectomy technique:
+
+1. Outline of superficial scleral flap;
+2. Dissection of superficial scleral flap;
+3. Excision of deep scleral tissue with punch;
+4. Peripheral iridectomy;
+5. Injection of balanced salt solution into the anterior chamber;
+6. Appearance following suturing of a fornix-based flap.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+Fig: 11.80 Ex-PressTM mini-shunt in place chamber re-forming spontaneously in most cases. However, those that do not may develop severe complications such as peripheral anteriorsynechiae, corneal endothelial damage and cataract (Fig: 11.81B).
+
+# Pupillary block
+
+Pupillary block may occur with a non-patent peripheral iridectomy:
+
+- Signs
+
+Treatment involves Nd:YAG laser to the pigment iridectomy site if the anterior iris stroma appears to have been largely removed (common), or the creation of a new laser iridotomy:
+
+# Overfiltration
+
+Overfiltration may be caused by insufficient resistance to outflow at the lamellar scleral flap, but bleb leakage through an inadvertent buttonhole or due to inadequate closure of the conjunctiva and Tenon capsule is more common.
+
+- Signs
+
+Treatment depends on the cause and degree of shallowing:
+
+- Initial management in eyes with mild overfiltration such as may be caused by a small bleb leak, may consist simply of observation, with atropine to prevent PAS formation.
+- Subsequent treatment if the above measures are ineffective involves temporary tamponade of the conjunctiva to enhance spontaneous healing by simple pressure patching a large diameter soft bandage contact lens; a collagen shield or a Simmons shell designed for the purpose:
+- Definitive treatment often consists of the insertion of additional conjunctival sutures and if necessary placement.
+
+# Malignant glaucoma
+
+Malignant glaucoma is a rare but serious complication of trabeculectomy in patients with primary angle closure and primary angle-closure glaucoma. It is caused by anterior rotation of the ciliary processes and iris root (ciliolenticular block) leading to a posterior misdirection of aqueous.
+
+- Signs
+
+Treatment mydriatics (atropine 1% and phenylephrine 10%) to dilate the ciliary ring and to increase the.
+---
+# 416 Trabeculectomy
+
+Capsulotomy and disruption of the anterior hyaloid face should be performed. Cyclodiode laser may also be effective. Pars plana vitrectomy is performed if laser therapy fails. The key is to remove sufficient anterior vitreous gel to allow free flow of aqueous to the anterior chamber.
+
+# Failure of Filtration
+
+# Diagnosis
+
+A normally functioning bleb should be slightly elevated, relatively avascular (Fig: 11.834) and show superficial microcysts, tiny spherical clear intraepithelial formations thought to indicate the current passage of aqueous across the conjunctival barrier. A cystic bleb with one of the following appearances:
+
+- Flat without vascularization
+- Vascularized bleb (Fig: 11.83C) due to episcleral fibrosis
+- Encapsulated bleb (Tenon cyst) (Fig 11.83D), characterized by localized, highly elevated; dome-shaped; fluid-filled cavity of hypertrophied Tenon capsule, often with engorged surface blood vessels
+
+# Causes
+
+Causes of failure can be classified according to the site of obstruction:
+
+- Extrascleral causes include subconjunctival and episcleral fibrosis, sometimes with bleb encapsulation
+- Scleral causes include tight suturing of the scleral bed and gradual scarring in the scleral bed
+- Intraocular causes are uncommon and include blockage of the sclerostomy by vitreous, blood or uveal tissue or by a variety of thin membranes derived from surrounding cornea or sclera
+
+# Management
+
+Management of filtration failure depends on the cause and may involve one or more of the following:
+
+- Ocular 'digital massage' in an effort to force outflow through the surgical fistula may be performed by digital compression through the upper lid whilst looking downwards. This can be carried out by the patient 4-8 times a day for up to several weeks until the bleb is deemed stable.
+
+Fig: 11.82 (A) Positive Seidel test; (B) wide-field image of choroidal detachment; (C) ultrasound of choroidal detachment in a hypotonous eye.
+
+Suture manipulation may be considered 7-14 days postoperatively if the eye has high IOP, flat bleb and a deep anterior chamber: Releasable sutures can be cut or released according to the technique of initial placement. Argon or diode laser suture lysis is useful if releasable sutures have not been used. It may be performed through a goniolens.
+
+Needling of an encysted bleb may be performed at the slit lamp using an operating microscope under topical anaesthesia. It can be augmented with 5-fluorouracil or mitomycin C to enhance the success rate. Subconjunctival injection of 5-fluorouracil may be used in the first 7-14 days to suppress episcleral fibrosis.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+of 2.5-5 mg (0.1 ml of 25-50 mglml solution) is given using a 30-gauge needle directed away from the fistula and repeated as necessary. Alternatively, mitomycin €0.1 ml of a 0.02% solution can be used.
+
+# Late bleb leakage
+
+This occurs due to disintegration of conjunctiva overlying sclerostomy, typically following peroperative application of antimetabolites, particularly mitomycin C. Necrosis of the surface epithelium results in transconjunctival drainage of aqueous.
+
+Complications of untreated leaks include infection and hypotony maculopathy (see Ch: 14).
+
+# Signs
+
+Low IOP and an avascular cystic bleb (see Fig: 11.83B). Seidel testing may initially be negative with only multiple punctate staining areas ('sweating'), though this alone may well be sufficient to cause hypotony. The formation of a hole may result in gross leakage with a positive test and a very low IOP. Shallow anterior chamber and choroidal detachments may be present in severe cases.
+
+# Treatment
+
+Treatment can be difficult. The treatment depends on whether the leakage involves merely 'sweating' or is due to a hole. Sweating blebs may be treated by injection of autologous blood into the bleb, 'compression' sutures or a transconjunctival scleral flap suture, or sometimes surgery. A full-thickness hole always requires surgical revision. The easiest option is to remove the existing bleb dissecting backwards from the limbus, followed by conjunctival advancement and resuturing; a fornix relieving incision may occasionally be needed and a scleral or donor pericardium graft can be used to limit flow through the sclerostomy.
+
+# Bleb-associated bacterial infection and endophthalmitis
+
+Glaucoma filtration-associated infection is classified as limited to the bleb (blebitis) or endophthalmitis, although there is some overlap. The incidence of blebitis following trabeculectomy with mitomycin has been estimated to be up to 5% per year; though many studies show a far lower rate. Patients who have undergone trabeculectomy should be warned of the possibility of late infection and strongly advised to report immediately should they develop a red and sticky eye, or blurred vision. Preserved lubricating drops tend to get contaminated in time and should be avoided.
+
+Risk factors include (a) antimetabolite use, (b) an inferior-placed bleb and (c) bleb leak. Blepharitis and conjunctivitis are also risk factors. Late bleb leaks should be treated aggressively to reduce the risk of infection.
+
+# Pathogens
+
+The most frequent are Haemophilus influenzae, Streptococcus spp. and Staphylococcus spp. and Gram-negative organisms. The poor visual prognosis is related to the virulence of these organisms.
+
+Fig. 11.83 Filtering blebs. (A) Diffuse shallow; (B) thin polycystic; (C) vascularized poorly filtering; (D) encapsulated Tenon cyst.
+---
+# 418 Trabeculectomy
+
+# Blebitis
+
+Blebitis describes infection without vitreous involvement. Symptoms consist of a painful, red, photophobic and typically sticky eye.
+
+# Signs
+
+- A white bleb that appears to contain inflammatory material (Fig: 11.844).
+- Anterior uveitis may be absent or mild, but may be moderate and a hypopyon may be present.
+- The red reflex is normal.
+
+# Treatment
+
+Bleb-related infection is an urgent condition that needs immediate and intensive treatment.
+
+- A conjunctival swab should be taken; sample should not be aspirated from within the bleb.
+- Broad-spectrum topical antibiotics instilled every hour; e.g., ofloxacin and cephalosporin: The latter may be prepared from an intravenous ampoule.
+- Oral co-amoxiclav 500/125 mg three times daily and ciprofloxacin 750 mg twice daily for at least 5 days. Alternatively, azithromycin 500 mg daily can be used.
+- The role of topical steroids is undefined. Their introduction may be considered after a definite response to antibiotics.
+
+TIP: Bleb-related infection is an urgent condition that needs immediate and intensive treatment.
+
+# Endophthalmitis
+
+Fistula-related endophthalmitis, even with early treatment, can be associated with a very poor outcome including blindness or even loss of the eye, mainly because the organisms that are isolated are significantly more virulent than those found in infections that follow cataract surgery (Fig: 11.84B). An aggressive treatment regimen should be instituted as soon as possible:
+
+# Symptoms
+
+Symptoms are generally much more severe than those of blebitis.
+
+# Signs
+
+- White milky bleb, as in blebitis but of greater severity.
+- Severe injection; hypopyon is typical.
+- Severe anterior uveitis; substantial vitritis and impairment of the red reflex (Fig: 11.84C).
+
+# Treatment
+
+- Vitreous and aqueous samples should be obtained immediately on presentation and ceftazidime 2 mg in 0.1 ml and vancomycin 1 mg in 0.1 ml should be injected into the vitreous cavity.
+- After 48 hours, repeat intravitreal antibiotics and consider undertaking posterior vitrectomy.
+- Start topical steroids after 48 hours.
+- Oral fluoroquinolones should be used for 10-14 days.
+
+TIP: The organisms involved in fistula-related endophthalmitis tend to be more virulent than after cataract surgery.
+---
+# CHAPTER 11
+
+# Glaucoma
+
+Fig- 11.85 (A) Bleb-associated endophthalmitis; (B) appearance following successful treatment
+
+# NON-PENETRATING GLAUCOMA SURGERY
+
+A thin membrane consisting of trabeculum/Descemet membrane through which aqueous diffuses from the AC to the subconjunctival space. The surgery is technically challenging and requires meticulous dissection of a deep scleral flap to avoid entering the anterior chamber through the delicate Descemet membrane.
+
+# Overview
+
+In non-penetrating filtration surgery, the anterior chamber is not entered and the internal trabecular meshwork is preserved, thus reducing the incidence of postoperative overfiltration with hypotony and its potential sequelae. Two concentric lamellar scleral flaps are fashioned and the deep flap excised leaving behind.
+
+# Indications
+
+The main indication for non-penetrating surgery is POAG, although other open-angle glaucomas may also be amenable: In general, the IOP reduction is less than that achieved by trabeculectomy, so that topical medication often needs to be recommenced.
+
+Fig: 11.86 Non-penetrating filtration surgery: deep sclerectomy: (A) Dissection of deep scleral flap; (B) dissection into clear cornea exposing the Schlemm canal; (C) collagen implant; (D) shallow diffuse avascular bleb (Courtesy of A Mermoud)
+---
+# Minimally Invasive Glaucoma Surgery (MIGS)
+
+Conventional filtration is therefore still the procedure of choice when the target IOP is in the low teens though non-penetrating surgery is probably associated with a lower risk of 'snuffing out' central vision when advanced damage is present:
+
+# Technique
+
+Deepsclerectomy (Fig; 11.86). A Descemet window is created to allow aqueous migration from the AC. Subsequent egress subconjunctival, resulting in a shallow filtration bleb, as well as along deeper suprachoroidal routes long-term be enhanced by using collagen The results can implant at the time of surgery and postoperative application of Nd:YAG laser to the meshwork at the surgical site using gonioscopy lens (goniopuncture).
+
+Viscocanalostomy involves the creation of a filtering window, with identification and dilatation of the Schlemm canal with high density viscoelastic. The superficial scleral flap is sutured tightly so that subconjunctival fluid outflow and bleb formation are minimized. The procedure probably causes inadvertent microscopic ruptures in the juxtacanalicular tissue and meshwork.
+
+# MINIMALLY INVASIVE GLAUCOMA SURGERY (MIGS)
+
+MIGS is the term applied to the various implants and techniques that aim to lower IOP with less surgical risk than traditional glaucoma surgery. MIGS is commonly combined with cataract surgery and is not suitable for all forms of glaucoma.
+
+Current procedures can be classified into two groups:
+
+- Surgery that avoids the formation of a bleb by manipulating the canal of Schlemm; either by excision of trabecular meshwork (Trabectome, Kahook Dual Blade) or by bypassing the trabecular meshwork (iStent inject or Hydrus) (Fig: 11.874 and B), by dilation of the canal (ab-interno canaloplasty with iTrack).
+- Implants that result in drainage under Tenon capsule and conjunctiva, leading to the formation of a bleb (Xen, Innfocus Microshunt) (Fig: 11.87C). Mitomycin C (0.02% 0.1 ml) is usually injected under the conjunctiva adjacent to the implant to reduce the risk of bleb fibrosis. Bleb needling is often required postoperatively.
+
+# Indications
+
+Mild to moderate glaucoma, where the rate of visual field loss is slow and the target pressure is modest (aiming for goal 15-17 mmHg) in selected cases combined with phacoemulsification and IOL implantation, to reduce the need for topical medication.
+
+# Complications
+
+In those procedures that involve manipulation of the canal of Schlemm there is a risk of implant malposition, haemorrhage, infection and late corneal decompensation. Flg: 11.87 MIGS: (A) iStent (arrows); (B) Hydrus? (C) Xen (arrow) (Courtesy of G Ratnarajan fig:A)
+---
+# CHAPTER 11
+
+# Glaucoma
+
+# Results of surgery
+
+At present, it is difficult to provide reliable data on the results of this surgery. An average IOP reduction of 5-7mmHg with less medication has been reported after 1-2 years. However, there are no long-term results of IOP control, rate of visual field loss or safety. In addition, there are no large controlled trials of standalone procedures and the published results of MIGS are biased by the fact that this surgery is often undertaken at the same time as phacoemulsification, which independently reduces the IOP by about 15%.
+
+Over recent years the use of GDD has increased, large trial, the Tube Versus Trabeculectomy Study, providing good-quality evidence of their safety and comparability to mitomycin C-enhanced trabeculectomy: In practice the threshold for GDD implantation has been lowered, though the number of patients undergoing trabeculectomy remains significantly higher than those undergoing GDD implantation.
+
+# DRAINAGE SHUNTS
+
+# Introduction
+
+Glaucoma drainage devices (GDD) create a communication between the anterior chamber and the sub-Tenon space via a tube attached to a posteriorly explanted episcleral reservoir.
+
+Examples of GDD implants include:
+
+- Molteno: This consists of a silicone tube connected to one (137 mm²) or two (274 mm²) polypropylene plates 13 mm in diameter.
+- Baerveldt: This implant consists of a silicone tube connected to a silicone plate of large area (250 mm² or 350 mm²). Silicone may elicit little tissue reaction in comparison with polypropylene.
+- Ahmed: This is a valved implant connected to a silicone sheet valve held in a polypropylene body (184 mm²). The valve mechanism consists of two thin silicone elastomer membranes, with the aim of reducing early postoperative hypotony and its complications. The implant needs to be primed by injecting saline through the valve before the surgery is undertaken.
+
+# Indications
+
+The circumstances under which GDD may be superior to trabeculectomy are incompletely defined and many factors must be considered, including an individual surgeon's experience and expertise. GDD may be considered in the following situations:
+
+- Eyes with severe conjunctival scarring precluding accurate dissection of the conjunctiva.
+- Uncontrolled glaucoma despite previous trabeculectomy with adjunctive antimetabolite therapy.
+- Secondary glaucoma where routine trabeculectomy, with or without adjunctive antimetabolites, is less likely to be successful. Examples include aniridia, neovascular glaucoma, ICE syndrome and glaucoma following traumatic anterior segment disruption.
+- Certain types of congenital glaucoma where conventional procedures have failed.
+
+# Complications
+
+The rate of serious complications is similar to that of mitomycin trabeculectomy:
+
+- Excessive drainage, resulting in hypotony and a shallow anterior chamber.
+- Bleb encapsulation. This is characterized by raised IOP 1-6 weeks after aqueous enters the area of the footplate: Clinically an inflamed thick-walled bleb can be seen over the footplate: It is more common after the insertion of an Ahmed valve than a non-valved tube.
+
+Malposition may result in endothelial or lenticular touch with corneal decompensation and cataract.
+
+Fig: 11.88 Long-tube implant. (A) Immediate postoperative appearance; (B) 3 months after surgery in a different patient.
+---
+# 422 Drainage Shunts
+
+Fg: 14.89 Complications of drainage implants. (A) Malposition; (B) tube erosion; (C) bleb encapsulation over the footplate associated with late failure of drainage; (D) acquired Brown syndrome (left eye) respectively. Ciliary sulcus or pars plana tube placement can be used in some eyes to negate the possibility of corneal touch (Fig 11.89B).
+
+The results depend on the type of glaucoma. In general, an IOP in the mid-teens is achieved, but topical medication is frequently required in the medium and longer term: The Ahmed Baerveldt Comparison (ABC) study (where the average preoperative IOP was 30 mmHg) showed average postoperative IOP of 14.7 mmHg in the Ahmed group and 12.7 mmHg in the Baerveldt group at 5 years. The long-term success rate in some conditions such as neovascular glaucoma and ICE syndrome is poor: Adjunctive mitomycin C drainage shunt surgery may enhance the success rate of.
+
+Early drainage failure may occur as a result of blockage of the end of the tube by vitreous, blood or iris. Late drainage failure occurs in about 10% of cases per year and is comparable to, or perhaps slightly better than, that following trabeculectomy (Fig: 11.89C).
+
+Double vision due to extraocular muscle interference (Fig: 11.89D): This is more likely to occur if the footplate is placed in the upper nasal quadrant.

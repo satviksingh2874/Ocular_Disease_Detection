@@ -1,0 +1,1485 @@
+# 556 Introduction
+
+# INTRODUCTION
+
+The umbo is a depression in the very centre of the foveola (see Fig. 14.1B) which corresponds to the foveolar light reflex (see Fig. 14.1A), loss of which may be an early sign of damage.
+
+The macula (Fig. 14.1A) is a round area at the posterior pole, lying inside the temporal vascular arcades. It measures between 5 and 6 mm in diameter and subserves the central 15–20° of the visual field. Histologically, it shows more than one layer of ganglion cells, in contrast to the single ganglion cell layer of the peripheral retina. The inner layers of the macula contain the yellow xanthophyll carotenoid pigments lutein and zeaxanthin in far higher concentration than the peripheral retina (hence the full name ‘macula lutea’ – yellow plaque).
+
+- The fovea is a depression in the retinal surface at the centre of the macula (Fig. 14.1B–D), with a diameter of 1.5 mm – about the same as the optic disc.
+- The foveola forms the central floor of the fovea and has a diameter of 0.35 mm (see Fig. 14.1B). It is the thinnest part of the retina and is devoid of ganglion cells, consisting only of a high density of cone photoreceptors and their nuclei (Fig. 14.2), together with Müller cells.
+
+Fig. 14.1 Anatomical landmarks.
+(A) Normal foveola (almost punctate central reflex) and macula light reflexes (band-like reflex encircling the fovea);
+(B) fluorescein angiogram – fovea (yellow circle), approximate extent of the foveal avascular zone (red circle), foveola (lilac circle), umbo (central white spot);
+(C) OCT showing the foveal depression;
+(D) three-dimensional OCT
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+Fovea
+
+|Nerve fibre layer|Avascular zone|Inner limiting membrane|
+|---|---|---|
+|Ganglion cell layer|Inner plexiform layer|Foveola|
+|Inner nuclear layer|Outer plexiform (Henle) layer|Retinal capillaries|
+|External limiting membrane|Outer nuclear layer|Rods and cones|
+|RPE|Bruch membrane|Choriocapillaris|
+
+Fig. 14.2 Cross-section of the fovea (RPE = retinal pigment epithelium)
+
+- The cell base is in contact with Bruch membrane and at the cell apices multiple thread-like villous processes extend between the outer segments of the photoreceptors.
+- At the posterior pole, particularly at the fovea, RPE cells are taller and thinner, more regular in shape and contain more numerous and larger melanosomes than in the periphery.
+
+# Function
+
+- RPE cells and intervening tight junctional complexes (zonula occludentes) constitute the outer blood–retinal barrier, preventing extracellular fluid leaking into the subretinal space from the choriocapillaris and actively pumping ions and water out of the subretinal space.
+- Its integrity and that of the Bruch membrane is important for continued adhesion between the two, thought to be due to a combination of osmotic and hydrostatic forces, possibly with the aid of hemidesmosomal attachments.
+- Facilitation of photoreceptor turnover by the phagocytosis and lysosomal degradation of outer segments following shedding.
+- Preservation of an optimal retinal milieu. Maintenance of the outer blood–retinal barrier is a key factor, as are the inward transport of metabolites (mainly small molecules such as amino acids and glucose) and the outward transport of metabolic waste products.
+- Storage, metabolism and transport of vitamin A in the visual cycle.
+- The dense RPE pigment serves to absorb stray light.
+
+# Bruch membrane
+
+# Structure
+
+The Bruch membrane separates the RPE from the choriocapillaris and on electron microscopy consists of five distinct elements:
+
+- The basal lamina of the RPE.
+- An inner collagenous layer.
+- A thicker band of elastic fibres.
+- An outer collagenous layer.
+- The basal lamina of the inner layer of the choriocapillaris.
+
+# CLINICAL EVALUATION OF MACULAR DISEASE
+
+# Symptoms
+
+- Blurred vision and difficulty with close work is an early symptom. Onset can be rapid in some conditions, such as CNV.
+- A positive scotoma, in which patients complain of something obstructing central vision, is a symptom of more severe disease. This is in contrast to optic neuropathy, which typically causes a missing area in the visual field (negative scotoma).
+- Metamorphopsia (distortion of perceived images) is a common symptom that does not occur in optic neuropathy.
+- Micropsia (decrease in image size) is caused by spreading apart of foveal cones and is uncommon.
+- Macropsia (increase in image size) is due to crowding together of foveal cones and is uncommon.
+- Colour discrimination may be disturbed, but is generally less evident than in even relatively mild optic neuropathy.
+- Difficulties related to dark adaptation, such as poor vision in dim light and persistence of after-images, may occur.
+
+TIP: Metamorphopsia is a common early symptom of macular disease and can be evaluated with an Amsler grid.
+---
+# Investigation of Macular Disease
+
+# Filters
+
+- Cobalt blue excitation filter (Fig. 14.6). Incident white light from the camera is filtered so that blue light enters the eye, exciting the fluorescein molecules in the retinal and choroidal circulations.
+- Yellow–green barrier filter blocks any blue light reflected from the eye, allowing only yellow–green emitted light to pass.
+
+# Fundus fluorescein angiography
+
+# Introduction
+
+Fluorescein angiography (FA) should be performed only if the findings are likely to influence management.
+
+- Fluorescence is the property of certain molecules to emit light of a longer wavelength when stimulated by light of a shorter wavelength. The excitation peak for fluorescein is about 490 nm (in the blue part of the spectrum) – the wavelength of maximal absorption of light energy by fluorescein. Stimulated molecules will emit yellow–green light of about 530 nm (Fig. 14.3).
+- Fluorescein (sodium fluorescein) is an orange water-soluble dye that, when injected intravenously, remains largely intravascular (>70% bound to serum proteins). It is excreted in the urine over 24–36 hours.
+- FA involves photographic surveillance of the passage of fluorescein through the retinal and choroidal circulations following intravenous injection.
+- Outer blood–retinal barrier. The major choroidal vessels are impermeable to both bound and free fluorescein. However, the walls of the choriocapillaris contain fenestrations through which unbound molecules escape into the extravascular space, crossing Bruch membrane but on reaching the RPE are blocked by intercellular complexes termed tight junctions or zonula occludentes (Fig. 14.4).
+- Inner blood–retinal barrier is composed principally of the tight junctions between retinal capillary endothelial cells, across which neither bound nor free fluorescein can pass; the basement membrane and pericytes play only a minor role in this regard (Fig. 14.5A). Disruption of the inner blood–retinal barrier permits leakage of both bound and free fluorescein into the extravascular space (Fig. 14.5B).
+
+# Excitation and Emission
+
+|Excitation|490|530|Emission| | | | |
+|---|---|---|---|---|---|---|---|
+|350|400|450|500|550|600|650|700|
+
+# Figures
+
+Fig. 14.3 Excitation and emission of fluorescein
+
+Fig. 14.4 The outer blood–retinal barrier (Z.O. = zonula occludentes; B.M. = Bruch membrane)
+
+Fig. 14.5 Inner blood–retinal barrier. (A) Intact; (B) disrupted (E = endothelial cell; B.M. = basement membrane; P = pericyte)
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+Excitation filter
+
+White light
+
+Blue 465–490 nm Camera light source
+
+Fluorescein in retinal vessels
+
+Barrier filter
+
+Charge-coupled device (or film) 530 nm
+
+Fig. 14.6 Principles of fluorescein angiography
+
+• Image capture in modern digital cameras uses a charge-coupled device (CCD). Digital imaging permits immediate picture availability, easy storage and access, image manipulation and enhancement. Modern devices also typically require a lower concentration of injected fluorescein to obtain high-quality images, with a correspondingly substantially lower incidence of adverse effects.
+
+# Contraindications
+
+○ Fluorescein allergy is an absolute contraindication and a history of a severe reaction to any allergen is a strong relative contraindication. Preventative anti-allergy pre-treatment may be helpful in some cases.
+
+○ Other relative contraindications include renal failure (a lower fluorescein dose is used), pregnancy, moderate–severe asthma and significant cardiac disease.
+
+○ Allergy to iodine-containing media or seafood is not a clear contraindication to FA or to indocyanine green angiography (ICGA).
+
+# Technique
+
+Facilities must be in place to address possible adverse events. This includes adequate staffing, a resuscitation trolley that includes drugs for the treatment of anaphylaxis, a couch (or reclining chair) and a receiver in case of vomiting. Significantly nausea and vomiting are less common using the lower fluorescein concentrations required by modern digital cameras.
+
+• Adequate pharmacological mydriasis is important to obtain high-quality images. Media opacity such as cataract may reduce picture quality.
+
+• The procedure is explained and formal consent taken. It is important to mention common and serious adverse effects (Table 14.1), particularly the invariable skin and urine staining.
+
+• An intravenous cannula is inserted; a standard cannula is often preferred rather than a less secure ‘butterfly’ winged infusion set. After cannulation, the line should be flushed with normal saline to check patency and exclude extravasation.
+
+• Fluorescein, usually 5 ml of a 10% solution, is drawn up into a syringe and injected over the course of 5–10 seconds, taking care not to rupture the cannulated vein (Fig. 14.7A and B).
+
+• Oral administration at a dose of 30 mg/kg is an alternative if venous access cannot be obtained or is refused. A 5 ml vial of 10% (100 mg/ml) sodium fluorescein contains 500 mg and pictures should be taken over 20–60 minutes following ingestion.
+
+• Images are taken at 1–2 second intervals initially to capture the critical early transit phases, beginning 5–10 seconds after injection, tapering frequency through subsequent phases.
+
+# Table 14.1 Adverse Events in Fluorescein Angiography
+
+Discoloration of skin and urine (invariable)Extravasation of injected dye, giving a painful local reaction (treat with cold compress)Nausea, vomiting (now rare with lower concentrations of fluorescein)Itching, rashSneezing, wheezingVasovagal episode or syncope (usually due to anxiety but sometimes to ischaemic heart disease)Anaphylactic and anaphylactoid reactions (1:2000 angiograms)Myocardial infarction (extremely rare)Death (1:220,000 in the largest study)
+---
+# 560 Investigation of Macular Disease
+
+# Ophthalmic artery
+
+# Short posterior ciliary arteries
+
+# Central retinal artery
+
+# Choroidal circulation
+
+# Retinal circulation
+
+# A
+
+RPE barrier
+
+Fig. 14.8 Fluorescein access to the eye
+
+Time
+
+seconds
+
+0
+10
+20
+30
+40
+50
+The choroidal (pre-arterial) phase typically occurs 9–15 seconds after dye injection – longer in patients with poor general circulation – and is characterized by patchy lobular filling of the choroid due to leakage of free fluorescein from the fenestrated choriocapillaris. A cilioretinal artery, if present, will fill at this time because it is derived from the posterior ciliary circulation (Fig. 14.9A).
+
+The arterial phase starts about a second after the onset of choroidal fluorescence and shows retinal arteriolar filling and the continuation of choroidal filling (Fig. 14.9B).
+
+The arteriovenous (capillary) phase shows complete filling of the arteries and capillaries with early laminar flow in the veins in which the dye appears to line the venous wall leaving an axial hypofluorescent strip (Fig. 14.9C). This phenomenon reflects initial drainage from posterior pole capillaries filling the venous margins, as well as the small-vessel velocity profile, with faster plasma flow adjacent to vessel walls where cellular concentration is lower.
+
+With monocular pathology, control pictures of the opposite eye should be taken, usually after the initial transit phase has been photographed in the index eye.
+
+If appropriate, images may be captured as late as 10–20 minutes.
+
+Stereo images may be helpful to demonstrate elevation and are usually taken by manually repositioning the camera sideways or by using a special device (a stereo separator) to adjust the image. These are actually pseudo-stereo images as true stereo requires simultaneous image capture from different angles.
+
+# Angiographic phases
+
+Fluorescein enters the eye through the ophthalmic artery, passing into the choroidal circulation through the short posterior ciliary arteries and into the retinal circulation through the central retinal artery (Fig. 14.8). The choroidal circulation fills about 1 second before the retinal. Precise details of the choroidal circulation are not discernible, mainly because of rapid leakage of free fluorescein from the choriocapillaris. Melanin in the RPE cells also blocks choroidal fluorescence. The angiogram consists of the following overlapping phases:
+
+- The dark appearance of the fovea is caused by three factors (Fig. 14.10A and B):
+- Absence of blood vessels in the FAZ.
+- Blockage of background choroidal fluorescence due to the high density of xanthophyll at the fovea.
+- Blockage of background choroidal fluorescence by the RPE cells at the fovea, which are larger and contain more melanin and lipofuscin than elsewhere in the retina.
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+Fig. 14.9 Normal fluorescein angiogram.
+|(A)|Choroidal phase showing patchy choroidal filling as well as filling of a cilioretinal artery (different patient to the rest of the series);|
+|---|---|
+|(B)|Arterial phase showing filling of the choroid and retinal arteries;|
+|(C)|Arteriovenous (capillary) phase showing complete arterial filling and early laminar venous flow;|
+|(D)|Early venous phase showing marked laminar venous flow;|
+|(E)|Mid-venous phase showing almost complete venous filling;|
+|(F)|Late (recirculation) phase showing weaker fluorescence with staining of the optic disc.|
+
+---
+# 562 Investigation of Macular Disease
+
+# Xanthophyll
+
+Fig. 14.10 (A) Anatomical causative factors of a dark fovea (see text); (B) dark appearance of the fovea on FA
+
+- Increased fluorescence may be caused by (a) enhanced visualization of normal fluorescein density, or (b) an increase in fluorescein content of tissues.
+- A window defect is caused by atrophy or absence of the RPE as in atrophic age-related macular degeneration (Fig. 14.12A), a full-thickness macular hole, RPE tears and some drusen. This results in unmasking of normal background choroidal fluorescence, characterized by very early hyperfluorescence that increases in intensity and then fades without changing size or shape (Fig. 14.12B and C).
+- Pooling in an anatomical space occurs due to breakdown of the outer blood–retinal barrier (RPE tight junctions):
+- In the subretinal space, e.g. CSR (Fig. 14.13A). This is characterized by early hyperfluorescence, which, as the responsible leak tends to be only small (Fig. 14.13B), slowly increases in intensity and area, the maximum extent remaining relatively well defined.
+- In the sub-RPE space, as in pigment epithelial detachment (Fig. 14.14A). This is characterized by early hyperfluorescence (Fig. 14.14B) that increases in intensity but not in size (Fig. 14.14C).
+
+Fig. 14.11 FAF image showing optic disc drusen
+
+# Causes of hyperfluorescence
+
+- Autofluorescent compounds absorb blue light and emit yellow–green light in a similar fashion to fluorescein, but weaker. Autofluorescence can be detected on standard fundus photography with the excitation and barrier filters both in place. Some modern digital cameras have enhanced autofluorescence detection capability, though imaging is most effective with scanning laser ophthalmoscopy. Autofluorescent lesions classically include optic nerve head drusen (Fig. 14.11) and astrocytic hamartoma, but with increased availability of high-sensitivity imaging, patterns associated with a wide range of posterior segment pathology have been characterized.
+- Pseudofluorescence (false fluorescence) refers to non-fluorescent reflected light visible prior to fluorescein injection. This passes through the filters due to the overlap of wavelengths passing through the excitation then the barrier filters. It is more evident when filters are wearing out.
+- Staining is a late phenomenon consisting of the prolonged retention of dye in entities such as drusen, fibrous tissue, exposed sclera and the normal optic disc (see Fig. 14.9F) and is
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+Fig. 14.12 Hyperfluorescence caused by window defects associated with dry age-related macular degeneration. (A) Diagrammatic representation; (B) and (C) fluorescein angiographic appearance seen in the later phases of the angiogram, particularly after the dye has left the choroidal and retinal circulations.
+
+# Causes of hypofluorescence
+
+Reduction or absence of fluorescence may be due to: (a) optical obstruction (masking or blockage) of normal fluorescein density (Fig. 14.16) or (b) inadequate perfusion of tissue (filling defect).
+
+- Masking of retinal fluorescence. Preretinal lesions such as blood will block all fluorescence (Fig. 14.17A–C).
+- Masking of background choroidal fluorescence allows persistence of fluorescence from superficial retinal vessels:
+- Deeper retinal lesions, e.g. intraretinal haemorrhages, dense exudates.
+- Subretinal or sub-RPE lesions, e.g. blood (Fig. 14.18A and B).
+- Increased density of the RPE, e.g. congenital hypertrophy (Fig. 14.19A and B).
+- Choroidal lesions, e.g. naevus.
+- Filling defects may result from:
+- Vascular occlusion, which may involve the retinal arteries, veins or capillaries (capillary drop-out – Fig. 14.20A), or the choroidal circulation. FA is sometimes used to demonstrate optic nerve head filling defects as in anterior ischaemic optic neuropathy.
+- Loss of the vascular bed as in myopic degeneration and choroideremia (Fig. 14.20B).
+
+# Systematic approach to fluorescein angiogram analysis
+
+A fluorescein angiogram should be interpreted methodically to optimize diagnostic accuracy.
+
+- Clinical findings, including the patient’s age and gender, should be noted before assessing the images.
+- Note whether images of right, left or both eyes have been taken.
+- Comment on any colour and red-free images and on any pre-injection demonstration of pseudo- or autofluorescence.
+
+Fig. 14.13 Hyperfluorescence caused by pooling of dye in the subretinal space in central serous chorioretinopathy. (A) Diagrammatic representation; (B) fluorescein angiographic appearance.
+---
+# Investigation of Macular Disease
+
+Fig. 14.14 Hyperfluorescence caused by pooling of dye in the subretinal pigment epithelium (RPE) space in RPE detachment.
+(A) Diagrammatic representation; (B) and (C) fluorescein angiographic appearance
+
+Fig. 14.15 Causes of hyperfluorescence due to leakage. (A) Cystoid macular oedema; (B) proliferative diabetic retinopathy showing leakage from extensive vessels around the disc
+
+|Pigment|Abnormal|Blood Exudate|
+|---|---|---|
+|Xanthophyll| | |
+|Lipofuscin| | |
+|Hyperplasia of RPE| | |
+
+Fig. 14.16 Causes of hypofluorescence
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+Blocked ILM
+
+|A|B|C|
+|---|---|---|
+|Fig. 14.17 Hypoﬂuorescence – masking of all signal, including from retinal vessels, by prereti - nal haemorrhage (ILM = internal limiting membrane). (A) Diagrammatic representation; (B) clinical appearance; (C) ﬂuorescein angiographic appearance|Fig. 14.17 Hypoﬂuorescence – masking of all signal, including from retinal vessels, by prereti - nal haemorrhage (ILM = internal limiting membrane). (A) Diagrammatic representation; (B) clinical appearance; (C) ﬂuorescein angiographic appearance|Fig. 14.17 Hypoﬂuorescence – masking of all signal, including from retinal vessels, by prereti - nal haemorrhage (ILM = internal limiting membrane). (A) Diagrammatic representation; (B) clinical appearance; (C) ﬂuorescein angiographic appearance|
+
+|A|B|
+|---|---|
+|Fig. 14.18 Hypoﬂuorescence – blockage by sub- and intraretinal haemorrhage, showing per - sistence of signal from retinal vessels. (A) Clinical appearance in a patient with age-related macular degeneration; (B) ﬂuorescein angiographic appearance|Fig. 14.18 Hypoﬂuorescence – blockage by sub- and intraretinal haemorrhage, showing per - sistence of signal from retinal vessels. (A) Clinical appearance in a patient with age-related macular degeneration; (B) ﬂuorescein angiographic appearance|
+
+- Looking at the post-injection images, indicate whether the overall timing of ﬁlling, especially arm-to-eye transit time, is normal.
+
+Indocyanine green angiography
+
+# Introduction
+
+- Advantages over FA.
+
+Whilst FA is an excellent method of study ing the retinal circulation, it is of limited use in delineating the choroidal vasculature, due principally to masking by the RPE. In contrast, the near-infrared light utilized in indocyanine green angiography (ICGA) penetrates ocular pigments such as melanin and xanthophyll, as well as exudate and thin layers of subretinal blood, making this technique eminently suitable. An additional factor is that about 98% of ICG molecules bind to serum protein (mainly albumin); considerably higher than the binding of ﬂuorescein. As choriocapillaris fenestrations are impermeable to larger protein molecules, most ICG is retained.
+---
+# 566 Investigation of Macular Disease
+
+|A|Normal|Blocked|A|
+|---|---|---|---|
+|B| | | |
+
+Fig. 14.19 Hypoﬂuorescence caused by blockage of back ground ﬂuorescence by congenital hypertrophy of the retinal pigment epithelium. (A) Diagrammatic representation; (B) fluorescein angiographic appearance within choroidal vessels. Infrared light is also scattered less than visible light, making ICGA superior to FA in eyes with media opacity.
+
+- Phases of ICGA:
+- (a) early – up to 60 seconds post-injection;
+- (b) early mid-phase – 1–3 minutes (Fig. 14.22 A);
+- (c) late mid-phase – 3–15 minutes; (Fig. 14.22B)
+- (d) late phase – 15–45 minutes.
+
+# Adverse effects
+
+ICGA is generally better tolerated than FA.
+
+- Nausea, vomiting and urticaria are uncommon, but anaphylaxis probably occurs with approximately equal incidence to FA.
+- Serious reactions are exceptionally rare. ICG contains iodide and so should not be given to patients allergic to iodine (or possibly shellfish). Iodine-free preparations such as infracyanine green are available.
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+Infrared light
+
+|Excitation|790–805 nm|filter White (with infrared) light|
+|---|---|---|
+|Laser beam|Camera light source|or scanning|
+|Indocyanine green in retinal and choroidal vessels|laser|ophthalmoscope|
+|Barrier filter|Digital analysis|and display|
+|835 nm| | |
+
+Fig. 14.21 Principles of indocyanine green angiography
+
+A
+
+B
+
+Fig. 14.22 Normal fluorescein angiogram, left, with normal indocyanine green angiogram, right. (A) Early mid-phase (1–3 minutes) showing greater prominence of choroidal veins as well as retinal vessels; (B) late mid-phase (3–15 minutes) showing fading of choroidal vessels but retinal vessels are still visible; diffuse tissue staining is also present.
+---
+# 568 Investigation of Macular Disease
+
+• ICGA is relatively contraindicated in liver disease (excretion is hepatic) and as with FA in patients with a history of a severe reaction to any allergen, moderate or severe asthma and significant cardiac disease. Its safety in pregnancy has not been established.
+
+# Diagnosis
+
+Examples of pathological images are shown under the discussion of individual conditions where relevant.
+
+- Hyperfluorescence
+- A window defect similar to those seen with FA.
+- Leakage from retinal or choroidal vessels (Fig. 14.23), the optic nerve head or the RPE; gives rise to tissue staining or to pooling.
+- Abnormal retinal or choroidal vessels with an anomalous morphology (see Fig. 14.23) and/or exhibiting greater fluorescence than normal.
+- Hypofluorescence
+- Blockage (masking) of fluorescence. Pigment and blood are self-evident causes, but fibrosis, infiltrate, exudate and serous fluid also block fluorescence. A particular phenomenon to note is that in contrast to its FA appearance, a pigment epithelial detachment appears predominantly hypofluorescent on ICGA.
+- Filling defect due to obstruction or loss of choroidal or retinal circulation. Choriocapillaris non-perfusion manifests as dark geographic areas of hypofluorescence, whereas choroidal stromal foci impair diffusion of the ICG molecule and manifests as regular round evenly distributed dark dots in the early phase.
+
+# Optical coherence tomography
+
+# Introduction
+
+Optical coherence tomography (OCT) is a non-invasive, non-contact imaging system providing high resolution cross-sectional images of the posterior segment. OCT is analogous to B-scan ultrasonography but uses near-infrared light interferometry rather than sound waves, with images created by the analysis of interference between reflected reference waves and those reflected by tissue. Most instruments in current use employ spectral/Fourier domain technology, in which the mechanical movement required for image acquisition in older ‘time domain’ machines have been eliminated and the information for each point on the A-scan is collected simultaneously, speeding data collection and improving resolution. Promising newer modalities include swept-source (SS) OCT that can acquire images at a much higher rate and with extremely high retinal element resolution and better imaging depth. So-called ‘adaptive optics’ allows correction of higher-order optical aberrations to improve resolution. Wide-field, intraoperative, functional and Doppler (blood flow measurement) OCT applications may all have clinical utility in the future.
+
+The diagnosis and monitoring of macular pathology has been revolutionized by the advent of OCT imaging, e.g. AMD, diabetic maculopathy, macular hole, epiretinal membrane and vitreo-macular traction, CSR and retinal venous occlusion.
+
+This technology allows a distinction to be made between retinal detachment and retinoschisis.
+
+TIP OCT imaging is key to the diagnosis, monitoring and treatment of macular disease.
+
+Fig. 14.23 ICGA image showing hyperfluorescence due to polyps (arrow) and leakage in polypoidal choroidal vasculopathy.
+
+Normal appearance: High reflectivity structures can be depicted in a pseudo-colour image as red, intermediate as green-yellow and low reflectivity.
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+GCL NFL
+
+IPL
+
+INL OPL ONL
+
+CC IS/OS RPE PRO MZ ELM
+
+A
+
+ONL INL GCL NFL
+
+IPL
+
+OPL ONL ELM
+
+B
+
+Fig. 14.24 OCT imaging. (A) High resolution image provided by spectral-domain OCT; (B) spectral-domain image of the macula (using false colour): CC = choriocapillaris; ELM = external limiting membrane; GCL = ganglion cell layer; INL = inner nuclear layer; IPL = inner plexiform layer; IS/OS = photoreceptor inner-segment/outer-segment junction (also called ellipsoid zone); MZ = myoid zone; NFL = nerve fibre layer; ONL = outer nuclear layer; OPL = outer plexiform layer; PRO = photoreceptor outer segments; RPE = retinal pigment epithelium (Courtesy of J Fujimoto – fig. B)
+
+as blue-black. Fine retinal structures such as the external limiting the vessel walls and flow that is too slow or too fast may not be detected by the technology.
+
+# Applications
+
+- Diagnosis of a choroidal neovascular membrane:
+- Visualization of flow in the outer retina.
+- Abnormal vasculature in areas featuring blood vessels (e.g. choroid) (Fig. 14.26A and B).
+- In dry AMD to diagnose a non-exudative choroidal neovascular membrane.
+- Visualization of abnormal choroidal vessels, particularly after treatment.
+- Diabetic retinopathy:
+- Diagnosis of preretinal neovascularization and to differentiate intraretinal microvascular abnormalities (IRMA) from new vessels.
+- Detection of microvascular changes without clinical retinopathy.
+- To assess the deep retinal capillary plexus in macular oedema.
+- To assess the microcirculation in patients with macular ischaemia (Fig. 14.26C and D).
+---
+# Investigation of Macular Disease
+
+Name: ZEISS
+
+ID: Exam date:
+
+DOB: 13/04/1965 Exam time:
+
+Gender: Male Technician:
+
+Doctor: Signal strength:
+
+# Macula thickness : Macular cube 512×128
+
+| | |OD|OS| | | |
+|---|---|---|---|---|---|---|
+| |500|283| | | | |
+| |400|(9)| | | | |
+| |300|276|344|367|363|311|
+| |200|287| | | | |
+| |100|ILM-RPE thickness (μm) Fovea: Fovea not found| | | | |
+|256|0 μm| | | | | |
+
+Overlay: ILM - RPE Transparency: 50 %
+
+# ILM - RPE
+
+# Distribution of normals
+
+99%
+
+95%
+
+5%
+
+1%
+
+# Central subfield
+
+| | | |Cube volume|Cube average thickness (μm)|
+|---|---|---|---|---|
+|(mm3)|ILM - RPE| | | |
+| | |367|10.7|298|
+
+Comments Doctor’s signature
+
+SW Ver: 5.1.1.6
+
+Copyright 2010 Carl Zeiss Meditec, Inc All Rights Reserved
+
+Page 1 of 1
+
+Fig. 14.25 OCT printout showing cross-sectional views, retinal thickness measurement and different retinal layers in a three-dimensional reconstruction in a patient with a macular epiretinal membrane and consequent loss of the foveal depression
+
+Other: macular telangiectasia, polypoidal choroidal vasculopathy (Fig. 14.26 E and F), chronic central serous retinopathy, some intraocular tumours.
+
+TIP OCT-angiography is a new non-invasive imaging tool that is useful for visualizing abnormal vessels in AMD, diabetic retinopathy and other disorders. It is useful to demonstrate more extensive macular disease than is visible clinically. There is speculation that it may
+---
+# Fig. 14.26 OCT-angiography.
+
+|(A)|FA showing choroidal neovascular membrane;|
+|---|---|
+|(B)|OCT angiogram of (A);|
+|(C)|FA at 2 minutes in diabetic macular oedema;|
+|(D)|OCT angiogram of deep capillary plexus showing loss of the perifoveal network;|
+|(E)|FA late phase showing polypoidal choroidal vasculopathy;|
+|(F)|OCT angiogram; the black area is a polyp (arrow) and does not show vascularization because of turbulence within the polyp|
+
+(Courtesy of A Ambresin)
+---
+# 572 Age-Related Macular Degeneration
+
+# Definitions
+
+- Posterior pole: retina within the arcades and slightly beyond.
+- Mid-periphery: retina up to the posterior edge of the vortex vein ampulla.
+- Far periphery: retina anterior to the vortex vein ampulla.
+- Wide-field: single capture image centred on the fovea and capturing retina in all four quadrants posterior to and including the vortex vein ampulla.
+- Ultra-wide-field: single capture 200° image of the retina including the far periphery in all four quadrants.
+- Pan-retina: single capture 360° ora-to-ora view of the retina.
+
+Fig. 14.27 Hyperautoﬂuorescence edging areas of geographic atrophy (Courtesy of S Chen)
+
+# AGE-RELATED MACULAR DEGENERATION
+
+# Introduction
+
+Age-related macular degeneration (AMD) is a degenerative disorder affecting the macula. It is characterized by the presence of specific clinical findings, including drusen and RPE changes, in the absence of another disorder. Later stages of the disease are associated with impairment of vision.
+
+# Classification
+
+- Conventionally, AMD has been divided into two main types:
+- Dry (non-exudative, non-neovascular) AMD is the most common form, comprising around 90% of diagnosed disease. Geographic atrophy (GA) is the advanced stage of dry AMD. It has been suggested that the term ‘dry AMD’ should be used only to describe GA rather than the early stages of AMD.
+- Wet (exudative, neovascular) AMD is much less common than dry, but is associated with more rapid progression to advanced sight loss. The main clinical entities are: CNV.
+
+# Wide-field imaging
+
+Several wide-field (also referred to as ultrawide-field) high resolution imaging devices are now available (Fig. 14.28). These are able to capture views of up to about 80% of the area of the retina in a single image often without dilating the pupil. Some have the facility of imaging FAF and FA and can provide useful additional information.
+
+Fig. 14.28 Wide-field colour image through undilated pupil
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+# Table 14.2 Clinical Classification of Age-Related Macular Degeneration (AMD)
+
+|Category|Definition, based on presence of lesions within two disc diameters of the fovea in either eye|
+|---|---|
+|No apparent ageing changes|No drusen No AMD pigmentary abnormalities|
+|Normal ageing changes|Only drupelets No AMD pigmentary abnormalities|
+|Early AMD|Medium drusen (>63 μm but <125 μm) No AMD pigmentary abnormalities|
+|Intermediate AMD|Large drusen (>125 μm) Any AMD pigmentary abnormalities|
+|Late AMD|Neovascular AMD and/or any geographic atrophy|
+
+Pigmentary abnormalities: any definite hyper- or hypopigmentary abnormalities associated with medium or large drusen but not due to other known disease.
+
+Drupelets: a newly proposed term for small drusen (&lt;63 μm).
+
+The size of drusen can be estimated by comparison with the approximately 125 μm diameter of a retinal vein at the optic disc margin.
+
+• An expert consensus committee has provided a clinical classification of AMD (Table 14.2).
+
+# Epidemiology
+
+• AMD is the most common cause of irreversible visual loss in industrialized countries. In the USA, it is responsible for severe sight loss (better eye worse than 6/60) in about 50% of whites, 15% of Hispanics and 5% of blacks with irreversible visual loss. The prevalence increases with age and symptoms are rare in patients under 50 years of age.
+
+• In the UK, significant visual impairment (binocularly 6/18 or worse) from AMD affects about 4% of the population aged over 75 years and 14% of those over 90, with 1.6% over 75 having binocular acuity of less than 6/60.
+
+• Patients with late AMD in one eye, or even moderate vision loss due to non-advanced AMD in one eye, have about a 50% chance of developing advanced AMD in the fellow eye within 5 years.
+
+# Risk factors
+
+AMD is multifactorial in aetiology and is thought to involve a complex interaction between polygenic, lifestyle and environmental factors.
+
+• Age is the major risk factor.
+
+• Race. Late AMD is more common in white individuals than in other races.
+
+• Heredity. Family history is important. The risk of AMD is up to three times greater if a first-degree relative has the disease.
+
+# Clinical features
+
+There is a strong association between the size of drusen and the risk of developing late AMD over a 5-year period.
+
+• Small drusen (drupelets), sometimes termed ‘hard’ drusen, are typically well-defined white–yellow and by definition measure ≤63 μm – less than half the width of a retinal vein at the optic disc margin – in diameter. Their presence as the only finding probably carries little increased risk of visual loss, unless associated with pigmentary abnormalities.
+
+• Intermediate drusen are fairly well-defined yellow–white focal deposits at the level of the RPE measuring between 63 μm and 125 μm. Without accompanying pigmentary abnormalities, they carry only a small risk of progression to late AMD over 5 years.
+---
+# 574 Age-Related Macular Degeneration
+
+|A|B|
+|---|---|
+|C|D|
+|E|F|
+
+Fig. 14.29 Drusen. (A) Histopathology showing homogeneous eosinophilic deposits lying between the retinal pigment epithelium (RPE) and the inner collagenous layer of Bruch membrane; (B) OCT showing drusen (arrows); (C) initial image; (D) same eye 4 years later showing an increase in number and size of drusen; (E) drusen with associated pigmentary abnormalities; (F) red-free image of (E)
+
+(Courtesy of J Harry – fig. A; S Chen – figs C and D)
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+years, but this increases to over 10% if pigmentary abnormalities are present in both eyes.
+
+- Large drusen are less well delineated yellow–white deep retinal lesions measuring over 125 μm in diameter. The term ‘soft’ drusen is sometimes used synonymously. As they enlarge and become more numerous (see Fig.14.29C and D), they may coalesce giving a localized elevation of the RPE, a ‘drusenoid RPE detachment’ – see below. The presence of large drusen in both eyes is associated with a 13% risk of progression to late AMD over 5 years, but with accompanying bilateral pigmentary abnormalities this rises to about 50%.
+- Dystrophic calcification may develop in all types of drusen.
+- Pigmentary abnormalities. Hyper- and hypopigmentation (see Fig. 14.29E and F) not due to other retinal disease is associated with a significantly higher likelihood of progression to late AMD with visual loss.
+
+TIP There is a strong association between the risk of developing advanced AMD, drusen size and macular pigmentary change.
+
+# OCT
+
+Medium-sized and large drusen are seen as hyper-reflective irregular nodules beneath the RPE, located on or within the Bruch membrane (see Fig. 14.29B).
+
+# Fluorescein angiography
+
+FA findings depend on the state of the overlying RPE and on the affinity of the drusen for fluorescein. Hyperfluorescence can be caused by a window defect due to atrophy of the overlying RPE, or by late staining. Hypofluorescent drusen masking background fluorescence are hydrophobic, with a high lipid content and tend not to stain.
+
+# Differential diagnosis
+
+A number of conditions feature lesions similar to age-related drusen and at least some may have a similar pathophysiological basis.
+
+- Doyne honeycomb retinal dystrophy (malattia leventinese, autosomal dominant radial drusen) is an uncommon condition in which fairly characteristic drusen (Fig. 14.30A) appear during the second or third decades (see Ch. 15).
+- Cuticular drusen, also known as grouped early adult-onset or basal laminar drusen (not to be confused with basal laminar deposit and basal linear deposit in AMD – see dry AMD below), tend to be seen in relatively young adults. The lesions consist of small (25–75 μm) yellowish nodules (Fig. 14.30B) that tend to cluster and increase in number with time and can progress to serous PED. FA characteristically gives a ‘stars in the sky’ appearance (Fig. 14.30C). The condition has been linked to a variant of the CFH gene.
+
+Type 2 membranoproliferative glomerulonephritis is a chronic renal disease that occurs in older children and adults. TIP In a patient with dry AMD and high risk characteristics, prescribing a regular anti-oxidant supplement can reduce the risk of developing severe AMD.
+---
+# 576 Age-Related Macular Degeneration
+
+# Antioxidant supplementation
+
+- Lutein (10 mg).
+- Zeaxanthin (2 mg).
+
+# Introduction
+
+- Zinc (25–80 mg; the lower dose may be equally effective).
+- Copper (2 mg; this may not be required with the lower zinc dose).
+
+There is substantial evidence, notably from the Age-Related Eye Disease Study (AREDS, now known as AREDS1) and the follow-up AREDS2, that taking high-dose antioxidant vitamins and minerals on a regular basis can decrease the risk of the development of advanced AMD in individuals with certain dry AMD features. The recommendation was made in AREDS1 that individuals aged over 55 should undergo examination for the following high-risk characteristics and if one or more are present should consider antioxidant supplementation:
+
+- Extensive intermediate- (≥63–125 μm) drusen.
+- One or more large (≥125 μm) drusen.
+- GA in one or both eyes.
+- Late AMD in one eye (greatest benefit in AREDS1).
+
+In AREDS1 the reduction in risk of progression to advanced AMD at 10 years was in the order of 25–30% for those with the more advanced of these signs at baseline who took supplements. However, supplements did not discernibly reduce progression in those with early or no AMD at baseline.
+
+# AREDS2
+
+The regimen used in AREDS1 consisted of vitamin C, vitamin E, the beta-carotene form of vitamin A and 80 mg daily of zinc (with copper to prevent zinc-induced anaemia). However, high zinc doses are potentially associated with genitourinary tract problems and there are data suggesting that 25 mg of zinc may be the maximal level that is absorbed. Beta-carotene increases the incidence of lung cancer in current and former smokers. AREDS2 looked at adjusting the beta-carotene and zinc components and also whether additional or alternative supplements could enhance outcomes. AREDS2 found:
+
+- The carotenoids lutein and zeaxanthin are a safe alternative to beta-carotene and are probably superior (possible 18% reduction in risk of advanced AMD above that conferred by the AREDS1 regimen).
+- Lutein and zeaxanthin supplementation added to the original AREDS1 regimen was only associated with a statistically significantly reduced (26%) risk of AMD in patients in whom the dietary intake of these was not already high (self-described and blood testing). There was evidence that competition for absorption between different carotenoids may have prevented the demonstration of superiority in other patients. This group also showed a one-third reduction in the likelihood of cataract surgery.
+- Adding omega-3 fatty acids to the regimen did not seem to enhance outcomes.
+- Lowering the zinc dose did not lead to a statistically significant prognostic worsening and is likely to be associated with a lower incidence of side-effects such as gastrointestinal and urinary problems.
+
+# Recommended daily supplementation based on AREDS2:
+
+- Vitamin E (400 IU).
+- Vitamin C (500 mg).
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+Fig. 14.31 Age-related macular degeneration without neovascularization.
+(A) Drusen and mild pigmentary changes;
+(B) same eye as (A) 4 years later with moderate retinal atrophy and pigmentary abnormalities;
+(C) geographic atrophy;
+(D) late FA of eye in (C);
+(E) substantial geographic atrophy and pigmentary abnormalities;
+(F) OCT showing outer retinal tubulations (arrow)
+
+(Courtesy of S Chen – figs A, B, E)
+---
+# 578 Age-Related Macular Degeneration
+
+down between the RPE basement membrane and the inner collagenous layer of the Bruch membrane that may progress focally to form drusen. Immune-mediated processes may also be important.
+
+- FA of atrophic areas shows a window defect due to unmasking of background choroidal fluorescence (see Fig. 14.12), if the underlying choriocapillaris is still intact. Exposed sclera may exhibit late staining.
+
+# Management
+
+- Prophylaxis
+- Antioxidant supplementation if indicated.
+- Risk factors should be addressed, e.g. smoking, ocular sun protection, cardiovascular, dietary.
+- An Amsler grid should be provided for home use, with advice to self-test on a regular basis and to seek professional advice urgently in the event of any change in vision.
+- Provision of low vision aids and visually-impaired certification for individuals with significant visual loss, as this may facilitate access to social and financial support.
+- Experimental surgery
+- Miniature intraocular telescope implantation may provide benefit in selected cases.
+- Retinal translocation surgery has had limited success.
+- Visual prostheses of various types are under investigation, but are likely to be adopted for severe retinal dystrophies initially.
+- Potential new therapies
+- Lampalizumab, a complement-inhibiting monoclonal antibody injected intravitreally is ineffective in the treatment of geographic atrophy.
+- Visual cycle modulation: ameliorating the formation of cytotoxic products by reducing the rate of vitamin A processing. Clinical trials (e.g. fenretinide, emixustat) are under way.
+- Photocoagulation of drusen leads to a substantial reduction in their extent, but does not reduce the risk of progression to AMD. A newer modality using extremely short (nanosecond range) pulses of non-thermal laser energy may have a rejuvenating effect on the RPE and Bruch membrane.
+- Saffron (20 mg/day). Short-term results reveal an improvement in retinal function.
+- Other therapeutic options include subretinal stem cell transplantation and intravitreal injection of a range of drugs including ciliary neurotrophic factor and brimodine (as a sustained-release implant).
+
+# Retinal pigment epithelial detachment
+
+# Pathogenesis
+
+Pigment epithelial detachment (PED) from the inner collagenous layer of Bruch membrane is caused by disruption of the physiological forces maintaining adhesion. The basic mechanism is thought to be the reduction of hydraulic conductivity of a thickened and dysfunctional Bruch membrane, thus impeding movement of fluid from the RPE towards the choroid.
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+A
+
+B
+
+C
+
+D
+
+Fig. 14.32 Detachment of the retinal pigment epithelium (RPE).
+(A) Clinical appearance; (B) FA at 10 minutes showing hyperfluorescence;
+(C) ICGA 10 minutes showing hypofluorescence; (D) OCT showing separation of the RPE from Bruch membrane.
+Subretinal hypo/hyper-reflective material is present under the sensory retina.
+
+# Fibrovascular PED
+
+By definition (Macular Photocoagulation Study classification), fibrovascular PED represents a form of ‘occult’ CNV (see below).
+
+- Signs. The PED is much more irregular in outline and elevation than serous PED.
+- OCT. Less uniform than a serous PED. Both fluid and fibrous proliferation are shown, the latter as irregular scattered reflections.
+- FA shows markedly irregular granular (stippled) hyperfluorescence, with uneven filling of the PED, leakage and late staining.
+- ICGA demonstrates CNV more effectively.
+- Management is essentially as for serous PED with CNV.
+
+• FA. Early diffuse hypoﬂuorescence with patchy relatively faint early hyperfluorescence, progressing to moderate irregular late staining (Fig. 14.34B).
+
+• ICGA. Hypofluorescence predominates.
+
+• OCT shows homogeneous hyper-reflectivity within the PED, in contrast to optically empty serous PED. There is commonly no subretinal fluid.
+
+• Natural course. The outlook is usually better than other forms of PED, with only gradual visual loss, though probably around 75% still progress to develop GA and 25% CNV by 10 years from diagnosis. Long-term stability is common: at 3 years, only about one-third will have GA or CNV.
+
+• Management. Observation in most cases, with no evidence to support the efficacy of any intervention.
+
+# Drusenoid PED
+
+Drusenoid PED develops from confluent large soft drusen and is often bilateral.
+
+- Signs. Shallow elevated pale areas with irregular scalloped edges (Fig. 14.34A).
+
+# Haemorrhagic PED
+
+Virtually every haemorrhagic PED has underlying CNV or polypoidal choroidal vasculopathy (PCV): the latter should always be considered if no drusen are present.
+---
+# 580 Age-Related Macular Degeneration
+
+(Courtesy of S Chen)
+
+- Symptoms. Sudden impairment of central vision.
+- Large PED with a small ratio of CNV size to PED.
+- Signs
+- Elevated dark red dome-shaped lesion with a well-defined outline (Fig. 14.35).
+- Blood may break through into the subretinal space, assuming a more diffuse outline and a lighter red colour.
+- FA. Dense masking of background fluorescence, but overlying vessels are visible.
+- Management of large haemorrhagic lesions is described below under ‘Haemorrhagic AMD’, but the prognosis for central vision is generally poor. CNV associated with a small haemorrhagic PED can be managed conventionally. Management of PCV is discussed separately.
+- TIP Patients with a large pigment epithelial detachment should be warned that there is a risk of inducing a pigment epithelial tear with anti-VEGF injection.
+
+# Retinal pigment epithelial tear
+
+Tears may occur spontaneously, following laser (including PDT), or after intravitreal injection.
+
+- An RPE tear occurs at the junction of attached and detached RPE. Two opposing forces play a role: traction from CNV contraction and adhesive forces from the attached RPE. The tear appears on the opposite side of the neovascular membrane and the contracted RPE monolayer comes to rest on the side of the CNV.
+- Risk factors
+- Older patients.
+- Long duration.
+
+# Choroidal neovascularization (CNV)
+
+# Introduction
+
+Choroidal neovascularization (CNV) consists of a blood vessel complex that extends through Bruch membrane from the choriocapillaris into the sub-RPE (type 1) or subretinal (type 2) space.
+
+It occurs in many different disorders, usually when Bruch membrane and/or RPE function has been compromised by a degenerative, inflammatory, traumatic or neoplastic process. AMD is the most common causative association, followed by myopic degeneration. The present discussion relates to CNV arising de novo as the primary lesion in neovascular AMD, but CNV may also develop secondary to retinal angiomatous proliferation and polypoidal choroidal vasculopathy (RAP and PCV – see below).
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+Fig. 14.34 Drusenoid detachment of the retinal pigment epithelium. (A) Clinical appearance; (B) FA late phase showing moderate hyperfluorescence due to staining both of which are considered to be variants of neovascular AMD. The prognosis of untreated CNV is poor, with ‘counting fingers’ vision a common outcome. An understanding of the pathogenesis has improved over recent years. The promotion and inhibition of blood vessel growth by cytokines is important, particularly vascular endothelial growth factor (VEGF), which binds to endothelial cell receptors, promoting proliferation and vascular leakage. The inhibitory mediators pigment epithelium-derived factor (PEDF) and complement factor H (CFH) are also thought to play key roles. Supplementary endothelial progenitor cells are thought to be recruited from systemic reservoirs, enhancing growth of the new vessel complex.
+
+# Clinical features
+
+- Symptoms. Acute or subacute painless blurring of vision, usually with metamorphopsia. Haemorrhage may give a positive scotoma.
+- Signs
+- The CNV itself may be identifiable as a grey–green or pinkish-yellow lesion (Fig. 14.37A).
+
+○ Associated medium–large drusen are a typical finding in the same or fellow eye.
+
+○ Localized subretinal fluid, sometimes with cystoid macular oedema (CMO).
+
+○ Intra- and subretinal lipid deposition, sometimes extensive (Fig. 14.37B).
+
+○ Haemorrhage (Fig. 14.37C) is common, e.g. subretinal, preretinal/retrohyaloid, vitreous.
+
+○ There may be an associated serous, fibrovascular drusenoid or haemorrhagic PED.
+
+Retinal and subretinal cicatrization (‘disciform’ scar) in an evolved or treated lesion (Fig. 14.37D).
+
+# Fluorescein angiography
+
+FA was previously used to diagnose CNV and to plan and monitor the response to laser photocoagulation or PDT. Current indications include:
+---
+# 582 Age-Related Macular Degeneration
+
+|A|B|
+|---|---|
+| (A) Clinical appearance of pigment epithelial tear; (B) FA late phase showing relative hypoﬂuorescence of the folded ﬂap with adjacent hyperﬂuorescence where the RPE is missing; (C) OCT showing multilobed PED with subretinal fluid prior to tear; (D) OCT after tear (arrowhead) showing corrugation of the elevated RPE (arrow) (Courtesy of A Ambresin – ﬁgs. C and D)| (A) Clinical appearance of pigment epithelial tear; (B) FA late phase showing relative hypoﬂuorescence of the folded ﬂap with adjacent hyperﬂuorescence where the RPE is missing; (C) OCT showing multilobed PED with subretinal fluid prior to tear; (D) OCT after tear (arrowhead) showing corrugation of the elevated RPE (arrow) (Courtesy of A Ambresin – ﬁgs. C and D)|
+
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+A
+
+B
+
+C
+
+D
+
+Fig. 14.37 Signs in choroidal neovascularization (CNV).
+(A) CNV visible as a grey–green sub-macular area (arrow) with surrounding exudation;
+(B) extensive lipid deposition;
+(C) hemorrhage – intra- and subretinal;
+(D) ‘disciform’ scarring.
+
+- Diagnosis of CNV prior to committing to anti-VEGF treatment. FA should usually be performed urgently on the basis of clinical suspicion.
+- As an adjunct to diagnosis of an alternative form of neovascular AMD such as PCV and RAP.
+- Exceptionally, localization for extrafoveal photocoagulation, or guidance for PDT.
+- Monitoring is now predominantly with OCT.
+
+Terminology used to describe CNV on FA is derived from the Macular Photocoagulation Study:
+
+- Type 1: Occult CNV (80%) is used to describe CNV when its limits cannot be fully defined on FA (Fig. 14.38A–D). Variants are fibrovascular PED (see above) and ‘late leakage of an undetermined source’ (LLUS). OCT manifests as a PED, which is commonly multilobulated with variable internal reflectivity. It is present above Bruch membrane but below the RPE (Fig. 14.38E).
+- Type 2: Classic CNV (20%) fills with dye in a well-defined ‘lacy’ pattern during early transit (Fig. 14.39A), subsequently leaking into the subretinal space over 1–2 minutes (Fig. 14.39B), with late staining of fibrous tissue (Fig. 14.39C and D). Most CNV is subfoveal; extrafoveal being defined as ≥200 μm from the centre of the foveal avascular zone on FA. The OCT shows subretinal hyper-reflective material. It is present below the neurosensory retina but above the RPE (Fig. 14.39E).
+- Predominantly or minimally classic CNV is present when the classic element is greater or less than 50% of the total lesion respectively.
+
+# Indocyanine green angiography
+
+ICGA demonstrates CNV as a focal hyperfluorescent ‘hot spot’ (Fig. 14.40) or ‘plaque’. Benefits adjunctive to FA include:
+---
+# 584 Age-Related Macular Degeneration
+
+(A) Specks of blood at the fovea; (B–D) FA showing diffuse hyperfluorescence but the limits of the membrane cannot be defined; (E) OCT showing a PED with variable internal reflectivity and subretinal fluid (arrow)
+
+- Increased sensitivity in the detection of CNV, for example if low-density haemorrhage, fluid or pigment preclude adequate FA visualization.
+- The distinction of CNV from other conditions that may have a similar presentation, particularly PCV, RAP and CSR.
+- The delineation of occult CNV may still have utility for combined modality treatment and for patients who refuse intravitreal therapy.
+
+Optical coherence tomography (OCT) is critical in the diagnosis and quantitative monitoring of the response to CNV treatment. Typically, CNV is shown as a thickening and fragmentation of the RPE and choriocapillaris. Subretinal and sub-RPE fluid, blood and scarring are demonstrated. Outer retinal tubulations (see Fig. 14.31F) may be present, often in a branching pseudodendritic conformation. On OCT the classification is based on the location of the pathology.
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+Fig. 14.39 Classic (Type 2) subfoveal choroidal neovascularization.
+
+|A|Colour image showing grey–green area and small haemorrhage;|
+|---|---|
+|B|early FA showing ‘lacy’ hyperﬂuorescent pattern and an area of hypoﬂuorescence secondary to the haemorrhage;|
+|C|late venous phase – more intense hyperﬂuorescence with leakage and staining;|
+|D|persistent staining at 10 minutes;|
+|E|OCT showing subretinal hyper-reﬂective material (arrow)|
+
+(Courtesy of A Ambresin – ﬁg. E)
+---
+# 586 Age-Related Macular Degeneration
+
+|A|B|
+|---|---|
+|C|D|
+
+Fig. 14.40 ICGA of choroidal neovascularization (CNV). (A) Blood and fluid at the macula surrounded by hard exudates; (B–D) showing a small area of increasing hyperfluorescence (‘hot spot’) from underlying CNV.
+
+- Type 1 (occult CNV on FA) is above Bruch membrane but below the retinal pigment epithelium and manifests as a pigment epithelial detachment that is often multilobulated in appearance (see Fig. 14.38E).
+- Type 2 (classic CNV on FA) is below the neurosensory retina but above the retinal pigment epithelium. Subretinal fluid, haemorrhage or intraretinal fluid may be present (see Fig. 14.39E).
+
+Treatment with anti-VEGF agents
+
+# Principles
+
+Inhibitors of VEGF block its interaction with receptors on the endothelial cell surface and so retard or reverse vessel growth. They have become the predominant means of treatment for CNV, dramatically improving the visual prognosis. Genetic factors are associated with a variability in response so that visual outcomes can differ from patient to patient. Intravitreal injection is the standard method of administration. Notable (but rare) risks include retinal detachment, damage to the lens, RPE tears and endophthalmitis. Sustained elevation of intraocular pressure (IOP) and sterile uveitis may occasionally occur. Systemically, there may be a slightly increased incidence of stroke. All available anti-VEGF agents seem to have potential for benefit in a range of vascular eye diseases. As a general principle, the better the visual acuity at the onset of treatment the better the visual acuity at follow-up. There is some evidence that younger age at treatment onset may confer a worse outcome. Treatment should be initiated within 2–3 weeks of symptom onset.
+
+# Landmark studies
+
+The following large, randomized, double-masked, sham-controlled trials provide the evidential basis for anti-VEGF treatment in individuals with neovascular age-related macular degeneration.
+
+- MARINA (Minimally Classic/Occult Trial of the Anti-VEGF Antibody Ranibizumab in the treatment of Neovascular AMD) shows that ranibizumab treatment is more likely to prevent visual loss than placebo in patients with neovascular AMD; a benefit that is sustained for 2 years regardless of gender, age, lesion size or type.
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+also shows an improvement in angiographic and OCT outcomes.
+
+- ANCHOR (Anti-VEGF Antibody Ranibizumab for the Treatment of Predominantly Classic Choroidal Neovascularization in AMD) confirms that ranibizumab treatment is more effective than verteporfin PDT in respect of visual acuity, with approximately one-third of subjects improving by 15 letters.
+- PIER concludes that the outcomes are better if ranibizumab is injected monthly than if it is injected monthly for 3 months and then 3-monthly for 1 year.
+- HORIZON and SAILOR studies confirm that intravitreal ranibizumab has a good safety profile and is well tolerated.
+- PrONTO (Prospective OCT Imaging of Patients with Neovascular AMD Treated with Intraocular Ranibizumab) shows that an OCT-guided retreatment strategy results in similar visual acuity outcomes with fewer injections than a monthly schedule.
+- HARBOUR concludes that a 0.5 mg versus 2 mg monthly versus ‘as-needed’ injection of ranibizumab provides similar results in all treatment groups.
+- CATT (Comparison of Age-Related Macular Degeneration Treatment Trial) compares ranibizumab with bevacizumab intravitreal injections and shows no significant differences in outcome.
+- IVAN (Alternative Treatments to Inhibit VEGF in Age-Related Choroidal Neovascularization) is similar to CATT, but uses a dosing schedule of monthly injections for 3 months then three consecutive monthly injections whenever retreatment is required. It shows equivalent visual outcomes, but finds that arteriothrombotic events and heart failure are more likely to occur in patients receiving bevacizumab.
+- VIEW 1/2 (VEGF Trap-Eye: Investigation of Efficacy and Safety in Wet AMD) shows that aflibercept (injected bimonthly) is as effective as ranibizumab (injected monthly) in the treatment of neovascular AMD.
+
+• Ranibizumab (Lucentis®). Ranibizumab is a humanized monoclonal antibody fragment developed specifically for use in the eye. It is derived from the same parent mouse antibody as bevacizumab and non-selectively binds and inhibits all isoforms of VEGF-A. The usual dose is 0.5 mg in 0.05 ml. Three main treatment strategies are adopted in AMD:
+
+- Indications. All CNV subtypes respond to anti-VEGF therapy, but benefit is only likely in the presence of active disease (this treatment is of no benefit in patients with a mature fibrotic disciform scar). Evidence for active CNV includes fluid or haemorrhage, leakage on FA, an enlarging CNV membrane, or deteriorating vision judged likely to be due to CNV activity. An eye with almost any level of vision may benefit, although better VA at the outset is associated with a better final VA.
+- Aflibercept (Eylea®) is a recombinant fusion protein that binds to VEGF-A, VEGF-B and placental growth factor (PlGF). After becoming commercially available, it was adopted rapidly into clinical practice, principally because the recommended maintenance regimen consists of one injection every 2 months in contrast to the monthly injections recommended with ranibizumab and bevacizumab, though in some patients dosing is required more frequently than every 2 months. The standard dose is 2 mg in 0.05 ml; an induction course of three injections is given at monthly intervals.
+
+• Three initial monthly injections followed by monthly review with re-injection when deterioration occurs as assessed by VA (e.g. loss of five letters or more) and OCT (e.g. retinal thickness increase of 100 μm or more).
+
+• ‘Treat and extend’ entails administering three initial injections at monthly intervals and then gradually increasing the period between injections until deterioration is evident. If possible, a tailored interval is determined for each patient.
+---
+# 588 Age-Related Macular Degeneration
+
+• Bevacizumab (Avastin®). In contrast to ranibizumab, bevacizumab is a complete antibody originally developed to target blood vessel growth in metastatic cancer deposits. Its use for AMD and other indications is ‘off label’. It is very much cheaper than ranibizumab and aflibercept. Clinical trial results suggest that it is approximately comparable to ranibizumab in efficacy and safety, though some studies have suggested that the risk of serious systemic adverse events is marginally higher with bevacizumab than ranibizumab. Treatment strategies in AMD are similar to those used for ranibizumab. The dose of bevacizumab is usually 1.25 mg/0.05 ml.
+
+• Brolucizumab. The drug is significantly smaller than other anti-VEGF agents and has high binding affinity. It lasts longer in the eye and thus permits less frequent dosing. The HAWK and HARRIER studies show non-inferiority to aflibercept with an improved dosing interval. Approximately half of the patients on this agent can be maintained on a 3-monthly injection schedule at 1 year.
+
+• Pegaptanib (Macugen®). Pegaptanib sodium was the first anti-VEGF agent approved by regulatory authorities for ocular treatment. The results are similar to outcomes with PDT and its use is now extremely limited.
+
+# Treatment with photodynamic therapy (PDT)
+
+Verteporfin is a light-activated compound preferentially taken up by dividing cells including neovascular tissue. It is infused intravenously and then activated by diode laser to cause thrombosis. The main indication is subfoveal predominantly classic.
+
+# Table 14.3 Technique of Intravitreal Injection
+
+• The procedure and its risks should be explained to the patient and appropriate consent obtained.• The environment should be appropriate, e.g. a dedicated ‘clean room’ with adequate illumination.• The indication and the eye to be treated should be checked and the eye marked.• It should be confirmed that anterior and posterior segment examination (including IOP) has been carried out recently to exclude contraindications.• Confirmation should be obtained that a syringe of the drug to be injected is available.• Bilateral injections are optimally administered at separate sessions to minimize risk, but if necessary different instruments and drug batches should be used.• A surgical mask should be worn.• Topical anaesthetic and mydriatic agents are instilled.• Povidone-iodine 5% (chlorhexidine if allergic to iodine) is applied to the ocular surface and at least 3 minutes allowed prior to injection.• Subconjunctival lidocaine 1% or 2% may be used to supplement the topical agent. Some practitioners prefer lidocaine gel, though concerns have been expressed regarding the possibility of microorganism retention within this.• Hands are washed using a standard surgical procedure and sterile gloves donned.• The periocular skin, eyelids and lashes are cleaned with 5–10% povidone-iodine.• As for other forms of intraocular surgery, a sterile periocular drape may be advisable.• The sterile pouch containing a pre-prepared syringe is opened, or a sterile syringe is used to draw up the appropriate volume of drug from a vial of ready-prepared drug. A needle (typically 30-gauge, 0.5 inch) on the syringe is primed to expel any air.• A sterile speculum is placed in the eye.• The patient is instructed to look away from the injection site – this is most commonly inferotemporal because of ease of access, though any quadrant can be used; the 3 and 9 o’clock positions are avoided because of the risk of neurovascular damage.• A gauge is used to identify an injection site 3.5–4.0 mm posterior to the limbus (pars plana).• Forceps can be used to stabilize the eye and, if wished, to apply anterior traction to the conjunctiva so that the conjunctival hole does not overlie the scleral track.• The needle is advanced perpendicularly through the sclera towards the centre of the eyeball and the required volume of drug (usually 0.05 ml) is injected into the vitreous cavity. Some practitioners try to ‘step’ the needle track.• The needle is removed and discarded.• It has become usual practice not to use post-injection antibiotics as there is a suggestion that serial use may increase the rate of infection by promoting bacterial resistance.• Elevated IOP can occlude the central retinal artery and it is important routinely to ensure this remains perfused after the procedure by checking the patient’s vision (subjectively is adequate), directly visualizing the artery, or optimally by checking the IOP (particularly in glaucoma patients). If occlusion occurs, urgent paracentesis should be carried out; simply lying down may restore blood flow.• A clear plastic eye shield may be used until the local anaesthetic has worn off and during sleep for the first night or two, but practice varies.
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+CNV with visual acuity of 6/60 or better. Severe adverse effects are rare. With the advent of anti-VEGF treatment, PDT is now rarely used for CNV, but combination therapy (see below) and refusal of intravitreal treatment remain indications. Reduced-intensity regimens have been used with good effect in CSR.
+
+# Diagnosis
+
+• Presentation is similar to that of CNV but PED and exudate are more frequent. Haemorrhages are also more common and tend to be superficial and multiple.
+
+• Stage 1: Intraretinal neovascularization (IRN). Dilated telangiectatic retinal vessels and small angiomatous lesions, typically accompanied by intra-, sub- and preretinal haemorrhage, oedema and exudate (Fig. 14.42A).
+
+• Stage 2: Subretinal neovascularization (SRN) extends into the subretinal space associated with increasing oedema and exudate. A serous PED may be present.
+
+• Stage 3: CNV. Perfusion is principally via the choroid, with RCA formation. CNV is clearly evident clinically or angiographically; a disciform scar will often form.
+
+• OCT demonstrates neovascularization as a hyper-reflective area. Other features depend on the stage.
+
+• ICGA is diagnostic in most cases, showing a hot spot in mid and/or late frames (Fig. 14.42B) and frequently a perfusing retinal arteriole and draining venule (‘hairpin loop’ when linked).
+
+• FA is usually similar to occult or minimally classic CNV (Fig. 14.42C and D), but may show focal intraretinal hyperfluorescence.
+
+# Treatment
+
+Anti-VEGF therapy shows encouraging results. Favourable outcomes in combination with PDT have been reported. Limited success has been reported for other modalities, including PDT alone and photocoagulation of feeder vessels, though the latter may be used in resistant cases.
+
+# Haemorrhagic AMD
+
+The visual prognosis for most eyes with extensive subretinal or sub-RPE haemorrhage is poor. Clinical trials assessing surgical drainage of extensive subretinal or sub-RPE haemorrhage with CNV excision have not shown any significant improvement in prognosis and an increased rate of rhegmatogenous retinal detachment. However, better results have been reported using intravitreal anti-VEGF injection and liquefaction of blood by intravitreal (or subretinal, requiring vitrectomy) recombinant tissue plasminogen activator (rtPA). In addition, pneumatic displacement may be appropriate for large or thick haemorrhage. If the patient takes a coumarin anticoagulant, liaison with the prescribing physician is worthwhile to assess if this could be stopped as there is an association with massive macular haemorrhage. Antiplatelet drugs do not usually require discontinuation, though aspirin may be associated with a greater risk of CNV than other agents. Alternative pathology (e.g. PCV, macroaneurysm) that may be associated with extensive haemorrhage should always be considered.
+
+# POLYPOIDAL CHOROIDAL VASCULOPATHY
+
+# Introduction
+
+Polypoidal choroidal vasculopathy (PCV) belongs to a spectrum of conditions characterised by ‘pachychoroid’, in which a disturbance in choroidal circulation seems to be central to the pathogenesis. It is characterized by a branching vascular network of inner choroidal vessels with multiple terminal aneurysmal protuberances that appear to be the source of bleeding and exudation. It is more common in patients of African and East Asian ethnic origin than in whites and is more common in women than men (5:1). The disease is often bilateral but tends to be asymmetrical. Risk factors include cigarette smoking, increased body mass index and increased levels of inflammatory biomarkers (e.g. C-reactive protein). Overall, it is relatively common and the presence of prominent haemorrhage should lead to the consideration of PCV, particularly if there is an absence of drusen and the patient is relatively young and Asian or African.
+
+# Diagnosis
+
+• Presentation is usually in late middle age with the sudden onset of unilateral visual impairment.
+
+# RETINAL ANGIOMATOUS PROLIFERATION
+
+Retinal angiomatous proliferation (RAP) is a variant of neovascular AMD (Type 3), in which the major component of the neovascular complex is initially located within the retina. The process may originate in the deep retinal capillary plexus or within the choroid, in the latter case with the early formation of a retinal-choroidal anastomosis (RCA). The disease is frequently bilateral and symmetrical and is probably underdiagnosed. It may constitute 10–20% of neovascular AMD in white people.
+---
+# Polypoidal Choroidal Vasculopathy
+
+Fig. 14.42 Retinal angiomatous proliferation (Type 3).
+(A) Drusen and a small intraretinal haemorrhage at the macula;
+(B) ICGA early phase showing hyperfluorescence of the frond (‘hot spot’) (arrow);
+(C) FA early venous phase showing faint hyperfluorescence from a small frond of intraretinal neovascularization;
+(D) FA late venous phase showing hyperfluorescence of the neovascular membrane and surrounding drusen.
+
+- Signs
+- The previously darker surrounding region becomes hyperfluorescent by the late phase.
+- Terminal swellings are frequently visible as reddish-orange nodules beneath the RPE in the peripapillary or macular area (Fig. 14.43A) and less commonly the periphery.
+- Multiple recurrent serosanguineous retinal and RPE detachments.
+- Deterioration can be slow with intermittent bleeding and leakage, resulting in macular damage and visual loss. Up to 50% may have a favourable outlook, with eventual spontaneous resolution of exudation and haemorrhage.
+- OCT
+- Multiple large pigment epithelial detachments, particularly the ‘double-hump’ sign and the ‘inverted V’.
+- Round-oval polyps may be attached to the posterior surface of the PED.
+- A branching vascular network may be seen underlying a flat PED adjacent to the polyp.
+- Choroidal thickening may be demonstrated.
+- FA shows intense localized area of hyperfluorescence (Fig. 14.43B).
+- ICGA is the key investigation in PCV.
+- Hyperfluorescent nodules and a network of large choroidal vessels with surrounding hypofluorescence appear in the early phase. The polyp-like swellings rapidly begin to leak (Fig. 14.43C and D).
+
+# Treatment
+
+The favourable prognosis without treatment in a significant proportion of cases should be borne in mind and asymptomatic polyps may be observed.
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+A
+
+B
+
+C
+
+D
+
+Fig. 14.43 Polypoidal choroidal vasculopathy with exudative features.
+(A) Reddish-orange nodular terminal swellings with surrounding leakage;
+(B) FA appearance of (A) in late venous phase showing intense localized area of hyperfluorescence;
+(C) early ICGA of appearance of polyp (arrow);
+(D) late ICGA appearance.
+
+- Anti-VEGF agents are less effective than in typical CNV, but may suppress leakage and bleeding.
+- Combination anti-VEGF and verteporfin PDT is superior to anti-VEGF treatment alone. PDT may lead to regression of polyps and putatively an extended treatment effect, but carries an additional complication risk.
+- Laser photocoagulation of feeder vessels or polyps may be effective in selected cases, specifically if the changes are juxtafoveal.
+
+# PERIPHERAL EXUDATIVE HAEMORRHAGIC CHORIORETINOPATHY
+
+Peripheral exudative haemorrhagic chorioretinopathy (PEHCR) is an uncommon disorder affecting predominantly older women. It typically manifests with peripheral retinal haemorrhage, exudation and PED associated with CNV. It is bilateral in a substantial minority. The visual prognosis is often good, but the macula may be involved by extensive disease. The aetiology is unknown, though it may be a form of neovascular AMD. Some cases share characteristics with polypoidal choroidal vasculopathy. Treatment for sight-threatening disease generally consists of intravitreal anti-VEGF injection.
+
+# IDIOPATHIC CHOROIDAL NEOVASCULARIZATION
+
+Idiopathic CNV is an uncommon condition that affects patients under the age of 50 years and is usually unilateral. The
+
+TIP: In a patient with AMD who has not responded to anti-VEGF treatment after 3 months, undertake ICG angiography to check for polypoidal choroidal vasculopathy.
+---
+# Vitreomacular Interface Disorders
+
+Diagnosis is one of exclusion of other possible associations of CNV in younger patients, such as angioid streaks, high myopia and chorioretinal inflammatory conditions (such as presumed ocular histoplasmosis). The condition carries a better visual prognosis than that associated with AMD and in some cases spontaneous resolution may occur. Treatment is typically with an anti-VEGF agent.
+
+# VITREOMACULAR INTERFACE DISORDERS
+
+# Epiretinal membrane
+
+# Introduction
+
+An epiretinal membrane (ERM) is a transparent, avascular, fibrocellular structure that develops on or above the surface of the retina. Proliferation of the cellular component and contraction of the membrane leads to visual symptoms, primarily due to retinal wrinkling, obstruction and localized elevation with or without pseudocyst formation and CMO.
+
+- Idiopathic
+- No apparent cause, as a relatively common ageing process. The prevalence of early ERM (cellophane) is approximately 6.5% and advanced ERM (preretinal macular fibrosis) 2.6%.
+- Residual vitreous tissue remains on the retinal surface following cortical separation in around 50% of eyes, with subsequent proliferation. The predominant cellular constituent is glial cells, probably derived from the indigenous posterior hyaloid membrane (PHM) cell population (laminocytes). ERM development can occur at any stage of posterior vitreous detachment (PVD). It is now believed that the process of PVD from initiation to completion often extends over the course of years.
+- About 10% are bilateral.
+- Tend to be milder than secondary ERMs.
+- Secondary
+- Occur following retinal detachment surgery (most frequent cause of secondary ERM), retinal break, panretinal photocoagulation, retinal cryotherapy, retinal vascular disease, inflammation and trauma.
+- Binocularity is dependent on whether both eyes are affected by the causative factors.
+- Cell type more varied, with prominent pigment cells thought to be derived from the RPE.
+
+# Diagnosis
+
+- Symptoms: Blurring and metamorphopsia. Mild cases are often asymptomatic.
+- Signs:
+- VA is highly variable, depending on severity.
+- An irregular translucent sheen (cellophane maculopathy) is present in early ERM, often best detected using green (red-free) light.
+
+# Full-thickness macular hole
+
+# Introduction
+
+Full-thickness macular hole (FTMH) is a relatively common cause of central visual loss, with a prevalence of approximately 3:1000. The onset is most common in females aged 60–70. The risk of fellow eye involvement at 5 years is around 10%. The role of vitreomacular traction (VMT) in the aetiology of macular hole has increasingly been defined over recent years. A new OCT-based classification has been published by the International Vitreomacular Traction Study (IVTS) Group with the intention of replacing the older Gass clinical classification. Both systems are discussed below and vitreomacular traction is considered at greater length as a separate topic later in the chapter.
+
+Other causes of full-thickness macular hole include high myopia (which can lead to macular retinal detachment) and blunt ocular trauma. Lesions that may sometimes have a similar appearance.
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+|A|B|
+|---|---|
+|C|D|
+|500|500|
+|~00|~00|
+|300|300|
+|200|200|
+|I00|I00|
+
+Fig. 14.44 Macular epiretinal membrane. (A) Translucent membrane seen with red-free light; (B) colour image of the patient in (A); (C) advanced membrane; (D) macular pseudohole; (E) OCT showing high reflectivity anterior to the retina, foveal thickening and vitreomacular traction; (F) thickness map of (E) (Courtesy of P Scanlon – figs E and F)
+---
+# 594 Vitreomacular Interface Disorders
+
+include macular pseudohole and lamellar hole (see ‘Vitreoretinal traction’ below).
+
+Clinical features
+
+- Symptoms. Presentation of a full-thickness dehiscence may be with impairment of central vision in one eye, or as a relatively asymptomatic deterioration, first noticed when the fellow eye is occluded or at a routine sight test. Symptoms are absent or mild prior to the development of a full-thickness lesion. Metamorphopsia may be present.
+- Signs and OCT features
+- Stage 0 macular hole (IVTS: vitreomacular adhesion – VMA) was a term proposed originally to denote the OCT finding of oblique foveal vitreoretinal traction before the appearance of clinical changes.
+- Stage 1a ‘Impending’ macular hole (IVTS: vitreomacular traction – VMT) appears as flattening of the foveal depression with an underlying yellow spot. Pathologically, the inner retinal layers detach from the underlying photoreceptor layer, often with the formation of a cyst-like schisis cavity. The differential diagnosis of a foveal yellow spot includes adult vitelliform macular dystrophy, solar and laser pointer retinopathy and CMO.
+- Stage 1b occult macular hole (IVTS: vitreomacular traction – VMT) is seen as a yellow ring. A high resolution OCT of a normal macula is shown in Fig. 14.46A. With loss of structural support, the photoreceptor layer commonly undergoes centrifugal displacement.
+- Stage 2 small full-thickness hole (IVTS: small or medium FTMH with VMT) consists of a full-thickness hole less than 400 μm in diameter at its narrowest point. The defect may be central, slightly eccentric or crescent-shaped. A dehiscence is present in the inner retina with persistent vitreofoveolar adhesion.
+- Stage 3 full-size macular hole (IVTS: medium or large FTMH with VMT). A full-thickness hole greater than 400 μm in diameter, with a red base in which yellow–white dots may be seen. A surrounding grey cuff of subretinal fluid is usually present and an overlying retinal operculum (sometimes called a pseudo-operculum) may be visible. Visual acuity is commonly reduced to 6/60, but is occasionally better, particularly with eccentric fixation.
+- Stage 4 full-size macular hole with complete PVD (IVTS: small, medium or large FTMH without VMT). The clinical appearance is indistinguishable from stage 3. The posterior vitreous is completely detached, often suggested (but not confirmed) by the presence of a Weiss ring. A significant proportion of idiopathic macular holes have an associated ERM.
+
+# Investigation
+
+- Amsler grid testing will usually show non-specific central distortion rather than a scotoma.
+- The Watzke–Allen test is performed by projecting a narrow slit beam over the centre of the hole vertically and horizontally, preferably using a fundus contact lens. A patient with a macular hole will report that the beam is thinned or broken. Patients with other pathology usually see a distorted beam of uniform thickness.
+- OCT is extremely useful in diagnosis and staging.
+- FA in a full-thickness hole shows an early well-defined window defect due to xanthophyll displacement and RPE atrophy. In light of the effectiveness of OCT in this condition there is no need to undertake fluorescein angiography in routine cases.
+
+# Treatment
+
+- Observation. About 50% of stage 1 holes resolve following spontaneous vitreofoveolar separation, so these are managed conservatively. About 10% of full-thickness holes also close spontaneously, sometimes with marked visual improvement. Spontaneous resolution is more common with smaller FTMH. Treatment is not needed for spontaneously healed holes, though vitrectomy with ERM peeling is sometimes indicated.
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+Fig. 14.45 Macular hole. (A) Occult – stage 1b (arrow); (B) small full-thickness – stage 2; (C) full-size – stage 3; (D) OCT of stage 3
+
+- Pharmacological vitreolysis with ocriplasmin may be suitable for small early-stage holes. It is discussed under ‘Vitreomacular traction’ below.
+- Surgery may be considered in stage 2 or greater holes and for some lamellar holes. Superior results are usually achieved in smaller lesions present for under 6 months, but substantial visual improvement has been reported in long-standing cases.
+- - Operative treatment consists of vitrectomy, together with:
+
+The hole is closed in up to 100% of cases and visual improvement occurs over the course of months in 80–90% of eyes, with a final visual acuity of 6/12 or better in approximately 65%. Worsening of visual acuity occurs in up to 10% of eyes. Mild residual abnormality on OCT such as a defect in the inner-segment/outer-segment junction or other disturbance adjacent to the RPE (see Fig. 14.46F).
+
+# Vitreomacular traction
+
+# Introduction
+
+Physiological PVD (see Ch. 16) usually proceeds gradually over an extended period to encompass complete separation from the macula and optic nerve head: complete PVD. If adhesion of the gel persists at the central macula, an anomalous PVD is present and can precede a range of macular conditions. An expert panel, the International Vitreomacular Traction Study Group, recently published a classification of vitreomacular interface disease based principally on OCT appearance in order to unify previously disparate terminology.
+
+- Vitreomacular adhesion (VMA) refers to residual attachment of the vitreous within a 3 mm radius of the central macula in the presence of perifoveal vitreous separation. In most cases...
+---
+# Vitreomacular Interface Disorders
+
+# Posterior hyaloid
+
+|ONL|INL|GCL|NFL|
+|---|---|---|---|
+|IPL| | | |
+|OPL|ONL|ELM| |
+|A|IS/OS|RPE|RPE|
+|Posterior hyaloid| | | |
+|B|RPE|IS/OS|ELM|
+|IP L|IP L|IP L|IP L|
+|OPL|OPL|OPL|OPL|
+|C|RPE|IS/OS|ELM|
+|RPE|IS/OS|ELM|RPE|
+|D|Pseudo-operculum|Pseudo-operculum|Pseudo-operculum|
+|IPL|IPL|IPL|IPL|
+|OPL|OPL|OPL|OPL|
+|E|RPE|RPE|IS/OS|
+|ELM|F|RPE|IS/OS|
+|ELM|ELM|ELM| |
+
+Fig. 14.46 High resolution OCT of full-thickness macular hole (FTMH). (A) Normal; (B) stage 1b – vitreomacular traction – showing attachment of the posterior hyaloid to the fovea, separation of a small portion of the sensory retina from the RPE in the foveolar region and intraretinal cystic changes; (C) eccentric stage 2 – small FTMH with vitreomacular traction (VMT) – showing attachment of the vitreous to the lid of the hole and cystic change; (D) stage 3 – medium or large FTMH with VMT – with intraretinal cystic spaces; (E) stage 4 – large FTMH with no VMT – showing a full-thickness macular hole with intraretinal cystic spaces and an overlying operculum (sometimes termed a pseudo-operculum); (F) stage 4 after surgical closure, showing outer retinal disturbance (ELM = external limiting membrane; GCL = ganglion cell layer; INL = inner nuclear layer; IPL = inner plexiform layer; IS/OS = photoreceptor inner-segment/outer-segment junction; NFL = nerve fibre layer; ONL = outer nuclear layer; OPL = outer plexiform layer; RPE = retinal pigment epithelium) (Courtesy of J Fujimoto)
+
+It constitutes a stage in a dynamic process of PVD so may not incur pathological sequelae. There is no distortion of the foveal contour or any secondary retinal changes. Focal VMA involves an area of attachment of ≤1500 μm diameter, broad VMA >1500 μm.
+
+- Vitreomacular traction (VMT) is defined as the presence of retinal changes on OCT with evident perifoveal (within 3 mm) PVD. Distortion of the foveal surface contour and/or other structural retinal changes may be present. Focal (Fig. 14.49A) and broad types are defined as for VMA. Concurrent VMT is associated with other macular disease, e.g. AMD, RVO, DR. Isolated VMT is not associated with other macular disease.
+
+Fig. 14.47 Resolved macular microhole showing tiny focal inner/outer-segment junction deficit on OCT analysis (arrow)
+
+Full-thickness macular hole (FTMH). A foveal lesion featuring interruption of all retinal layers from the internal.
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+Fig. 14.49 Vitreomacular traction (VMT). (A) OCT showing mild VMT; (B) OCT of full-thickness macular hole showing interruption of all retinal layers and a small operculum.
+
+# Diagnosis
+
+- Symptoms in VMT include decreased vision, metamorphopsia, photopsia and micropsia, but are usually milder in lamellar holes and pseudoholes and absent in VMA.
+- Signs in VMT may include retinal surface thickening, wrinkling and distortion (see Fig. 14.49A), foveal pseudocyst, CMO, macular schisis or detachment and capillary leakage. The limit of the attached gel may be visible as a whitish band or reflex. Visible changes may be subtle. Both lamellar holes and pseudoholes can appear as a discrete reddish oval or round foveal spot.
+- OCT is the key investigation.
+
+# Treatment
+
+Treatment of FTMH and ERM is considered under separate topics above.
+
+- Observation. Spontaneous separation occurs in a proportion of patients with VMT and is more likely in milder cases. Observation is appropriate in patients with VMA and in many cases of VMT.
+- Pharmacological vitreolysis. Intravitreal injection of ocriplasmin, a recombinant form of human plasmin, releases VMT in over 25% of eyes and may close macular holes where VMT is present (40% versus 10% with placebo). Results are generally inferior to vitrectomy. Smaller areas of VMT and smaller macular holes have better outcomes. The presence of ERM is a poorer prognostic indicator for ocriplasmin treatment. Diffuse retinal dysfunction of uncertain mechanism, including substantially decreased acuity, has been reported as a rare side effect.
+---
+# 598 Central Serous Chorioretinopathy
+
+• Pars plana vitrectomy with peeling of the adherent area and permanently reduced vision. Multiple recurrent attacks may also give a similar clinical picture.
+
+• Any associated ERM usually gives good results in VMT.
+
+• The benefit of vitrectomy for lamellar and pseudoholes is less clear-cut, but is probably greater if significant ERM is present.
+
+• CMO, CNV or RPE tears develop in a small minority.
+
+• Bullous CSR is characterized by large single or multiple serous retinal and RPE detachments.
+
+# CENTRAL SEROUS CHORIORETINOPATHY
+
+# Overview
+
+Central serous chorioretinopathy (CSR) is an idiopathic disorder characterized by a localized serous detachment of the sensory retina at the macula secondary to leakage from the choriocapillaris through one or more hyperpermeable RPE sites. CSR typically affects one eye of a young or middle-aged white man. The male to female ratio is 3 : 1; females with CSR tend to be older. It presents in two forms: acute (self-resolving within 3–6 months) and chronic. A SNP involving the compliment factor H gene on chromosome 1 predisposes to the chronic form of CSR in whites. The use of steroids in any form (including endogenous Cushing syndrome) is significantly linked to this condition. Numerous other risk factors and associations have been reported (including Helicobacter pylori infection, renal dialysis, systemic hypertension, psychological stress, pregnancy and sleep apnoea syndrome).
+
+# Investigation
+
+• Amsler grid confirms metamorphopsia corresponding to the neurosensory detachment.
+
+• OCT shows an optically empty neurosensory elevation. Other findings may include one or more smaller RPE detachments, precipitates on the posterior surface of detached retina and thickened choroid. Degenerative changes may be seen in chronic or recurrent cases.
+
+• FA shows an early hyperfluorescent spot that gradually enlarges (an ‘ink blot’) or, less commonly, forms a vertical column (‘smokestack’) followed by diffusion throughout the detached area. An underlying PED may be demonstrated. Multiple focal leaks or diffuse areas of leakage can be evident, particularly in chronic or recurrent disease.
+
+• FAF shows a focal decrease in fundus autofluorescence at the leakage site and at sites of old lesions. A gravitational tract is sometimes seen.
+
+• ICGA. The early phase may show dilated or compromised choroidal vessels at the posterior pole and the mid-stage areas of hyperfluorescence due to choroidal hyperpermeability. Subclinical foci are commonly visible.
+
+# Clinical features
+
+• Symptoms. Unilateral blurring, metamorphopsia, micropsia and mild dyschromatopsia.
+
+• Signs
+
+- ○ VA is typically 6/9–6/18, but may improve with a low strength convex lens (correction of acquired hypermetropia from retinal elevation).
+- ○ Round or oval detachment of the sensory retina at the macula.
+- ○ The subretinal fluid may be clear (particularly in early lesions) or turbid. Precipitates may be present on the posterior retinal surface.
+- ○ One or more depigmented RPE foci (often small PEDs) of variable size may be visible within the neurosensory detachment. Small patches of RPE atrophy and hyperplasia elsewhere in the posterior pole may indicate the site of previous lesions and are typically seen easily on FAF imaging.
+- ○ Chronic lesions may be associated with substantial underlying atrophic change. Fluid can sometimes track downwards in a gravity-dependent fashion (gravitational tract), best shown on FAF imaging and can occasionally progress to bullous CSR.
+- ○ The optic disc should be examined to exclude a congenital pit as the cause of a neurosensory detachment.
+
+# Management
+
+• Observation is appropriate in many cases. All treatment modalities can be associated with RPE tear formation, which can also occur spontaneously.
+
+• Oral spironolactone (40 mg twice daily) results in faster resorption of subretinal fluid than no treatment in acute CSR.
+
+• Corticosteroid treatment should be discontinued if possible, particularly in chronic, recurrent or severe cases.
+
+• Laser. Subthreshold (micropulse) diode laser to the RPE site of leakage has shown good results in several studies and is associated with significantly less retinal damage on OCT than conventional photocoagulation.
+
+• PDT at 30–50% of the dose used for CNV in conjunction with 50% light intensity typically leads to complete resolution, including in severe chronic cases and is associated with a considerably lower incidence of significant choroidal ischaemia than higher-intensity regimens.
+
+• Intravitreal anti-VEGF agents show some promise and are commonly used in conjunction with PDT.
+
+• Others. Case reports show benefit with a variety of agents including aspirin, beta-blockers, mifepristone and eplerenone, but controlled assessment is limited to date.
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+Fig. 14.50 Central serous chorioretinopathy (CSR).
+
+(A) Serous retinal detachment;
+
+(B) resolving foveal CSR;
+
+(C) FAF of the same eye as (B) showing scarring from additional subclinical lesions;
+
+(D) FAF imaging in the chronic phase showing a gravitational tract below the optic disc;
+
+(E) OCT showing elevation of sensory retina in the acute phase
+---
+# 600 Central Serous Chorioretinopathy
+
+|A|B|
+|---|---|
+|C|D|
+
+Fig. 14.51 FA of central serous chorioretinopathy. (A) and (B) ‘Ink blot’ appearance; (C) and (D) ‘smokestack’ appearance (Courtesy of S Chen)
+
+A
+B
+Fig. 14.52 Subthreshold (micropulse) laser treatment of central serous chorioretinopathy. (A) Prior to treatment; (B) after successful treatment
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+TIP All forms of corticosteroid treatment should be discontinued if possible in patients with chronic or recurrent central serous chorioretinopathy.
+
+# IDIOPATHIC MACULAR TELANGIECTASIA
+
+Idiopathic macular telangiectasia (IMT, MacTel) is a condition of unknown pathogenesis. It may be more common than previously believed and can be confused with DR, prior RVO and other causes of macular vascular changes. A family history is present in a small proportion of cases.
+
+# Type 1: aneurysmal telangiectasia
+
+This may be closely related to Coats disease, or more specifically the milder form of Coats previously known as Leber miliary aneurysms. It generally involves only one eye and both the peripheral retina and macula can be affected. Patients are typically middle-aged males.
+
+- Symptoms: Mild–moderate blurring of vision in one eye.
+- Signs:
+- Telangiectasia and microaneurysms. Early signs may be subtle and more readily detected on red-free photography.
+- Larger aneurysms form as the condition progresses.
+- Macular oedema, including cystoid changes.
+- Chronic leakage and lipid deposition (Fig. 14.53A).
+- OCT demonstrates retinal thickening, CMO and localized exudative retinal detachment.
+- FA shows telangiectasia and multiple capillary, venular and arteriolar aneurysms (Fig. 14.53A–C) with late leakage and CMO (Fig. 14.53D). There is minimal non-perfusion.
+- Treatment is with laser to points and areas of leakage, but can be technically difficult depending on the proximity of changes to the foveola. Intravitreal VEGF inhibitors may be effective.
+- FAF changes occur early in the disease course and may precede clinically detectable signs (see Fig. 14.54D). Central foveal heightened autoﬂuorescence is a common early finding. This gradually increases in extent but in advanced disease an area of well-demarcated central hypoautoﬂuorescence develops.
+
+# Type 2: perifoveal telangiectasia
+
+This bilateral form is more common than type 1 and usually has a worse visual prognosis. The prevalence may have been underestimated in the past and could be as high as 0.1% in people over the age of 40 years. Males and females are equally affected; onset is in middle age. In contrast to type 1, findings are generally limited to the perifoveal area. Degeneration of Müller cells is thought to be an important pathogenic mechanism.
+
+- Symptoms: Blurring in one or both eyes. Distortion may be a feature.
+- Signs:
+- Early changes are subtle, manifesting as a lack of foveolar reflex (Fig. 14.54A).
+- Greyish loss of parafoveal retinal transparency extending up to one disc diameter from the foveola, initially temporal to and later surrounding the fovea.
+- Fine superﬁcial crystalline retinal deposits are common.
+- Mildly ectatic capillaries can be seen in the later stages. These telangiectatic vessels are present in the inner and outer retina, best seen in the venous phase of a fluorescein angiogram (Fig. 14.54B).
+- FA in early disease shows bilateral perifoveal telangiectasia (see Fig. 14.54B) with early leakage from the abnormal vessels progressing to diffuse leakage, though without CMO. The cystoid spaces identifiable on OCT do not show hyperfluorescence on FA. FA is also used to confirm CNV (see Fig. 14.54E and F).
+- Macular pigment optical density (MPOD) imaging shows a possibly pathognomonic pattern of oval reduction in density corresponding to the late distribution of hyperfluorescence on FA. MPOD is preserved from 6° outwards.
+- Treatment: Intravitreal anti-VEGF agents decrease leakage on FA in the non-proliferative stage but are probably not helpful visually. They are likely to be useful in the proliferative stage, especially for CNV.
+---
+# Cystoid Macular Oedema
+
+|A|B|
+|---|---|
+|C|D|
+
+Fig. 14.53 Idiopathic macular telangiectasia type 1 – aneurysmal telangiectasia. (A) Aneurysms and telangiectasis surrounded by a ring of exudate in late disease; (B) FA in early disease showing microaneurysms; (C) FA early phase of the eye in (A) showing telangiectasis temporal to the fovea; (D) FA late phase of eye in (A) showing leakage.
+
+# Type 3: occlusive telangiectasia
+
+This extremely rare condition presents in late middle age and carries a poor visual prognosis. The manifestations relate to capillary occlusion rather than telangiectasia (progressive occlusion of parafoveal capillaries with marked aneurysmal dilatation of terminal capillaries). It is distinct from type 1 and type 2 macular telangiectasia.
+
+# CYSTOID MACULAR OEDEMA
+
+# Introduction
+
+Cystoid macular oedema (CMO) results from the accumulation of fluid in the outer plexiform and inner nuclear layers of the retina with the formation of tiny cyst-like cavities (Fig. 14.55). Fluid may initially accumulate intracellularly in Müller cells, with subsequent rupture. Coalescence of smaller cavities may occur over time with subsequent progression to a foveal lamellar hole with irreversible impairment of central vision. CMO is a non-specific manifestation of any type of macular oedema. Causes include:
+
+- Ocular surgery and laser, e.g. phacoemulsification, panretinal photocoagulation and miscellaneous other procedures.
+- Retinal vascular disease, e.g. diabetic retinopathy, retinal vein occlusion.
+- Inflammation, e.g. intermediate uveitis, severe or chronic uveitis of any kind.
+- Drug-induced, e.g. topical prostaglandin derivatives.
+- Retinal dystrophies, e.g. retinitis pigmentosa.
+- Conditions involving vitreomacular traction, e.g. epiretinal membrane.
+- CNV.
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+603
+
+|A|B|
+|---|---|
+|200 pm| |
+|C|D|
+|200 Hm| |
+|E|F|
+|200 um|[200 Nm]|
+
+Fig. 14.54 Idiopathic macular telangiectasia type 2. (A) Subtle loss of temporal parafoveal transparency, which is difficult to see clinically; (B) FA at 45 seconds of patient in (A) showing telangiectasis; (C) pigment plaque (neovascular change); (D) FAF of patient in (C) showing dilated venules that suddenly turn at right angles into the deep retina (arrow); (E) early phase FA of patient in (C) showing neovascular membrane (arrow); (F) FA showing late leakage (arrow) (Courtesy of P Issa)
+---
+# 604 Degenerative Myopia
+
+# Table 14.4 Systemic Associations of High Myopia
+
+Down syndromeStickler syndromeMarfan syndromePrematurityNoonan syndromeEhlers–Danlos syndromePierre–Robin syndrome
+which axial length is usually greater than 26 mm. It affects over 2% of adult Western European or American populations and may be as high as 10% in East Asians. Pathological or degenerative myopia is characterized by progressive anteroposterior elongation of the scleral envelope associated with a range of secondary ocular changes, principally thought to relate to mechanical stretching of the involved tissues. It is a signiﬁcant cause of legal blindness, with maculopathy the most common cause of visual loss. Low dose atropine (0.01%) instilled at bed-time can signiﬁcantly slow the progression of myopia in children. Although there is no consensus, a reasonable approach is to offer this treatment to children between the ages of 5 and 15 years whose myopia is increasing at more than 1 dioptre per year. These children should also be encouraged to spend more time outdoors in sunshine. Table 14.4 lists systemic associations of high myopia.
+
+# Diagnosis
+
+Symptoms may include blurring, distortion and micropsia.
+
+Signs
+
+- Loss of the foveal depression, thickening of the retina and multiple cystoid areas in the sensory retina (Fig. 14.56A), best seen with red-free light using a fundus contact lens (Fig. 14.56B).
+- Optic disc swelling is sometimes present.
+- A lamellar hole may be visible.
+- Features of associated disease.
+
+Amsler chart demonstrates central blurring and distortion.
+
+FA. A petaloid pattern is seen due to dye accumulation in microcystic spaces in the outer plexiform layer (Fig. 14.56C).
+
+OCT shows retinal thickening with cystic hyporeﬂective spaces and loss of the foveal depression (Fig. 14.56D). A lamellar hole may be demonstrated in advanced cases.
+
+# MICROCYSTIC MACULAR OEDEMA
+
+Microcystic changes of the inner nuclear layer distinct from classic CMO can occur in eyes with optic neuritis and some other forms of optic neuropathy. It is believed to be caused by retrograde degeneration of the inner retinal layers that manifests with impaired fluid resorption.
+
+Subretinal ‘coin’ haemorrhages (Fig. 14.57E) may develop from lacquer cracks in the absence of CNV.
+
+Fuchs spot (Fig. 14.57F) is a raised, circular, pigmented lesion at the macula developing after a subretinal haemorrhage has absorbed.
+
+# DEGENERATIVE MYOPIA
+
+# Introduction
+
+Myopia is the result of complex hereditary and environmental factors. There is strong evidence for a causative association with long-term intensive near visual activity, particularly reading and using personal computers. A refractive error of more than −6 dioptres constitutes a common definition of high myopia, in which axial length is usually greater than 26 mm.
+
+(Peripapillary) intrachoroidal cavitation, formerly described as peripapillary detachment of pathological myopia (PDPM).
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+A
+
+B
+
+C
+
+D
+
+(Courtesy of J Donald M Gass, from Stereoscopic Atlas of Macular Diseases, Mosby 1997 – fig. A; P Gili – fig. B)
+
+may occur adjacent to the nerve, commonly inferiorly (Fig. 14.58C). Clinically, it may be evident as a small yellowish-orange peripapillary area typically inferior to the disc. It can usually be identified on OCT (Fig.14.58D). Visual field defects are common and frequently mimic glaucoma.
+
+- Rhegmatogenous retinal detachment (RD) is much more common in high myopia, the pathogenesis including increased frequency of PVD, lattice degeneration, asymptomatic atrophic holes, myopic macular holes (see below) and occasionally giant retinal tears.
+- CNV
+- 10% of highly myopic eyes develop CNV.
+- The prognosis is better in younger patients with myopia-related CNV than in AMD.
+- Macular hole may occur spontaneously or after relatively mild trauma and is associated with the development of rhegmatogenous retinal detachment much more commonly than age-related idiopathic macular hole. Myopic macular retinoschisis.
+---
+# 606 Degenerative Myopia
+
+|A|B|
+|---|---|
+|C|D|
+|E|F|
+
+Fig. 14.57 High myopia. (A) Tessellated fundus; (B) focal chorioretinal atrophy and tilted disc; (C) tilted disc with parapapillary atrophy; (D) lacquer cracks (arrow); (E) ‘coin’ haemorrhage; (F) Fuchs spot
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+Posterior
+
+(Courtesy of K Ohno-Matsui)
+
+and myopic macular hole may be part of the same pathological process. Vitrectomy may be effective for both, but the best surgical technique remains undefined.
+
+- Peripapillary detachment is an innocuous yellow–orange elevation of the RPE and sensory retina at the inferior border of the myopic conus (anomalous optic nerve head complex).
+- Cataract. Posterior subcapsular or early onset nuclear sclerotic.
+- Glaucoma. There is an increased prevalence of primary open-angle glaucoma, pigmentary glaucoma and steroid responsiveness.
+- Amblyopia is uncommon but may develop when there is a significant difference in myopia between the two eyes.
+- Dislocation of the lens (natural or artificial) is a rare but well-recognized risk.
+
+# ANGIOID STREAKS
+
+Introduction
+
+Angioid streaks are crack-like dehiscences in brittle thickened and calcified Bruch membrane, associated with atrophy of the overlying RPE. Approximately 50% of patients with angioid streaks have a systemic association.
+
+- Pseudoxanthoma elasticum (PXE), a hereditary disorder of connective tissue in which there is progressive calcification, fragmentation and degeneration of elastic fibres in the skin, eye and cardiovascular system, is by far the most common association of angioid streaks (Grönblad–Strandberg syndrome).
+- Patients develop a ‘plucked chicken’ appearance of the skin, most commonly on the neck, axillae and antecubital fossae.
+- Approximately 85% of patients develop ocular.
+---
+# 608 Angioid Streaks
+
+|A|B|
+|---|---|
+|C|D|
+|E|F|
+
+Fig. 14.59 Angioid streaks. (A) Advanced angioid streaks; (B) ‘peau d’orange’ temporal to the macula; (C) angioid streaks and optic disc drusen; (D) infrared image of patient in (C); (E) subretinal haemorrhage caused by a traumatic choroidal rupture; (F) FA showing hyperfluorescent streaks (Courtesy of P Scanlon – fig. B; S Chen – fig. E)
+---
+# CHAPTER 14
+
+# Acquired Macular Disorders
+
+involvement of variable severity, usually after the second decade of life.
+
+# CHOROIDAL FOLDS
+
+# Introduction
+
+Choroidal folds are parallel grooves or striae involving the inner choroid, Bruch membrane, the RPE and sometimes the retina (chorioretinal folds). They are likely to develop in association with any process that induces sufficient compressive stress within the choroid, Bruch membrane and retina. Primary mechanisms include choroidal congestion and scleral compression, and occasionally tissue contraction. Choroidal folds should be distinguished from retinal folds, which have a different pathogenesis (usually ERM). Causes include:
+
+- Idiopathic (‘congenital’) folds may be present in healthy, often hypermetropic, individuals in whom visual acuity is typically unaffected. The folds are usually bilateral. A syndrome of idiopathic acquired hypermetropia with choroidal folds has been described – in these patients elevated intracranial pressure should always be excluded even without evident papilloedema (see next) although a constricted scleral canal causing optic disc congestion has been proposed as an alternative mechanism in some patients.
+- Papilloedema. Choroidal folds may occur in patients with chronically elevated intracranial pressure, when they may be associated with reduction of visual acuity that may be permanent.
+- Orbital disease such as retrobulbar tumours and thyroid ophthalmopathy may cause choroidal folds associated with impaired vision.
+- Ocular disease such as choroidal tumours, inflammation such as posterior scleritis, scleral buckling for retinal detachment and hypotony.
+
+# Diagnosis
+
+# Signs
+
+- Grey or dark red linear lesions with irregular serrated edges that intercommunicate in a ring-like fashion around the optic disc and radiate outwards from the peripapillary area (Fig. 14.59A). The streaks tend to increase in width and extent slowly over time.
+- ‘Peau d’orange’ (orange skin), also known as leopard skin, mottled yellowish speckling (Fig. 14.59B) is common, particularly in cases associated with PXE.
+- Optic disc drusen are frequently (up to 25%) associated (Fig. 14.59C and D).
+- Scleral depression is relatively contraindicated in these eyes, due to the risk of further damage to the Bruch membrane leading to new angioid streaks or choroidal rupture.
+
+# Complications
+
+Though angioid streaks are typically asymptomatic at first, visual impairment occurs eventually in over 70% of patients.
+
+- CNV is by far the most common cause of visual loss.
+- Choroidal rupture may occur following relatively trivial trauma (Fig. 14.59E).
+- Foveal involvement by a streak.
+
+# Diagnosis
+
+- Red-free photography demonstrates the streaks.
+- FA shows hyperfluorescent window defects due to RPE atrophy overlying the streaks, associated with variable associated hypofluorescence corresponding to RPE hyperplasia. FA is generally indicated only if CNV is suspected (Fig. 14.59F).
+- FAF. Streaks are autofluorescent. They are often more extensive than clinically, which may confirm the diagnosis in subtle cases. Peau d’orange is shown.
+
+# Treatment
+
+Following systemic investigation where appropriate, usually via referral to an appropriate physician, observation is the approach in most cases. Patients should be warned against participating in contact sports and advised to use protective spectacles when necessary. CNV should usually be treated with intravitreal anti-VEGF agents, but commonly recurs or develops at a new site

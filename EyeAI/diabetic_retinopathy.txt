@@ -1,0 +1,456 @@
+# 496 Diabetic Retinopathy
+
+# RETINAL CIRCULATION
+
+# Arterial system
+
+The central retinal artery, an endartery, enters the optic nerve approximately behind the globe. It is composed of three anatomical layers:
+
+- The intima, the innermost, is composed of a single layer of endothelium resting on a collagenous zone.
+- The internal elastic lamina separates the intima from the media.
+- The media consists mainly of smooth muscle.
+- The adventitia is the outermost and is composed of loose connective tissue.
+
+Retinal arterioles arise from the central retinal artery. Their walls contain smooth muscle, but in contrast to arteries, the internal elastic lamina is discontinuous.
+
+# Capillaries
+
+Retinal capillaries supply the inner two-thirds of the retina, with the outer third being supplied by the choriocapillaris. The inner capillary network (plexus) is located in the ganglion cell layer, with an outer plexus in the inner nuclear layer. Capillary-free zones are present around arterioles (Fig: 13.14) and at the fovea (foveal avascular zone FAZ). Retinal capillaries are devoid of smooth muscle and elastic tissue. Their walls consist of the following:
+
+- Endothelial cells form a single layer on the basement membrane and are linked by tight junctions that form the inner blood-retinal barrier.
+- The basement membrane lies beneath the endothelial cells with an outer basal lamina enclosing pericytes.
+- Pericytes lie external to endothelial cells and have multiple pseudopodial processes that envelop the capillaries. Pericytes will develop retinopathy in individuals with diabetes.
+- Pericytes have contractile properties and are thought to participate in autoregulation of the microvascular circulation.
+
+# Venous system
+
+Retinal venules and veins drain blood from the capillaries. Small venules are larger than capillaries but have similar structure. Larger venules contain smooth muscle and merge to form veins. Veins contain a small amount of smooth muscle and elastic tissue in their walls and are relatively distensible. Their diameter gradually enlarges as they pass posteriorly towards the central retinal vein.
+
+# DIABETIC RETINOPATHY
+
+# Introduction
+
+Diabetes is a major concern for healthcare systems throughout the world. The prevalence of diabetes is relentlessly increasing, particularly in working-age adults. Approximately one-half of individuals with diabetes will develop retinopathy, with diabetic macular oedema being the commonest cause of visual loss.
+
+# Ophthalmic complications of diabetes
+
+# Common
+
+- Retinopathy: diabetic macular oedema, macular ischaemia and sequelae arising from retinal ischaemia (retinal new vessels, vitreous haemorrhage and tractional retinal detachment).
+- Iridopathy (minor iris transillumination defects).
+- Unstable refraction.
+
+# Uncommon
+
+- Recurrent styes.
+- Xanthelasma.
+- Accelerated age-related cataract.
+- Neovascular glaucoma (NVG).
+- Ocular motor nerve palsies.
+- Reduced corneal sensitivity.
+
+# Rare
+
+- Papillopathy, pupillary light-near dissociation.
+- Wolfram syndrome (progressive optic atrophy and multiple).
+---
+# CHAPTER 13
+
+# Retinal Vascular Disease
+
+neurological and systemic abnormalities), acute-onset cataract, rhino-orbital mucormycosis.
+
+# Prevalence
+
+The reported prevalence of diabetic retinopathy (DR) in individuals with diabetes varies substantially among studies and even among contemporary populations in the same country, but is probably around 40%. It is more common in type 1 diabetes than in type 2 and sight-threatening disease is present in up to 10%. Proliferative diabetic retinopathy (PDR) affects 5-10% of the diabetic population. Type 1 diabetics are at particular risk, with an incidence of up to 90% after 30 years.
+
+# Risk factors
+
+Duration of diabetes is the most important risk factor: In patients diagnosed with diabetes before the age of 30 years; the incidence of DR after 10 years is 50% and after 30 years 90%. DR rarely develops within 5 years of the onset of diabetes before puberty, but about 5% of type 2 diabetics have DR at presentation: It appears that duration is a stronger predictor for proliferative disease than for maculopathy:
+
+Poor control of diabetes. The Diabetes Control and Complication Trial (DCCT) shows that tight blood glucose control, particularly when instituted early, can prevent or delay the development or progression of DR (subsequently confirmed by the United Kingdom Prospective Diabetes Study). However, a sudden improvement in control may be associated with progression of retinopathy in the short-term: Type 1 diabetic patients appear to obtain greater benefit from good control than type 2. Raised HbA1c is associated with an increased risk of proliferative disease, so the aim should be an HbA1c value of 6-7% (8% in frail elderly patients). By decreasing the HbA1c by 1% the microvascular complications can be reduced by one-third:
+
+Pregnancy is sometimes associated with rapid progression of DR. Predicating factors include greater pre-pregnancy severity of retinopathy, poor pre-pregnancy control of diabetes, control exerted too rapidly during the early stages of pregnancy and pre-eclampsia. The risk of progression is related to the severity of DR in the first trimester. Approximately 5% with mild DR and a third of those with moderate DR will progress to PDR during the pregnancy: If substantial DR is present, frequency of review should reflect individual risk and can be up to monthly. Diabetic macular oedema usually resolves spontaneously after pregnancy and need not be treated if it develops in late pregnancy.
+
+Hypertension is very common in patients with type 2 diabetes and should be rigorously controlled (<140/80 mmHg). Tight control appears to be particularly beneficial in type 2 diabetics with maculopathy. Cardiovascular disease and previous stroke are also predictive. Nephropathy, if severe, is associated with worsening of DR. Conversely, treatment of renal disease (e.g: renal transplantation) may be associated with improvement of retinopathy and a better response to photocoagulation.
+
+# Signs
+
+# Microaneurysms
+
+Microaneurysms are localized outpouchings, mainly saccular, of the capillary wall that may form either by focal dilatation of the capillary wall where pericytes are absent, or by fusion of two arms of a capillary loop (Fig: 13.2A). Most develop in the inner capillary plexus (ganglion cell layer), frequently adjacent to areas of capillary non-perfusion (Fig: 13.2B). Loss of pericytes (Fig: 13.2C) may also lead to endothelial cell proliferation with the formation.
+---
+# Diabetic Retinopathy
+
+# Table 13.1 Abbreviated Early Treatment Diabetic Retinopathy Study (ETDRS) classification of diabetic retinopathy
+
+|Category/description|Management|
+|---|---|
+|Non-proliferative diabetic retinopathy (NPDR)| |
+|No DR|Review in 12 months|
+|Very mild NPDR|Review most patients in 12 months|
+|Microaneurysms only|Review range 6-12 months, depending on severity of signs, stability; systemic factors and patient's personal circumstances|
+|Mild NPDR|Any or all of: microaneurysms, retinal haemorrhages, exudates, cotton-wool spots, up to the level of moderate NPDR: No intraretinal microvascular anomalies (IRMA) or significant beading|
+|Moderate NPDR|Review in approximately 6 months|
+|Severe retinal haemorrhages (more than ETDRS standard photograph 2A: about 20 medium-large per quadrant) in 1-3 quadrants or mild IRMA|Proliferative diabetic retinopathy (PDR) in up to 26%, high-risk PDR in up to 8% within a year|
+|Significant venous beading can be present in no more than 1 quadrant|Cotton-wool spots commonly present|
+|Severe NPDR|PDR in up to 50%, high-risk PDR in up to 15% within a year|
+|The 4-2-1 rule; one or more of:| |
+|Severe haemorrhages in all 4 quadrants| |
+|Significant venous beading in 2 or more quadrants| |
+|Moderate IRMA in 1 or more quadrants| |
+|Very severe NPDR|Review in 2-3 months|
+|Two or more of the criteria for severe NPDR|High-risk PDR in up to 45% within a year|
+|PDR| |
+|Mild-moderate PDR|Treatment considered according to severity of signs, stability; systemic factors and patient's personal circumstances such as reliability of attendance for review: If not treated, review in up to 2 months|
+|High-risk PDR|Treatment advised see text|
+|NVD greater than ETDRS standard photograph 10A (about 1/4 disc area)|Should be performed immediately when possible and certainly same day if symptomatic presentation with good retinal view|
+|Any NVD with vitreous haemorrhage| |
+|NVE greater than 1/4 disc area with vitreous haemorrhage| |
+|Advanced diabetic eye disease|See text|
+
+See text for description of 'cellular' microaneurysms (Fig: 13.2D) Microaneurysms may leak plasma constituents into the retina as a result of breakdown in the blood-retinal barrier, or may thrombose. They tend to be the earliest sign of DR.
+
+Signs: Tiny red dots, often initially temporal to the fovea (Fig: 13.3A). May be indistinguishable clinically from dot haemorrhages: Fluorescein angiography (FA) allows differentiation between dot haemorrhages and non-thrombosed microaneurysms. Early frames show tiny hyperfluorescent dots (Fig: 13.3B), typically more numerous than visible clinically. Late frames show diffuse hyperfluorescence due to leakage:
+
+# Retinal haemorrhages
+
+Retinal nerve fibre layer haemorrhages arise from the larger superficial pre-capillary arterioles (Fig: 13.4) and assume their characteristic shape (Fig: 13.4B) because of the architecture of the retinal nerve fibre layer: Intraretinal haemorrhages arise from the venous end of capillaries and are located in the compact middle layers of the retina (see Fig: 13.4C) with resultant red 'dot/blot' configuration (Fig. 13.4D). Deeper dark haemorrhagic retinal infarcts are located within the middle retinal layers (see Fig: 13.4). The extent of involvement is a significant marker of the likelihood of progression to PDR.
+
+# Exudates
+
+Exudates are caused by chronic localized retinal oedema. They develop at the junction of normal and oedematous retina. They are composed of lipoprotein and lipid-filled macrophages located.
+---
+# CHAPTER 13
+
+# Retinal Vascular Disease
+
+A
+
+Fig 13.2 Microaneurysms histopathology:
+(A) Two arms of a capillary loop that may fuse to become a microaneurysm flat preparation of Indian ink-injected retina;
+(B) an area of capillary non-perfusion and adjacent microaneurysms flat preparation of Indian ink-injected retina;
+(C) eosinophilic (dark pink) degenerate pericytes trypsin digest preparation;
+(D) microaneurysm with endothelial cell proliferation (cellular microaneurysm) trypsin digest preparation
+(Courtesy of J Harry and G Misson, from Clinical Ophthalmic Pathology, Butterworth-Heinemann 2001 figs A and C; J Harry figs B and D)
+
+mainly within the outer plexiform layer (Fig. 13.54). Hyperlipidaemia may increase the likelihood of exudate formation:
+
+Signs yellow lesions (Fig: 13.5B) Waxy with relatively distinct margins arranged in clumps and/or rings at the posterior pole, often surrounding leaking microaneurysms 'Fig: 13.5C) and the fovea may be involved.
+
+With time the number and size tend to increase leakage ceases, exudates absorb spontaneously over a period of months, either into healthy surrounding capillaries or by phagocytosis.
+
+# Diabetic macular oedema (DMO)
+
+Diabetic maculopathy (foveal oedema, exudates ischaemia) is the most common cause of visual impairment in diabetic patients, particularly type 2. Diffuse retinal oedema is caused by
+---
+# 500 Diabetic Retinopathy
+
+Fg: 13.3 Early changes
+
+- (A) Microaneurysms and dot/blot haemorrhages at the posterior pole;
+- (B) FA showing scattered hyperfluorescent spots in the posterior fundus
+
+Fg: 13.4 Retinal haemorrhages.
+
+1. (4) Histology showing blood lying diffusely in the retinal nerve fibre and ganglion cell layers and as globules in the outer layers;
+2. (B) retinal nerve fibre layer (filame) haemorrhages;
+3. (C) dot and blot haemorrhages;
+4. (D) deep dark haemorrhages
+
+(Courtesy of Harry and G Misson, from Clinical Ophthalmic Pathology, Butterworth-Heinemann 2001 fig: A)
+---
+# CHAPTER 13
+
+# Retinal Vascular Disease
+
+Fig: 13.5 Exudates: (A) Histology showing irregular eosinophilic deposits mainly in the outer plexiform layer; (B) small exudates and microaneurysms; (C) more extensive exudates forming a circinate pattern; (D) exudates involving the fovea, including central crystalline cholesterol deposition (Courtesy of J Harry fig: A)
+
+Extensive capillary leakage and localized oedema by focal leakage from microaneurysms and dilated capillary segments. The fluid is initially located between the outer plexiform and inner nuclear layers. Later it may also involve the inner plexiform and nerve fibre layers, until eventually the entire thickness of the retina becomes oedematous. With central accumulation of fluid, the fovea assumes a cystoid appearance - cystoid macular oedema (CMO) that is readily detectable on optical coherence tomography (OCT) (Fig: 13.6A) and assumes a central flower petal pattern on FA (Fig: 13.6B).
+
+Ischaemic maculopathy: Signs are variable and the macula may look relatively normal despite reduced visual acuity (Fig: 13.94). In other cases, PPDR may be present:
+
+- Focal maculopathy: well-circumscribed retinal thickening associated with complete or incomplete rings of exudates (Fig: 13.74). FA shows late, focal hyperfluorescence due to leakage, usually with good macular perfusion (Fig: 13.7B).
+- Diffuse maculopathy: diffuse retinal thickening, which may be associated with cystoid changes. There are typically also scattered microaneurysms and small haemorrhages (Fig: 13.8A).
+
+Clinically significant macular oedema (CSMO) is detected on clinical examination as defined in the ETDRS (Fig: 13.10):
+---
+# Fg: 13.6 Cystoid macular oedema:
+
+(4) OCT showing retinal thickening and cystoid spaces;
+
+(B) FA showing leaking microaneurysms and central diffuse hyperfluorescence with a flower petal configuration
+
+(Courtesy of A Ambresin fig: A)
+
+# Fg: 13.7 Focal diabetic maculopathy:
+
+(A) A ring of hard exudates temporal to the macula;
+
+(B) FA late phase showing focal area of hyperfluorescence due to leakage corresponding to the centre of the exudate ring
+
+# Fg 13.8 Diffuse diabetic maculopathy:
+
+(A) Dot and blot haemorrhages diffuse retinal thickening is present (arrow), which can be difficult to see clinically;
+
+(B) late phase FA showing the extensive hyperfluorescence (arrow) at posterior pole due to leakage in the same patient
+---
+# CHAPTER 13
+
+# Retinal Vascular Disease
+
+# Fovea
+
+Fig: 13.10 Clinically significant macular oedema layer (Fig: 13.114). As cotton-wool spots heal, debris is removed by autolysis and phagocytosis.
+
+# Signs
+
+Small fluffy whitish superficial lesions that obscure underlying blood vessels (Fig: 13.HB and C) They are clinically evident only in the post-equatorial retina, where the nerve fibre layer is of sufficient thickness to render them visible. FA shows focal hypofluorescence due to local ischaemia and blockage of background choroidal fluorescence:
+
+# Venous changes
+
+Venous anomalies seen in ischaemia consist of generalized dilatation and tortuosity, looping (Fig: 13.124), beading (focal narrowing and dilatation) (Fig: 13.12B) and sausage-like segmentation (Fig: 13.12C). The extent of the retinal area exhibiting venous changes correlates well with the likelihood of developing proliferative disease.
+
+# Intraretinal microvascular abnormalities
+
+Intraretinal microvascular abnormalities (IRMA) are arteriolar-venular shunts that run from retinal arterioles to venules, thus bypassing the capillary bed and are therefore often seen adjacent to areas of marked capillary hypoperfusion (Fig: 13.13A).
+
+# Signs
+
+Fine, irregular, red intraretinal lines that run from arterioles to venules, without crossing major blood vessels (Fig: 13.13B). FA shows focal hyperfluorescence associated with adjacent areas of capillary closure but without leakage.
+
+# Arterial changes
+
+Subtle retinal arteriolar dilatation may be an early marker of ischaemic dysfunction. When significant ischaemia is present signs include peripheral narrowing, silver wiring and obliteration; similar to the late appearance following a branch retinal artery occlusion:
+
+# Cotton-wool spots
+
+Cotton-wool spots are composed of accumulations of neuronal debris within the nerve fibre layer: They result from ischaemic disruption of nerve axons, the swollen ends of which are known as cytoid bodies, seen on light microscopy as globular structures.
+---
+# 504 Diabetic Retinopathy
+
+Flg; 13.11 Cotton-wool spots
+
+(A) Histology showing cystoid bodies in the retinal nerve fibre layer;
+
+(B) clinical appearance;
+
+(C) pre-proliferative retinopathy showing IRMA (arrow) (Courtesy of Harry fig: A)
+
+Flg: 13.12 Venous changes.
+
+(A) Looping; (B) beading; (C) severe segmentation
+---
+# CHAPTER 13
+
+# Retinal Vascular Disease
+
+A
+
+B
+
+Fig: 13.13 Intraretinal microvascular abnormalities. (A) Histology showing arteriolar-venular shunt and a few microaneurysms within a poorly perfused capillary bed - flat preparation of Indian ink-injected retina; phase contrast microscopy; (B) clinical appearance (arrow) (Courtesy of J Harry fig: A)
+
+# Proliferative retinopathy
+
+It has been estimated that over one-quarter of the retina must be non-perfused before PDR develops. Although preretinal new vessels may arise anywhere in the retina, they are most commonly seen at the posterior pole. Fibrous tissue, initially fine, gradually develops as vessels increase in size:
+
+New vessels at the disc (NVD) describes neovascularization on or within one disc diameter of the optic nerve head (Fig: 13.14).
+
+NVE describes neovascularization further away from the disc (Fig: 13.15). It may be associated with fibrosis if long-standing:
+
+New vessels on the iris (NVI Fig: 13.16), also known as rubeosis iridis, carry a high likelihood of progression to neovascular glaucoma (see Ch. 11).
+
+Fig: 13.14 Disc cotton-wool spots; (C) FA showing leaking disc vessels, with extensive peripheral capillary dropout and a small focus of leaking vessels elsewhere.
+
+FA (see Fig: 13.14C) highlights neovascularization during the early phases of the angiogram and shows irregular expanding hyperfluorescence during the later stages due to intense leakage.
+---
+# 506 Diabetic Retinopathy
+
+of dye from neovascular tissue. FA can be used to confirm the presence of new vessels (NV) if the clinical diagnosis is in doubt also delineates areas of ischaemic retina that might be selectively targeted for laser treatment.
+
+# Treatment
+
+# General
+
+Patient education is critical, including the need to comply with review and treatment schedules in order to optimize visual outcomes. In type 2 diabetes this also involves counselling on weight reduction programs and emphasizing the need to increase exercise.
+
+Diabetic control should be optimized. Other risk factors, particularly systemic hypertension (especially type 2 diabetes) and hyperlipidaemia should be controlled in conjunction with the patient's diabetologist.
+
+Fenofibrate 200 mg daily has been shown to reduce the progression of DR in type 2 diabetics and prescription should be considered: The decision is independent of whether the patient already takes statin.
+
+Smoking should be discontinued, though this has not been definitively shown to affect retinopathy. Other modifiable factors such as anaemia and renal failure should be addressed as necessary.
+
+TIP: The key to the prevention of diabetic retinopathy is long term patient education and control of blood sugar.
+
+Flg 13.16 New vessels on the iris (rubeosis iridis)
+
+Flg: 13.15 New vessels elsewhere: (A) Mild; (B) severe; (C) associated with fibrosis
+---
+# CHAPTER 13
+
+# Retinal Vascular Disease
+
+# Treatment of diabetic macular oedema
+
+# Intravitreal anti-VEGF agents
+
+Until recently laser photocoagulation was the mainstay of treatment for DMO, reducing the risk of visual loss by 50% overall compared with observation. The availability of intravitreal anti-VEGF agents and strong evidence to support their efficacy has dramatically altered the approach to management in recent years. Many of the current guidelines for care have arisen from the conclusions of large prospective randomised controlled trials undertaken by the Diabetic Retinopathy Clinical Research Network (DRCRnet). It should be remembered that these studies provide average results in groups of patients and that individual responses may vary considerably, with some patients deriving little or no benefit from these interventions. Options should always be discussed fully with the patient: In particular, patients with good vision (6/7.5 or better) who otherwise meet criteria for treatment might prefer to be monitored once the risks of various interventions are considered. The need for meticulous follow-up and proposed treatment may also be an issue for some patients and needs to be considered when discussing therapy:
+
+TIP Anti-VEGF therapy has become the main therapeutic option in the treatment of diabetic macular oedema:
+
+# Laser photocoagulation (modified ETDRS focal/grid treatment)
+
+Although anti-VEGF therapy has replaced laser treatment for most cases, this remains a well-proven therapeutic option. It should be considered in cases with off-centre swelling when exudates threaten the fovea. Focal diode or argon burns are applied to leaking microaneurysms 500-3000 µm from the foveola using a spot size.
+
+|10F|19|700|10490|700|
+|---|---|---|---|---|
+|600|600|500|500|400|
+|400|1|5|J00|200|
+|200|z00| | | |
+
+Fig: 13.17 Anti-VEGF treatment for clinically significant macular oedema: (A) Macula thickness map and OCT appearance prior to treatment showing diffuse thickening of the macular region; (B) 6 months after treatment showing resolution.
+---
+# Diabetic Retinopathy
+
+50-100 µm, duration 0.05-0.1 s with sufficient power to obtain a greyish reaction beneath the microaneurysm; experience with subthreshold laser therapy from clinical are favourable (Fig 13.19), but there are no clinical trials showing superiority to conventional laser or anti-VEGF treatment.
+
+Grid (Fig: 13.18). Burns are applied to macular areas of diffuse retinal thickening treating no closer than 500 µm from the foveola and 500 µm from the optic disc using a spot size of 50-100 µm and duration 0.05-0.1 s, with power adjusted to give a mild reaction. A 'modified' grid includes focal treatment to foci of leakage; usually microaneurysms.
+
+Subthreshold (micropulse) diode laser: This modality uses very short (microsecond order) laser pulse duration combined with a relatively longer interval (e.g. 5% duty cycle), allowing energy dissipation. This minimises collateral damage to the retina and choroid whilst stimulating the retinal pigment epithelium (RPE). Subfoveal therapy is possible: The results of intravitreal triamcinolone in pseudophakic eyes intravitreal triamcinolone steroid injection followed by prompt laser is comparable to ranibizumab with regard to visual improvement and reduced retinal thickening. This is a good therapeutic option in pregnancy or where there is a contraindication to anti-VEGF treatment (for example recent myocardial infarct).
+
+Fig: 13.18 Laser for clinically significant macular oedema: (A) Prior to modified macular grid laser treatment; (B) patient in (A) immediately post-grid laser; (C) appearance 2 months following a limited grid laser (Courtesy of R Bates).
+---
+# CHAPTER 13
+
+# Retinal Vascular Disease
+
+J/19 19
+
+Wg Cide Diamelets; 1 3,& MmETeRs
+
+074 4 3 Aulo Owerlay- Hpp; VAp' | Axonal 13 MM Euors
+
+Fig: 13.19 Subthreshold (micropulse) diode laser for clinically significant macular oedema:
+(A) Macula thickness map and OCT appearance prior to treatment showing thickening of the
+macular region below the fovea; (B) 3 months after treatment showing no oedema
+
+However, there is a significant risk of inducing an elevation of intraocular pressure (IOP) and this must be monitored regularly. In a phakic eye there is an increased risk of cataract. Sustained-release intravitreal steroid implants have demonstrated promising results.
+
+Pars plana vitrectomy (PPV) may be indicated when macular oedema is associated with tangential traction from a thickened and taut posterior hyaloid (see Ch. 14 -Svitreomacular traction syndrome). It has also been suggested that some eyes without a taut posterior hyaloid may also benefit from vitrectomy: Clinically, a taut thickened posterior hyaloid is characterized by an increased glistening of the premacular vitreous face. FA typically shows diffuse leakage and prominent CMO, but OCT is usually the definitive assessment; There are several other indications for PPV in the management of diabetic eye disease (see later).
+
+# Specific recommendations
+
+CSMO not involving the centre of the macula (particularly where exudates threaten the fovea) may be treated with laser treatment in the form of continuous-wave focal or modified grid laser photocoagulation. If available, sub-threshold macular laser treatment; intravitreal anti-VEGF therapy or an intravitreal steroid implant may be reasonable alternatives for this indication.
+
+In eyes with PDR and co-existing DMO, ranibizumab or aflibercept treatment alone should be considered (rather).
+---
+# 510 Diabetic Retinopathy
+
+than panretinal photocoagulation (PRP) and ranibizumab
+
+TIP Panretinal photocoagulation continues to be the mainstay of proliferative diabetic retinopathy treatment in most healthcare systems.
+
+or PRP and aflibercept):
+
+Eyes with persistent DMO after 6 months of anti-VEGF monotherapy, consider adding laser or switching to an intravitreal dexamethasone implant if there are no contraindications.
+
+# Laser treatment for proliferative retinopathy
+
+Eyes with markedly reduced vision due to DMO often have associated macular ischaemia and therefore poor prognosis. Optimal management for this group of patients has not been determined. Depending on circumstances, including the severity of macular oedema and the level of ischaemia, any of the interventions discussed above may be considered.
+
+The Diabetic Retinopathy Study (DRS) establishes the characteristics of high-risk proliferative disease and demonstrates the benefit of PRP. For instance, severe NVD without haemorrhage carries a 26% risk of visual loss at 2 years that is reduced to 9% with PRP.
+
+However, in resistant cases, Pars plana vitrectomy may be considered, particularly if vitreomacular traction or marked epiretinal membrane is present. Recent research (Protocol $ from DRCRnet) shows that a course of injections of intravitreal ranibizumab is as effective as photocoagulation in patients at high risk of PDR at 5 years.
+
+# Fig. 13.20
+
+(A) Retinal appearance several weeks after laser; (B) composite image of 'pattern scan' multispot array treatment; (C) before treatment of severe proliferative diabetic retinopathy; (D) 3 months later the new vessels have regressed; there is residual fibrosis at the disc (Courtesy of € Barry fig: A; $ Chen fig: B; S Milewski figs € and D)
+---
+# CHAPTER 13
+
+# Retinal Vascular Disease
+
+(see below). In addition, the CLARITY study provides 1-year data which show that intravitreal aflibercept injections are as effective as PRP in the treatment of PDR.
+
+# Informed consent
+
+Patients should be advised that PRP may cause visual field defects of sufficient severity to legally preclude driving a motor vehicle. However, most patients who start with good vision are able to maintain their binocular visual field to the standard legally required in most countries. They should be made aware that there is a risk to central vision (because of developing or exacerbating macular oedema; a risk that can be reduced by fractionating the treatment over 2-3 sessions) and that night and colour vision may be affected.
+
+The 5-year results of the DRCRnet Protocol S and CLARITY studies should be discussed, as the patient may choose to be treated with ranibizumab or aflibercept instead of PRP. However, they should also be made aware of the risks associated with repeated injections and the short-term nature of these studies.
+
+# Co-existent DMO
+
+If actual or imminent central-involving DMO is also present; an anti-VEGF agent should be considered. This may be used as monotherapy or as an adjunct to PRP. Alternatively, in the case of CSMO not involving the centre of the macula and active PDR, laser treatment to the macula could be considered in addition to PRP. In such cases, the macular laser treatment should be carried out prior to the PRP or at the same laser treatment session.
+
+# Lens
+
+A contact lens is used to provide a stable magnified fundus view. A panfundoscopic lens is generally preferred to a three-mirror lens. Some practitioners prefer to use a high-magnification/smaller area contact lens (e.g., Mainster, Area Centralis) for the more posterior component of treatment. It is essential to constantly bear in mind that an inverted and laterally reversed image is seen.
+
+# Anaesthesia
+
+The amount of treatment it is possible to apply during one session may be limited by patient discomfort: this tends to be least at the posterior pole and greatest in the periphery and over the horizontal neurovascular bundles and may worsen with successive sessions. Topical anaesthesia is adequate in most patients, although sub-Tenon or peribulbar anaesthesia can be administered if necessary.
+
+# Laser parameters
+
+Spot size retinal burn diameter of 400 µm is usually desired for PRP. The diameter selected at the user interface to achieve this depends on the contact lens used and the operator must be aware of the correction factor for the particular lens chosen. As an approximation, with panfundoscopic-type lenses the actual retinal spot diameter is twice that selected on the laser user interface; 200 µm is typically selected for PRP, equating to a 400 µm actual retinal diameter once relative magnification is factored in. With the Mainster and Area Centralis, the retinal diameter equates closely to the interface selection, so 400 µm may be selected.
+
+# Indicators of regression
+
+Indicators of regression include blunting of vessel tips, shrinking and disappearance of NV, often leaving 'ghost' vessels or fibrosis, regression of IRMA, decreased venous changes, absorption of retinal haemorrhages; disc pallor. Contraction of regressing vessels associated with induction of vitreous separation can precipitate vitreous haemorrhage. Significant fibrous proliferation can lead to tractional retinal detachment (see below). Patients should remain under observation, as recurrence can occur with a requirement for additional PRP.
+---
+# Diabetic Retinopathy
+
+Compacted on the posterior vitreous face to form an ochre membrane. Ultrasonography is used in eyes with dense vitreous haemorrhage to detect the possibility of associated retinal detachment.
+
+# Tractional retinal detachment
+
+(Fig: 13.22C) is caused by progressive contraction of fibrovascular membranes over areas of vitreoretinal attachment. Posterior vitreous detachment in eyes with PDR is often incomplete due to the strong adhesions between cortical vitreous and areas of fibrovascular proliferation. Haemorrhage often occurs at these sites due to stress exerted on NV.
+
+Rubeosis iridis (iris neovascularization NVI) may occur in eyes with PDR and if severe may lead to neovascular glaucoma (see Ch 4). NVI is particularly common in eyes with severe retinal ischaemia and persistent retinal detachment following unsuccessful pars plana vitrectomy.
+
+# Indications for pars plana vitrectomy
+
+Vitrectomy in DR is typically combined with extensive endolaser PRP. Visual results depend on the specific indication for surgery and the severity of pre-existing disease:
+
+- Severe persistent vitreous haemorrhage that precludes adequate PRP is the most common indication (Fig: 13.22D).
+
+In the absence of rubeosis iridis, vitrectomy has traditionally been considered within 3 months of the initial vitreous haemorrhage in type diabetics and in most cases of bilateral haemorrhage. However, the outcome may be better with earlier surgery, and the availability of intravitreal anti-VEGF therapy may further modify the approach.
+
+Irrespective of the therapeutic option, approximately half will experience vitreous haemorrhage over that period. Anti-VEGF treatment should be avoided and PRP provided if follow-up is likely to be poor or if cost is an issue.
+
+Combined tractional and rhegmatogenous RD should be treated urgently.
+
+# Treatment of rubeosis iridis
+
+(see Ch: 11). Treatment of PDR to cataract surgery (see Ch: 10).
+
+# Targeted retinal photocoagulation (TRP)
+
+Wide-field FA allows accurate delineation of peripheral capillary non-perfusion (Fig: 13.21). Selective treatment of these areas with scatter laser has been reported as effectively minimizing potential complications of NV whilst leading to regression.
+
+# Advanced diabetic eye disease
+
+Advanced diabetic eye disease is a serious vision-threatening complication of DR that occurs in patients in whom treatment has been inadequate or unsuccessful. Occasionally, advanced disease is evident at presentation.
+
+# Clinical features
+
+Haemorrhage may be preretinal (retrohyaloid), intragel or both (Fig: 13.224 and B): Intragel haemorrhages usually take longer to clear than preretinal because the former is usually more substantial. Some eyes, altered blood becomes.
+
+# Diabetic papillopathy
+
+Diabetic papillopathy (diabetic papillitis) has been speculated to be an uncommon variant of anterior ischaemic optic neuropathy.
+---
+# CHAPTER 13
+
+# Retinal Vascular Disease
+
+A
+
+(Courtesy of S Chen fig: A; € Barry fig: D)
+
+though is more commonly bilateral and tends to exhibit more diffuse disc swelling: The underlying pathogenesis is unclear but it may be the result of small-vessel disease: It occurs mainly in younger diabetics and manifests with mild painless visual impairment that is unilateral in more than half of cases. Bilateral disc swelling mandates the exclusion of raised intracranial pressure. Hyperaemic disc swelling is characteristic and disc telangiectasia occasionally mistaken for neovascularization is present in many affected eyes (Fig: 13.24). Crowding of the fellow disc may be present. Resolution occurs over several months, often leaving mild disc pallor. Final visual acuity (VA) is 6/12 or better in 80%, subject to the effect of co-existing DR. Distinction from retinal vein occlusion (RVO)-type papillophlebitis (see below) rests on the presence of more extensive retinal haemorrhages and venous congestion in the latter, but may not be possible. Intravitreal anti-VEGF agents and steroids via various routes have been tried, with indeterminate benefit:
+
+# NON-DIABETIC RETINOPATHY
+
+Up to 10% of individuals over the age of 40 without diabetes mellitus exhibit usually very mild retinopathic features such as microaneurysms, dot and blot haemorrhages and cotton-wool spots that would be consistent with a diagnosis of DR. Assuming that an alternative ocular cause such as RVO or idiopathic macular telangiectasia has been excluded, this non-diabetic retinopathy tends to be associated with increased cerebrovascular and cardiovascular risk and may be particularly prevalent in patients with known or incipient hypertension: There is evidence suggesting that it may be a marker of preclinical diabetes in some patients; higher venular calibre may also denote this. Appropriate management is undefined, though evaluation and optimal management of systemic vascular risk factors may be prudent: The signs commonly disappear spontaneously and this is more likely in those with lower levels of cardiovascular risk:

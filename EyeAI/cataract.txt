@@ -1,0 +1,987 @@
+# ACQUIRED CATARACT
+
+# Age-related cataract
+
+# Cataract in systemic disease
+
+# Secondary cataract
+
+# Traumatic cataract
+
+# MANAGEMENT OF AGE-RELATED CATARACT
+
+# Preoperative considerations
+
+# Intraocular lenses
+
+# Design
+
+# Anaesthesia
+
+# Manual cataract surgery
+
+# Phacoemulsification
+
+# Femtosecond lasers in cataract surgery
+
+# Chapter Lens 10
+
+# Operative complications
+
+# Other systemic associations
+
+# Management
+
+# Acute postoperative endophthalmitis
+
+# Delayed-onset postoperative endophthalmitis
+
+# Posterior capsular opacification
+
+# Anterior capsular fibrosis and contraction
+
+# Miscellaneous postoperative complications
+
+# CONGENITAL CATARACT
+
+# Aetiology
+
+# Associated metabolic disorders
+
+# Associated intrauterine infections
+
+# ECTOPIA LENS
+
+# ABNORMALITIES OF LENS SHAPE
+
+# Anterior lenticonus
+
+# Posterior lenticonus
+
+# Lentiglobus
+
+# Microspherophakia and microphakia
+
+# Coloboma
+---
+# Acquired Cataract
+
+# Age-related cataract
+
+# Subcapsular cataract
+
+Anterior subcapsular cataract lies directly under the lens capsule and is associated with fibrous metaplasia of the lens epithelium. Posterior subcapsular opacity lies just in front of the posterior capsule and has a plaque-like appearance on oblique slit lamp biomicroscopy (Fig: 10.14), but typically appears black and vacuolated on retroillumination (Fig: 10.1B). The vacuoles are swollen migratory lens epithelial cells (bladder or Wedl), similar to those commonly seen postoperatively in posterior capsular opacification. Due to its location at the nodal point of the eye, posterior subcapsular opacity often has a particularly profound effect on vision: Patients are characteristically troubled by glare; for instance from the headlights of oncoming cars and symptoms are increased by miosis, such as occurs during near visual activity and in bright sunlight.
+
+# Nuclear sclerotic cataract
+
+Nuclear cataract is an exaggeration of normal ageing change (Fig: 10.1C). It is often associated with myopia due to an increase in the refractive index of the nucleus, resulting in some elderly patients being able to read without spectacles again 'second sight of the aged'. In contrast, in the healthy ageing eye (and in occasional cases of cortical and subcapsular cataract) there is mild hypermetropic shift. Nuclear sclerotic cataract is characterized by yellowish hue due to the deposition of urochrome pigment and is best assessed with an oblique slit lamp beam: Retroillumination will show good red reflex; but careful observation will reveal subtle distinction between the nucleus and cortex (Fig: 10.1D). When advanced, the nucleus appears brown and, in rare cases, black.
+
+# Cortical cataract
+
+Cortical cataract may involve the anterior, posterior or equatorial cortex. The opacities start clefts and vacuoles between lens fibres due to cortical hydration. Subsequent opacification results in typical cuneiform (wedge-shaped) or radial spoke-like opacities (Fig: 10.1E and F), often found initially in the inferonasal quadrant: As with posterior subcapsular opacity, glare is a common symptom.
+
+# Christmas tree cataract
+
+Christmas tree cataract, which is uncommon, is characterized by polychromatic needle-like formations in the deep cortex and nucleus (Fig: 10.1G and H).
+
+# Cataract maturity
+
+Immature cataract is one in which the lens is partially opaque. Mature cataract is one in which the lens is completely opaque (Fig: 10.2A and B). Hypermature cataract has a shrunken and wrinkled anterior capsule (Fig: 10.2C) due to leakage of water out of the lens.
+
+# Secondary cataract
+
+Secondary (complicated) cataract develops as a result of other primary ocular disease: Chronic anterior uveitis is the most common cause of cataract; the incidence being related to the duration and intensity of inflammation: Topical systemic steroids used in treatment are also causative. The earliest finding is often a polychromatic lustre at the posterior pole of the lens. If inflammation persists, posterior and anterior opacities (Fig: 10.44) develop.
+---
+# CHAPTER 10
+
+# Lens
+
+Fig: 10.1 Age-related cataract: (A) Posterior subcapsular; (B) posterior subcapsular on retroillumination, showing Wedl cells (arrow); (C) nuclear sclerosis; (D) nuclear sclerosis on retroillumination (arrow showing the demarcation between nucleus and cortex); (E) corticular; (F) corticular spokes on retroillumination; (G) Christmas tree; (H) Christmas tree on retroillumination
+---
+# 310 Acquired Cataract
+
+Fg: 10.2 Advanced cataract: (A) Mature nuclear sclerotic cataract; (B) dense corticular cataract; (C) hypermature cataract with wrinkling of the anterior capsule; (D) Morgagnian cataract with liquefaction of the cortex and inferior sinking of the nucleus appears to progress more rapidly in the presence of posterior synechiae (Fig: 10.4B):
+
+# Hereditary fundus dystrophies
+
+Hereditary fundus dystrophies (see Ch. 15) such as retinitis pigmentosa, Leber congenital amaurosis; atrophy and Stickler syndrome are usually associated with posterior subcapsular lens opacity: Anterior subcapsular lens opacity is rare (Fig: 10.4D) because surgery is usually undertaken at an early stage, when the opacification is limited to the posterior subcapsular region: Cataract surgery tends to improve visual function even in the presence of severe retinal changes.
+
+# Acute congestive angle closure
+
+Acute congestive angle closure may cause small anterior grey-white subcapsular capsular opacities, glaukomflecken (Fig: 10.4C), to form within the pupillary area. These represent focal infarcts of the lens epithelium and are pathognomonic of previous acute congestive angle closure.
+
+# High myopia
+
+High (pathological) myopia can be associated with posterior subcapsular lens opacity and early-onset nuclear sclerosis, which ironically may increase the myopic refractive error.
+
+# Secondary to medication
+
+Systemic and topical steroids can lead to cataract formation. These are usually posterior subcapsular in appearance and can be visually significant.
+---
+# CHAPTER 10
+
+# Lens
+
+A
+
+Fig. 10.3 Cataract in systemic disease. (A) Diabetic snowflake cataract; (B) posterior subcapsular cataract spokes assuming a stellate morphology in myotonic dystrophy; (C) shield-like anterior subcapsular cataract in atopic dermatitis
+
+debilitating: Despite a good visual acuity, symptoms of glare and reduced near vision are pronounced (see Ch. 21). Long-term use of chlorpromazine leads to an anterior star-shaped lens opacity (see Fig: 21.2B).
+
+Infrared radiation, if intense as in glassblowers, may rarely cause true exfoliation of the anterior lens capsule (Fig: 10.5E).
+
+Ionizing radiation exposure such as for ocular tumour treatment may cause posterior subcapsular opacities (Fig: 10.5F). These may not manifest for months or years.
+
+Toumakio Oalamol
+
+Wuumaciv Gacaav
+
+Trauma is the most common cause of unilateral cataract in young individuals.
+
+- Penetrating trauma (Fig: 10.54 and B)
+- Blunt trauma may cause a characteristic flower-shaped opacity (Fig: 10.5C).
+- Electric shock is a rare cause of cataract, patterns diffuse milky-white opacification and multiple snowflake-like opacities, sometimes in a stellate subcapsular distribution (Fig: 10.5D).
+
+# MANAGEMENT OF AGE-RELATED CATARACT
+
+# Preoperative considerations
+
+# Indications for surgery
+
+Visual improvement is by far the most common indication for cataract surgery. An operation is indicated when the
+---
+# Management of Age-Related Cataract
+
+Fg: 10.4 Secondary cataract (A) Uveitic anterior plaque opacities; (B) extensive posterior synechiae and anterior lens opacity; (C) glaukomflecken; (D) anterior subcapsular cataract in retinitis pigmentosa (Courtesy of 5 Chen fig: D)
+
+Opacity develops to a degree sufficient to cause difficulty in performing daily activities. Clear lens exchange (replacement of the healthy lens with an artificial implant) is an option for the management of refractive error. Cataract is adversely affecting the health of the eye: Examples include phacolytic phacomorphic glaucoma. Cataract surgery to improve the clarity of the ocular media may also be required in the context of monitoring or treatment of fundus pathology.
+
+# Systemic preoperative assessment
+
+For elective surgery, general medical history is taken and any problems managed accordingly: Table 10.1 sets out suggested further enquiry and action in relation to a range of systemic diseases. Routine preoperative general medical examination, blood tests and electrocardiogram (ECG) are not usually required for local anaesthesia. If general anaesthesia is planned, assessment is according to local protocol eg general.
+---
+# CHAPTER 10
+
+# Lens
+
+Fig. 10.5 Causes of traumatic cataract:
+
+|A|3|B|
+|---|---|---|
+|E|- Penetrating trauma (black arrow indicates corneal penetration site and white arrow indicates a cut in the anterior capsule)
+- intralenticular metallic foreign body (arrow showing crescentic opening in capsule)
+- blunt trauma showing a flower-shaped opacity
+- electric shock and lightning strike
+- infrared radiation (glassblower's cataract)
+- ionizing radiation
+|- Penetrating trauma (black arrow indicates corneal penetration site and white arrow indicates a cut in the anterior capsule)
+- intralenticular metallic foreign body (arrow showing crescentic opening in capsule)
+- blunt trauma showing a flower-shaped opacity
+- electric shock and lightning strike
+- infrared radiation (glassblower's cataract)
+- ionizing radiation
+|
+
+(Courtesy of J Schuman, V Christopoulos, D Dhaliwal, M Kahook and R Noecker; from Lens and Glaucoma, in Rapid Diagnosis in Ophthalmology; Mosby 2008 figs D-F)
+---
+# Management of Age-Related Cataract
+
+# Table 10.1 Management of General Medical Conditions Prior to Elective Surgery
+
+|Condition|Further questions/ examination|Action|
+|---|---|---|
+|Diabetes mellitus|Well-controlled? Will need blood test (finger-prick consider additional tests if necessary)|If control poor; may need to defer surgery and contact patient's physician. Medication and food and drink intake as usual on the day of surgery for local anaesthesia.|
+|Systemic hypertension|If systolic >170 or diastolic >100 mmHg may need physician opinion|Consider contacting physician for optimization and defer surgery if necessary.|
+|Actual or suspected myocardial infarction (MI) in the past|Date of MI?|Defer surgery for 3-6 months from date of MI: Contact physician/anaesthetist if concerns about current cardiovascular status.|
+|Angina|Stable/well-controlled?|Bring glyceryl trinitrate (GTN) spray on day of surgery: If unstable, contact physician or anaesthetist.|
+|Respiratory disease|Is chest function currently optimal? Can the patient lie flat?|If the patient cannot lie flat, may need to discuss with operating surgeon. Trial of lying flat (at least half an hour). Chest function should be optimized as far as possible prior to surgery. Remind patient to bring any inhalers to hospital.|
+|Leg ulcer or other skin wound|Acute or chronic? Evidence of active infection?|Surgery should be deferred until active infection has resolved. If healing is not possible (e.g: chronic leg ulcer) the lesion should be covered with a sterile dressing during the perioperative period. Preoperative wound swab for culture and prophylactic oral antibiotics may be considered.|
+|Rheumatic fever; transplanted or prosthetic heart valve, previous endocarditis|Does the patient usually require prophylactic antibiotic cover for operations?|Antibiotic prophylaxis only exceptionally required for ophthalmic surgery; e.g removal of an infected eye.|
+|Stroke in the past|Date of stroke? Particular residual difficulties?|Defer surgery for at least 6 months from date of stroke. Many have positional other practical consequences.|
+|Rheumatoid arthritis|Does the patient have any problems lying flat or with neck position?|If in doubt about patient's ability to position appropriately, may need to discuss with operating surgeon; intubation for general anaesthesia may be more difficult in some patients.|
+|Jaundice or known viral hepatitis in the past|What was the underlying diagnosis?|If viral hepatitis suspected, note prominently as special precautions to avoid needlestick injury may be necessary.|
+|Human immunodeficiency virus (HIV) infection|If there are any high-risk factors, has the patient undergone an HIV test in the past?|Special precautions to avoid needlestick injury may be necessary.|
+|Sickle status|For patients of southern Asian and Afro-Caribbean ethnic origin, enquire about sickle status.|Blood test if unknown and general anaesthesia planned.|
+|Parkinson disease or other cause of substantial tremor|Is the patient able to maintain head stability sufficiently to cooperate with local anaesthesia and surgery?|General anaesthesia may be preferred if not.|
+|Epilepsy|Is the condition well controlled?| |
+|Myotonic dystrophy|Has the patient undergone surgery and anaesthesia in the past?|If general anaesthesia is planned, an anaesthetic opinion should be obtained well in advance of surgery.|
+
+---
+# Ophthalmic preoperative assessment
+
+A detailed and pertinent ophthalmic evaluation is required. The following should be considered:
+
+- Visual acuity is usually tested using a Snellen chart.
+- Cover test: A heterotropia may indicate amblyopia, which carries a guarded visual prognosis, or the possibility of diplopia if the vision is improved. A squint, usually a divergence, may develop in an eye with poor vision due to cataract and lens surgery alone may straighten the eye.
+- Pupillary responses: Because cataract never produces an afferent pupillary defect, its presence implies substantial posterior pole pathology.
+- Ocular adnexa: Dacryocystitis, blepharitis, chronic conjunctivitis, lagophthalmos, ectropion, entropion, and tear film abnormalities may predispose to endophthalmitis. These conditions should be dealt with before intraocular surgery.
+- Cornea: Eyes with decreased endothelial cell counts (e.g: substantial cornea guttata) have increased vulnerability to postoperative decompensation. Specular microscopy and pachymetry may be helpful in assessing risk and precautions should be taken to protect the endothelium. A prominent arcus senilis is often associated with a surgical view of decreased clarity, as are stromal opacities.
+- Anterior chamber: A shallow anterior chamber can render cataract surgery difficult. Recognition of a poorly dilating pupil allows intensive preoperative mydriatic drops, planned mechanical dilatation prior to capsulorhexis and/or intracameral injection of mydriatic. A poor red reflex compromises the creation of a capsulorhexis, but can be largely overcome by staining the capsule with trypan blue.
+- Lens: Nuclear cataracts tend to be hard and may require more power for phacoemulsification, while cortical and subcapsular opacities tend to be softer. Black nuclear opacities are extremely dense and extracapsular cataract extraction rather than phacoemulsification may be the preferred option. Pseudoexfoliation indicates a likelihood of weak zonules (phakodonesis lens wobble may be present), a fragile capsule, and poor mydriasis.
+- Fundus examination: Pathology such as age-related macular degeneration may affect the visual outcome. Ultrasonography may be required, principally to exclude retinal detachment and staphyloma, in eyes with very dense opacity that precludes fundus examination.
+- Sclera: If a prominent explant/encircling band has been placed during prior retinal detachment surgery, or if the eye is particularly large or the sclera thin (e.g: high myopia), peri-retrobulbar local anaesthesia should be avoided.
+- Current refractive status: It is critical to obtain details of the patient's preoperative refractive error in order to guide intraocular lens (IOL) implant selection. The keratometry readings (obtained during biometry) should be noted in relation to the refraction, particularly if it is planned to address astigmatism by means of targeted wound placement; specific adjunctive procedure. It is particularly important to obtain a postoperative refractive result from an eye previously operated upon so that any 'refractive surprise', even if minor, can be considered.
+
+TIP: Careful preoperative examination of the posterior pole is needed in a patient requiring cataract surgery to exclude unrelated pathology that may affect the final visual result.
+---
+# 316 Management of Age-Related Cataract
+
+# Informed consent
+
+It is essential that the patient arrives at a fully informed decision before proceeding with cataract surgery: As well as benefits, risks should be conveyed at a level appropriate to each patient's level of understanding with an explanation of the more common and potential problems.
+
+Points for discussion with the patient may include:
+
+- Most cataract operations are straightforward with good visual results.
+- Most complications can be dealt with effectively and cause little or no long-term difficulties, but some rare complications can be very severe.
+- In about 1 in 1000 cataract operations the patient will lose the sight in the eye; in about 1 in 10,000 the second operation will be necessary.
+- Relatively mild and common complications include periocular ecchymosis, allergy to eye drops, intraocular pressure (IOP) spike, iridocyclitis; posterior capsular opacification.
+- Moderate-severe but less common complications include capsular rupture/vitreous loss (1% or less for experienced surgeons, higher for trainees dependent on experience), zonular dehiscence, dropped nucleus (about 0.29), leaking wound; cystoid macular oedema (CMO), corneal decompensation sufficient to need corneal graft, unexpected refractive outcome (may need contact lens wear; lens implant exchange).
+- Rare but invariably very serious complications include endophthalmitis (0.1%) and suprachoroidal haemorrhage (0.04%).
+
+The risks of anaesthesia should be conveyed by the person administering it. Local anaesthesia carries a low risk of problems. Some rare complications have the potential to be very serious, including loss of the eye and even death: allergy to the anaesthetic agent; retrobulbar haemorrhage, perforation of the globe and inadvertent infusion of anaesthetic agent into the cerebrospinal fluid via the optic nerve sheath, causing brainstem anaesthesia. There is virtually no risk to the other eye: Sympathetic ophthalmitis is extremely rare following modern cataract surgery.
+
+# Biometry
+
+Biometry facilitates calculation of the lens power likely to result in the desired postoperative refractive outcome: In its basic form this involves the measurement of two ocular parameters, keratometry and axial (anteroposterior) length.
+
+Keratometry involves determination of the curvature of the anterior corneal surface (steepest and flattest meridians), expressed in dioptres or in millimetres of radius of curvature. This is commonly carried out with the interferometry apparatus used to determine axial length, but if this is unavailable or unsuitable, manual keratometry can be performed.
+
+If a consistent postoperative refractive deviation is found in most of an individual surgeon's cases, it is assumed that some aspects of personal (or possibly biometric) technique consistently and similarly influence outcome. A personalized A-constant can be programmed into biometry apparatus to take this into account.
+---
+# CHAPTER 10
+
+# Lens
+
+AVERAGE 23 17 M EDE D
+
+PHAKIC
+
+AXIAL LENGTH 23 13 m
+
+AIC
+
+Axial length
+
+Vitreous
+
+Fig: 10.6 Biometry: (A) Optical coherence biometry; (B) contact ultrasonic biometry; (C) ultrasonographic monitor display (AC, anterior chamber depth; L, lens thickness)
+
+TIP To achieve accurate preoperative biometry, contact lenses should not be worn for 1-2 weeks before the measurements are taken.
+
+'Monovision' is a concept in which the (usually) non-dominant eye is left with between 1 and 2 dioptres of myopia to allow unaided vision for reading, whilst emmetropia is targeted in the dominant eye. This is attractive to some patients, generally those who have previously been using contact lenses or spectacles to achieve monovision.
+
+# Postoperative refraction
+
+is typically the desired postoperative emmetropia refraction, though spectacles will be needed for near vision since a conventional IOL cannot accommodate. Many surgeons aim for a small degree of myopia (about -0.25 D) to offset possible errors in biometry. Postoperative hypermetropia, which necessitates correction for clear vision at all distances, is less well tolerated than myopia. Highly accurate refractive outcomes, including limited astigmatism, are necessary for optimal function and a greater likelihood of tolerance.
+
+# Contralateral eye
+
+Postoperative refractive planning must consider the contralateral eye. If this has a significant refractive error but is unlikely to require cataract surgery within a few years, the postoperative target for the operated eye might be set for within less than 2.0 D of its fellow, to avoid problems with image size discrepancy and difficulty with binocular fusion. In some cases, such as when there is an early lens opacity in the fellow eye or when ametropia is extreme, the patient can be offered lens surgery to the other eye to facilitate targeting both at emmetropia.
+
+TIP Patients younger than 55 years need to be warned that active focusing will be lost after the implantation of a conventional monofocal IOL.
+---
+# 318 Management of Age-Related Cataract
+
+# Intraocular lenses
+
+# Design
+
+Positioning Flexible IOLs introduced into the eye via injector and subsequently unrolled inside the eye are now in general use. An IOL (Fig: 10.7A) consists of an optic and haptics. The optic is the central refracting element and the haptics are the arms or loops that sit in contact with peripheral ocular structures to centralize the optic. Modern cataract surgery, with preservation of the lens capsule, affords positioning of the IOL in the ideal location 'in the bag' (Fig: 10.7B). Complicated surgery, with rupture of the posterior capsule, may necessitate alternative positioning in the posterior chamber with the haptics in the ciliary sulcus (a three-piece IOL only, not one-piece including those with plate haptics; these may not be stable) or in the anterior chamber (AC) with the haptics supported in the angle. AC positioning requires a specific lens type: in some circumstances supplementary IOL may be placed in the sulcus in addition to an IOL in the capsular bag, for instance to address a residual refractive error following primary surgery (secondary pseudopolyphakia) and thin-profile IOLs are available for this purpose. It is preferable to avoid secondary sulcus IOL (primary pseudopolyphakia) in very short nanophthalmic eyes due to the risk of angle closure.
+
+Off-the-shelf IOLs of power up to 40 D are available and custom IOLs can be produced in even higher powers.
+
+# Materials
+
+Acrylic IOLs. Hydrophobic (water content %) acrylic materials have greater refractive index than hydrophilic lenses and are consequently thinner; though this can result in dysphotopsia (troublesome glare and reflections). They have been reported to produce greater reaction in eyes with uveitis, but outcomes do not seem to be materially affected. Hydrophilic (hydrogel) in theory offers superior biocompatibility, but the image of hydrogel IOLs has been marred by the occurrence of calcification requiring IOL removal in some types and inflammation in others (these problems have been resolved by lens manufacturers). Posterior capsular opacification (PCO) rates may be higher with hydrogel IOLs than with other materials.
+
+# Figure 10.7
+
+Intraocular lens (IOL): (A) Two-piece acrylic foldable IOL note the square-edged optic; (B) IOL in situ in the capsular bag; (C) implanted toric IOL showing diametrically opposite sets of three dots marking the lens axis (arrow); (D) one-piece, flexible, multifocal IOL (optic includes a blue light filter).
+---
+# CHAPTER 10
+
+# Lens
+
+Silicone IOLs are available in both loop haptic (one- or three-piece) and plate haptic (one-piece) conformations; the latter consisting of a roughly rectangular leaf with the optic site centrally. Silicone IOLs exhibit greater biocompatibility than hydrophobic acrylic IOLs, but may be prone to significant silicone deposition in silicone oil-filled eyes.
+
+Collamer is composed of collagen, & poly-HEMA-based copolymer and an ultraviolet-absorbing chromophore. It is marketed principally on the basis of high biocompatibility and a favourable track record.
+
+Rigid IOLs are made entirely from polymethylmethacrylate (PMMA): They cannot be injected or folded so require an incision larger than the diameter of the optic, typically 5 or 6 mm, for insertion. For economic reasons, they continue to be widely used in developing countries. PCO rates are higher with PMMA lenses than silicone and acrylic. Some surgeons favour heparin-coated IOLs in eyes with previous uveitis, particularly in children.
+
+Sharp square-edged optics are associated with a significantly lower rate of PCO compared with round-edged optics and the former is now the predominant design. However, square edges may be associated with a higher rate of dysphotopsia.
+
+# Anaesthesia
+
+Most cataract surgery is performed under local anaesthesia (LA), sometimes in conjunction with intravenous or oral sedation. General anaesthesia is required in some circumstances, such as children and many young adults, very anxious patients, some patients with learning difficulties, epilepsy, dementia and those with a head tremor.
+
+Sub-Tenon block involves insertion of a blunt-tipped cannula through an incision in the conjunctiva and Tenon capsule 5 mm from the limbus inferonasally and passing it around the curve of the globe through the sub-Tenon space. The anaesthetic is injected beyond the equator of the globe. Although anaesthesia is good and complications minimal, akinesia is variable. Chemosis and subconjunctival haemorrhage are common but penetration of the globe is extremely rare.
+
+Peribulbar block is given through the skin or conjunctiva with a 1-inch (25-mm) needle. It generally provides effective anaesthesia and akinesia. Penetration of the globe is a rare but severe complication. For this reason, peribulbar should be avoided in long eyes (which also tend to have a larger equatorial diameter).
+
+Topical anaesthesia involves drops or gel (proxymetacaine 0.5%, tetracaine 1% drops, lidocaine 2% gel), which can be augmented with intracameral preservative-free lidocaine 0.2-1%, often infused during hydrodissection. Combined viscoelastic/lidocaine preparations are also commercially available. Although analgesia is generally adequate, it tends to be less effective than peribulbar or sub-Tenon blocks. Despite the absence of akinesia, most patients can cooperate adequately. The intraoperative complication rate is probably higher than with regional blocks, but anaesthesia-related complications are lower.
+
+# Manual cataract surgery
+
+When posterior chamber IOLs began to be widely used in the 1980s most surgeons adopted extracapsular cataract extraction (ECCE), abandoning the older intracapsular technique (ICCE). In ICCE, a cryoprobe is used to remove the lens complete with its capsule. In ECCE, after a large anterior capsulotomy is created, an extensive limbal incision (8-10 mm) is completed and the lens nucleus is expressed following hydrodissection to free its cortical attachments. Cortical matter is then aspirated, leaving behind a sufficiently intact capsular bag to support an IOL.
+
+Suturing of the incision is required, sometimes inducing considerable corneal astigmatism. Manual small-incision cataract surgery (MSICS) is a variant of ECCE used to address the requirement for high-volume surgical treatment of patients with dense cataracts in less affluent geographical regions. It involves the creation of a small self-sealing sclerocorneal tunnel.
+---
+@
+---
+# CHAPTER 10
+
+# Lens
+
+Fig: 10.9 Manual cataract surgery: (A) Intracapsular extraction; (B) extracapsular extraction (Courtesy of € Barry)
+
+A
+
+B
+
+D
+
+Fig. 10.10 Manual small-incision cataract surgery: (A) Scleral tunnel incision; (B) blue stain of the anterior capsule before capsulorhexis; (C) expression of the nucleus; (D) corticular aspiration with a Simcoe cannula (Courtesy of A Hennig)
+
+A
+
+B
+
+C
+
+D
+---
+# 322 Management of Age-Related Cataract
+
+Vacuum, measured in mmHg, is generated during occlusion when the pump is attempting to aspirate fluid. Vacuum level determines how tightly material is held by the phaco tip when occluded, providing the ability to manipulate lens fragments. High vacuum can decrease the total power required to remove the lens. As with AFR, a lower-vacuum setting slows down the speed of intraocular events, reduces the intensity of surge (see below) and makes inadvertent aspiration of iris or lens capsule less likely.
+
+Post-occlusion surge: When occlusion of the phaco tip by lens material is broken, pent-up energy results in a sudden temporary increase in outflow 'surge'. This may result in complications such as capsular rupture and as far as possible is suppressed by modern phaco machines.
+
+# Pump type
+
+The main implication of the type of pump employed by a particular phaco machine is the effect on vacuum behaviour.
+
+- Peristaltic (flow) pumps pull fluid and lens material into the phaco tip by compressing tubing over variable speed rollers: Vacuum is generated only when occlusion of the tip occurs; following which the pump slows and stops when a set maximum is achieved.
+- Venturi (vacuum) pumps create a negative pressure in a vessel by passing compressed gas across its entrance. This has the practical effect of synchronizing vacuum and AFR.
+
+Depression of the foot pedal increases vacuum towards the pre-set maximum independent of occlusion and tip vacuum. The practical disadvantage of dispersive OVDs is their tendency to retain air bubbles and lens fragments, compromising the surgical view.
+
+# Handpiece
+
+The phaco handpiece features a tip consisting of a hollow titanium needle with an enclosing fluid-cooling sleeve (Fig; 10.11) to protect the cornea from thermal and mechanical damage. Its emulsifying action is mediated by very high-frequency (ultrasonic) vibration leading to jackhammer, cavitation and other effects. Some machines offer variants such as a torsional phaco action or water jet-mediated phacoemulsification. Phaco tips of differing shapes and sizes are available; each having particular cutting and holding characteristics.
+
+# Ophthalmic viscosurgical devices
+
+Ophthalmic viscosurgical devices (OVDs, viscoelastics) are biopolymers that play a critical role in modern cataract surgery: Cohesive OVDs are used to create and maintain intraocular spaces, for example to maintain the AC and inflation of the capsular bag to facilitate introduction of an IOL. Higher molecular weight variants maintain intraocular space more effectively, but tend to promote iris prolapse in shallow ACs and confer a more sustained postoperative IOP rise.
+
+Dispersive OVDs are more adherent to surfaces than cohesive OVDs and are typically used to protect the endothelium. They are more difficult to remove from the eye than cohesive viscoelastics, but are less likely to cause an IOP spike. The major advantage of dispersive OVDs is their ability to push the vitreous back into the posterior chamber and maintain plugging of the capsular defect, facilitating completion of lens removal.
+---
+# CHAPTER 10
+
+# Lens
+
+# Technique
+
+# Preparation
+
+Topical anaesthetic is followed by povidone-iodine 5% (Fig: 10.124) or chlorhexidine instillation into the conjunctival sac and cleaning of the eyelids (Fig: 10.12B), ensuring thorough eyelash application. The antiseptic should be left to work for a minimum of 3 minutes.
+
+Careful draping (Fig: 10.12C) is performed, excluding the lashes and lid margins from the surgical field and a speculum is inserted:
+
+# Incisions
+
+A side port incision is made around 60° to the left (in right-handed surgeons) of the main incision: Some surgeons prefer two side ports approximately 180° apart:
+
+Viscoelastic is injected into the AC. Many surgeons locate the main corneal incision (Fig: 10.134) on the steepest corneal axis, others prefer consistent siting: Temporal incisions can provide better access and less induced astigmatism but may be associated with a slightly higher risk of endophthalmitis.
+
+Continuous curvilinear capsulorhexis is performed with a cystotome, bent hypodermic needle and/or capsule forceps (Fig: 10.13B).
+
+TIP Trypan blue effectively stains the anterior capsule and facilitates accurate capsulorhexis in a patient with a poor red reflex secondary to a dense cataract:
+
+Hydrodissection is performed to separate the nucleus and cortex from the capsule so that the nucleus can be manipulated. A blunt cannula is inserted just beneath the edge of the capsulorhexis and fluid injected gently under the capsule (Fig: 10.13C). A hydrodissection wave should be seen, provided there is an adequate red reflex.
+
+'Divide and conquer' is a widely used, safe technique for removal of the nucleus in which two perpendicular grooves are created (sculpting), the phaco tip and a second instrument engaged in opposite walls of the grooves and the nucleus cracked into quadrants by applying force in opposite directions (Fig: 10.13D). Each of the quadrants is then emulsified and aspirated in turn (Fig: 10.13E).
+
+'Phaco chop' has the advantage of slightly greater speed and a lower total phaco energy requirement, but takes longer to learn: In horizontal chopping, a blunt-tipped chopper is placed horizontally underneath the capsule and rotated vertically as the equator is reached. Vertical chopping is performed with a pointed-tip chopper that does not need to pass beyond the capsulorhexis. The nucleus is separated into several pieces for emulsification:
+
+'Stop and chop' is a combination technique:
+
+# Removal of lens cortex
+
+Cortical lens matter segments are carefully engaged by means of vacuum peeled away centrally from the lens capsule and aspirated. Automated coaxial, bimanual automated (Fig: 10.13F) and manual aspiration (e.g: Simcoe cannula) methods are available.
+
+# IOL insertion
+
+The capsular bag is filled with cohesive viscoelastic: A loaded injector cartridge is introduced through the main section and the IOL slowly injected and unrolled inside the capsular bag (Fig: 10.14). A toric IOL (see Fig: 10.7C) should be rotated to the correct alignment: Viscoelastic may be aspirated prior to or following toric IOL rotation:
+---
+# 324 Management of Age-Related Cataract
+
+# Fig: 10.13 Phacoemulsification
+
+(A) Corneal incision; (B) capsulorhexis; (C) hydrodissection; (D) cracking of the nucleus; (E) phacoemulsification and aspiration of nuclear quadrants 'divide and conquer' method; (F) cortical aspiration using a bimanual automated technique
+
+# Fg. 10.14 Insertion of IOL
+
+(A) Inferior loop inserted into the capsular bag; (B) slow unfolding of optic; (C) superior loop inserted into the capsular bag
+
+Completion. Side port incisions and the main wound may be sealed with corneal stromal saline injection (hydrosealing).
+
+Prophylactic measures at the end of surgery may include intra-cameral (AC) antibiotic injection, subconjunctival injection of antibiotic and/or topical antibiotic.
+
+# Femtosecond lasers in cataract surgery
+
+Femtosecond lasers, used in refractive surgery for several years, have recently been adopted by some surgeons, replacing several manual steps of phacoemulsification with an automated process: The corneal incisions; the capsulorhexis and initial fragmentation of the crystalline lens; as well as astigmatism-relieving incisions (Fig: 10.15), can be performed with laser. Potential advantages include greater precision and integrity of incisions, reduced phacoemulsification energy and possibly improved refractive outcomes due to more precise capsulorhexis placement. Disadvantages include substantially higher cost, longer total operating time and difficulties with technically challenging cases (e.g: small pupils). There is a substantial learning curve.
+---
+# CHAPTER 10
+
+# Lens
+
+The nucleus falls away and cannot be approached by the phaco tip. Vitreous aspirated into the phaco tip often manifests with a marked slowing of aspiration. The torn capsule or vitreous gel may be directly visible:
+
+Rupture of the posterior capsule manifests with a sudden change in the anterior chamber depth and momentary pupillary dilatation.
+
+Management depends on the magnitude of the tear, the size and type of any residual lens material and the presence or absence of vitreous prolapse:
+
+Dispersive viscoelastic such as Viscoat may be injected (see above). If a complete or nearly complete nucleus remains, conversion to extracapsular extraction may be considered. A vitrector can be employed at this point (see below) to remove vitreous entangled with nuclear fragments. The incision may be enlarged if necessary and a lens glide (Sheets glide) passed behind lens fragments to cover the capsular defect, although it is important to confirm that vitreous has first been displaced or removed and will not be put under traction:
+
+Residual nuclear fragments are carefully removed by phaco using a low bottle height and low AFR, or if large, by viscoexpression after extending the main wound. Once nuclear remnants have been removed, a common approach is to re-plug the tear with dispersive OVD, gently filling the anterior chamber with a cohesive viscoelastic and using aspiration cannula with the irrigation off to carefully aspirate residual cortex, topping up the AC with viscoelastic as necessary.
+
+All vitreous is then removed from the AC and the wound with a vitrector, including deep to the capsular tear: A bimanual technique, with separate cutting and infusion instruments, is viewed as superior by many, as vitreous is not pushed away from the cutter: The position of the infusion cannula is kept high and that of the cutter low.
+
+The main practical difficulty is visualization of the vitreous gel. This can be enhanced by the instillation of trypan blue or 0.1 ml of 40 mg/ml triamcinolone (shaken well before use). The infusion bottle height should be sufficient to keep the AC maintained without intermittent shallowing;
+
+# Operative complications
+
+# Rupture of the posterior lens capsule
+
+Capsular rupture may be accompanied by vitreous loss, posterior migration of lens material and, rarely, expulsive haemorrhage. Sequelae to vitreous loss, particularly if inappropriately managed, include CMO, retinal detachment, endophthalmitis, updrawn pupil, uveitis, vitreous touch, vitreous wick syndrome, glaucoma and posterior dislocation of the IOL.
+
+# Signs
+
+Sudden deepening or shallowing of the AC and momentary pupillary dilatation.
+
+A small posterior capsular tear may allow careful in-the-bag implantation of a posterior chamber (PC) IOL. A large tear will usually allow ciliary sulcus placement of a three-piece (but not a one-piece) PC IOL. The centre of the haptic loops should be placed at 90 to a peripheral tear. If possible, after placing the IOL in the sulcus, the
+---
+3
+---
+# Signs
+
+Progressive shallowing of the AC, increased IOP and prolapse of the iris.
+
+Vitreous extrusion, loss or partial obscuration of the red reflex and the appearance of a dark mound behind the pupil.
+
+In severe cases, posterior segment contents may be extruded into the AC and through the incision:
+
+Immediate treatment involves closure of the incision with a suture. Speed of closure is the key and residual viscoelastic can be left in the eye. Intraoperative posterior sclerostomy should not be undertaken. The diagnosis should be confirmed at the slit lamp as soon as possible. IOP-lowering medication such as oral acetazolamide is given to treat the pressure spike that often follows. Postoperatively, intensive topical and systemic steroids should be used to reduce intraocular inflammation, with standard postoperative antibiotic treatment and IOP management. Non-steroidal anti-inflammatory drugs (NSAIDs) should be avoided for analgesia and any antiplatelet or anticoagulant discontinued short-term, provided this is safe.
+
+Subsequent treatment, if spontaneous absorption fails to occur, consists of drainage of a large haemorrhage. This can be performed 7-14 days later, by which time liquefaction of blood clot has taken place. The visual prognosis for a large haemorrhage is highly variable. Prolonged chorioretinal apposition (7-14 days) reduces the prognosis. Pars plana vitrectomy may be considered when the retina appears adherent or detached, though even apposed 'kissing' haemorrhages may resolve spontaneously without apparent retinal problems. If appropriate, completion of cataract surgery may be considered after a further 1-2 weeks.
+
+# Acute postoperative endophthalmitis
+
+# Pathogenesis
+
+The contemporary reported incidence of acute endophthalmitis following cataract surgery varies substantially between studies, but is probably at least 0.1%. Acute intraocular infection is invariably produced by infecting bacteria and the host inflammatory responses cause rapid and irreversible photoreceptor damage and ongoing effects can continue long after the ocular contents have been rendered sterile.
+
+Risk factors are difficult to establish but may include operative complications such as posterior capsule rupture, prolonged procedure time, combined procedure (e.g. with vitrectomy), clear corneal sutureless incision, temporal incision, wound leak on the first day, delaying postoperative topical antibiotics until the day after surgery, topical anaesthesia, adnexal disease and diabetes.
+
+TIP In a one-eyed patient, make sure that the adjacent socket is free of infection before undertaking cataract surgery:
+
+# Pathogens
+
+About 90% of isolates are Gram-positive and 10% Gram-negative. Staphylococcus epidermidis is the most common.
+
+The source of infection usually cannot be identified with certainty. It is thought that the flora of the eyelids and conjunctiva are the most frequent source, including contamination via incisions in the early postoperative stages. Other potential sources include contaminated solutions and instruments, environmental air and the surgeon, and other operating room personnel.
+
+# Prophylaxis
+
+Because of the low rate of endophthalmitis it is very difficult to establish the effectiveness of any preventative measure:
+
+- Instillation of 5% povidone-iodine into the conjunctival fornices and leaving this undisturbed for at least 3 minutes prior to surgery.
+- Scrupulous preparation of the surgical site, with re-draping if eyelash coverage is inadequate.
+- Treatment of pre-existing infections such as blepharitis, conjunctivitis, chronic dacryocystitis and infection in the contralateral eye or socket.
+- Antibiotic prophylaxis:
+- - Intracameral cefuroxime (1 mg in 0.1 ml) injected into the AC at the end of surgery.
+- Alternatively, moxifloxacin (0.5 mg in 0.1 ml) injected into the AC at the end of surgery could be used if cefuroxime is not available.
+- Intracameral vancomycin has been reported to cause haemorrhagic occlusive retinal vasculitis in some patients and should be avoided as routine prophylaxis.
+- Postoperative subconjunctival injection can achieve bactericidal levels in the AC for at least 1-2 hours.
+- Preoperative topical fluoroquinolone antibiotics are frequently given in regimens from 1 hour to 3 days before surgery, but evidence for their efficacy is lacking.
+
+Early resuturing of leaking wounds rather than observation is likely to be prudent.
+- Reviewing personal surgical practice to eliminate potentially risk-prone elements, particularly if a significant rate of endophthalmitis is encountered.
+
+TIP Preoperative instillation of 5% povidone-iodine to the surface of the eye reduces the risk of endophthalmitis:
+
+# Clinical features
+
+Symptoms Pain, redness and visual loss.
+
+Signs vary according to severity:
+
+- Eyelid swelling; conjunctival injection discharge, chemosis, and relative afferent pupillary defect is common.
+- Corneal haze.
+- Fibrinous exudate and hypopyon.
+- Vitritis with an impaired view of the fundus.
+---
+# 328 Management of Age-Related Cataract
+
+(Courtesy of S Chen)
+
+with corneal oedema may develop although other signs of infectious endophthalmitis are absent: Treatment is with topical steroids and a cycloplegic.
+
+Complicated or prolonged surgery may result in corneal oedema and uveitis.
+
+# Identification of pathogens
+
+Samples for culture should be obtained from aqueous and vitreous to confirm the diagnosis. Negative culture does not necessarily rule out infection and treatment should be continued. An operating theatre with experienced staff is the best setting but samples can be taken in a minor procedures room if necessary, to avoid delay:
+
+B-scan ultrasound should be performed prior to vitreous sampling if there is no clinical view, to exclude retinal detachment:
+
+Fig: 10.18 Acute postoperative bacterial endophthalmitis. (A) Ciliary injection, fibrinous exudate and hypopyon; (B) severe vitreous involvement (Courtesy of C Barry fig: Tuft - fig B)
+
+Povidone-iodine 5% is instilled. Topical and subconjunctival, sub-Tenon peribulbar anaesthesia is administered. The inflamed eye is often resistant to LA and sedation or general anaesthesia may be necessary.
+
+The eye is draped as for cataract surgery, with insertion of speculum.
+
+# Differential diagnosis
+
+If there is any doubt about the diagnosis, treatment should be that of infectious endophthalmitis recognition leads to early better outcome:
+
+Retained lens material in the AC (Fig: 10.19) or vitreous may precipitate severe uveitis, corneal oedema and raised IOP.
+
+Vitreous haemorrhage, especially if blood in the vitreous is depigmented.
+
+Postoperative uveitis: A confident diagnosis of infection is not always straightforward. If signs of inflammation are mild a trial of topical steroid therapy early review (6-24 hours) is appropriate: If there is no substantial improvement, management should be that of endophthalmitis.
+
+Toxic reaction to the use of inappropriate or contaminated irrigating fluid or viscoelastic. An intense fibrinous reaction.
+
+Microbiology: Specimens should be sent to the microbiology laboratory immediately: Most laboratories prefer to receive.
+---
+# CHAPTER 10
+
+# Lens
+
+sample in the acquiring apparatus and will divide the specimen for microscopy and culture. PCR can be helpful in identifying unusual organisms and if culture results have been negative: However, its high sensitivity means that contamination can lead to false-positive results.
+
+# Treatment
+
+Intravitreal antibiotics are the key to management because levels above the minimum inhibitory concentration of most pathogens are achieved and are maintained for days. They should be administered immediately after culture specimens have been obtained. Antibiotics commonly used in combination are ceftazidime; which will kill most Gram-negative organisms (including Pseudomonas aeruginosa) and vancomycin to address Gram-positive cocci (including MRSA).
+
+The concentrations are ceftazidime 2mg in 0.1 ml and vancomycin 2 mg in 0.1 ml. Amikacin 0.4 mg in 0.1 ml is an alternative to ceftazidime in patients with a definite penicillin allergy, but is more toxic to the retina. Table 10.2 provides details of preparation.
+
+# Table 10.2 Preparation of Antibiotics for Intravitreal Injection
+
+|Ceftazidime (broad spectrum, including Pseudomonas)|A. Begin with a 500 mg ampoule|
+|---|---|
+| |B. Add 10 ml water for injection (WFI) or saline and dissolve thoroughly (for a 250 mg vial add 5 ml WFI or saline, for a 1 g vial add 20 ml WFI or saline)|
+| |C. Draw up 1 ml of the solution, containing 50 mg of antibiotic|
+| |D. Add 1.5 ml WFI or saline giving 50 mg in 2.5 ml|
+| |E. Draw up about 0.2 ml (excess to facilitate priming) into a 1 ml syringe. When ready to inject, fit the Rycroft cannula or the needle to be used and discard all but 0.1 ml (contains 2 mg of antibiotic) for injection|
+
+Vancomycin (action primarily against Gram-positive organisms)
+
+Only saline, not WFI, should be used with vancomycin. As A-E above, again preferably starting with a 500 mg ampoule.
+
+# Amikacin
+
+Alternative to ceftazidime; as it carries a higher risk of retinal infarction; use only if well-defined penicillin or cephalosporin allergy is present; note the lower intravitreal dose than ceftazidime and vancomycin. Note different dilution procedure to ceftazidime and vancomycin.
+
+A. Presentation: vial contains 500 mg of amikacin in 2 ml of solutionB. Use a 2.5 ml syringe to draw up 1 ml of amikacin solution then 1.5 ml of WFIC. Inject 0.4 ml of the solution, containing 40 mg of antibiotic, into a 10 ml syringe and dilute to 10 ml (giving 4 mg per ml)D. Draw up about 0.2 ml (excess to facilitate priming) into a 1 ml syringe. When ready to inject, fit the needle to be used and discard all but 0.1 ml (contains 0.4 mg of antibiotic) for injection
+
+Subconjunctival antibiotic injections are often given but are of doubtful additional benefit if intravitreal antibiotics have been used. Suggested doses are vancomycin 50 mg and ceftazidime 125 mg (or amikacin 50 mg if penicillin-allergic). Topical antibiotics are of limited benefit and are often used only 4-6 times daily in order to protect the fresh wounds from contamination. Vancomycin 5% (50 mg/ml) or ceftazidime 5% (50 mg/ml) applied intensively may penetrate the cornea in therapeutic levels. Third or fourth generation fluoroquinolones achieve effective levels in the aqueous and vitreous, even in uninflamed eyes and may be considered.
+
+# Oral antibiotics
+
+Fluoroquinolones penetrate the eye well and moxifloxacin 400 mg daily for 10 days is recommended. Clarithromycin 500 mg twice daily may be helpful for culture-negative infections. Evidence suggests these may attack bacterial biofilm.
+
+# Oral steroids
+
+The rationale for the use of steroids is to limit destructive complications of the inflammatory process. Prednisolone 1 mg/kg daily may be considered in severe cases after 12-24 hours provided fungal infection has been excluded from examination of smears. Contraindications must be excluded and gastric protection (e.g: lansoprazole 30 mg once daily) prescribed with appropriate monitoring including baseline blood tests. If necessary, general medical advice should be requested prior to commencement.
+
+# Subsequent management
+
+Periocular steroids. Dexamethasone or triamcinolone should be considered if systemic therapy is contraindicated. Topical dexamethasone 0.1% 2-hourly initially for anterior uveitis.
+
+Signs of improvement include contraction of fibrinous exudate and reduction of AC cellular activity and hypopyon.
+---
+# 330 Management of Age-Related Cataract
+
+In this situation treatment is not modified irrespective of culture results. Ultrasonography may be useful in vitreous assessment.
+
+If the clinical signs are worsening after 48 hours antibiotic sensitivities should be reviewed and therapy modified accordingly: Pars plana vitrectomy should be considered if not previously performed. Intravitreal antibiotics can be repeated after 2 days: If amikacin has previously been used, repeated administration should probably be avoided to reduce the risk of retinal toxicity.
+
+Outcome is related to the duration of the infection treatment and the virulence of organisms: prior if VA at presentation is light perception, 30% of eyes achieve 6/12 following treatment. If VA is better than light perception, this figure increases to 60%.
+
+Infection with Bacillus cereus or streptococci often has poor visual outcomes despite aggressive and appropriate therapy, with 70% and 55% respectively achieving a final VA of 6/60 or less. This poor visual outcome may be related to early retinopathy from exotoxins.
+
+Late problems include persistent vitreous opacification. Aggressive and extended topical, periocular and if necessary oral steroid treatment will often lead to resolution. Vitrectomy can be considered if the opacification is persistent.
+
+Maculopathy in the form of epiretinal membrane, cystoid oedema and ischaemia:
+
+Hypotony: Wound leak should be excluded and persistent inflammation addressed. Choroidal effusion should be identified and drained if necessary: Retinal detachment and anterior vitreous membranes may require vitrectomy: Other problems include chronic uveitis, secondary glaucoma, retinal detachment and phthisis.
+
+# Delayed-onset postoperative endophthalmitis
+
+(A) Anterior uveitis with large keratic precipitates; (B) white capsular plaque in chronic postoperative endophthalmitis (arrow)
+
+# Pathogenesis
+
+Delayed-onset endophthalmitis following cataract surgery develops when an organism of low virulence, such as R. acnes, becomes trapped within the capsular bag (saccular endophthalmitis). The inflammation initially responds well to topical steroids, but recurs when treatment is stopped and may eventually become steroid-resistant.
+
+An enlarging capsular plaque composed of organisms sequestered within macrophages, residual cortex within the peripheral bag is common (Fig: 10.20B).
+
+# Differential diagnosis
+
+Diagnosis is principally from other causes of anterior uveitis, particularly idiopathic, sterile post-surgical and chronic recurrent viral infection (see Ch: 12).
+
+# Initial management
+
+Later-generation fluoroquinolones, such as moxifloxacin, penetrate the eye well and are concentrated within macrophages: An empirical 10-14-day course of moxifloxacin (alternatives include clarithromycin) may be worthwhile prior to more invasive options.
+
+# Investigation
+
+Sampling of aqueous and vitreous should be considered if oral antibiotics are ineffective. Anaerobic culture.
+---
+# CHAPTER 10
+
+# Lens
+
+should be requested if P acnes infection is suspected and is uncommon now. It may form at the edge of a capsulorhexis or capsulotomy.
+
+# Treatment
+
+Treatment if persistent involves the creation of an opening in the posterior capsule using a Nd:YAG laser (termed a posterior capsulotomy) (Fig: 10.21E).
+
+Intravitreal antibiotics alone are usually unsuccessful in resolving the infection. Removal of the capsular bag, residual cortex and IOL, requiring pars plana vitrectomy. Secondary IOL implantation may be considered at a later date. Intravitreal antibiotics are combined: vancomycin (1-2 mg in 0.1 ml) is the antibiotic of choice and can also be irrigated into any capsular remnant: P. acnes is also sensitive to methicillin, cefazolin and clindamycin.
+
+# Posterior capsular opacification
+
+Visually significant PCO, also known as 'after cataract', is the most common late complication of uncomplicated cataract surgery, occurring in 20-25% of patients. It is caused by the proliferation of lens epithelial cells that have remained within the capsular bag following cataract extraction. The incidence of PCO is reduced when the capsulorhexis opening is in complete contact with the anterior surface of the IOL. PMMA (and probably to a lesser extent hydrogel) IOLs are particularly prone to PCO. Implant design is more important than material: A square optic edge appears to inhibit PCO (though may have a higher rate of dysphotopsia see below).
+
+TIP: Posterior capsular thickening is the commonest cause of late visual deterioration after small incisional cataract surgery and is easily treated with a Nd:YAG laser: Complications include pitting of the IOL that is usually visually inconsequential. The IOP may rise, particularly in patients with glaucoma, but is typically mild and transient: retinal tear or detachment may follow the treatment and myopic individuals should be warned to return if they develop symptoms compatible with a posterior vitreous detachment (PVD). CMO may occur, but is less common when the capsulotomy is delayed for 6 months or more after cataract surgery: IOL subluxation or dislocation is rare.
+
+# Diagnosis
+
+Symptoms include persistent slowly worsening blurring, glare and sometimes monocular diplopia. VA is variably reduced, though dysfunction may be more marked on contrast sensitivity testing: Signs typically include more than one pattern of opacification: Vacuolated (pearl-type) PCO (Fig: 10.214) consists of proliferating swollen lens epithelial cells, similar to the bladder (Wedl) cells seen in posterior subcapsular cataract (see Fig: 10.1A). They are commonly termed 'Elschnig pearls', particularly when grouped into clusters at the edge of a capsulotomy (Fig. 10.21B), though strictly Hirschberg Elschnig pearls refers to globular or grape-like collections of swollen cells seen following traumatic or surgical anterior capsular rupture.
+
+Fibrosis-type PCO (Fig: 10.21C) is thought to be due to fibroblastic metaplasia of epithelial cells, which develop contractile qualities. A Soemmering ring (Fig: 10.21D) is a whitish annular or doughnut-shaped proliferation of residual cells that classically formed almost in the periphery of the capsular bag following older methods of cataract surgery, but.
+
+# Miscellaneous postoperative complications
+
+Cystoid macular oedema: Symptomatic CMO (see Ch. 14) is relatively uncommon following uncomplicated phacoemulsification and in most cases is mild and.
+---
+# 332 Management of Age-Related Cataract
+
+Flg: 10.21 Posterior capsular opacification:
+
+- (A) Vacuolated pearl-type on retroillumination;
+- (B) Elschnig pearl formation (arrow) on edge of capsulotomy;
+- (C) slit-lamp appearance of fibrotic capsule;
+- (D) Soemmering ring following congenital cataract surgery;
+- (E) appearance following laser capsulotomy;
+- (F) laser pitting of an IOL
+
+(Courtesy of R Curtis fig: F)
+---
+# CHAPTER 10
+
+# Lens
+
+Fig: 10.22 Anterior capsular contraction and fibrosis. (A) clinical appearance; (B) retroillumination
+
+Fig: 10.23 Factors predisposing to cystoid macular oedema. (A) Vitreous incarceration in the incision; (B) secondary anterior chamber IOL with pupil block after previous vitreous loss
+
+Transient. It occurs more often after complicated surgery and has a peak incidence at 6-10 weeks, although the interval to onset may be much longer:
+
+Risk factors include epiretinal membrane, a history of CMO in the other eye, operative complications such as posterior capsular rupture with vitreous loss, particularly with vitreous incarceration into the incision site (Fig: 10.234), anterior chamber IOL (Fig: 10.23B), secondary IOL implantation, topical prostaglandin treatment, diabetes and uveitis.
+
+Symptoms: Blurring, especially for near tasks and sometimes distortion. Subtle CMO may not be readily visible but is demonstrated well on OCT.
+
+Treatment: One or a combination of the following modalities may be used.
+
+- Anterior vitrectomy or YAG laser applied to a vitreous wick if present
+- Topical NSAIDs (e.g: ketorolac four times daily, bromfenac twice daily, nepafenac) may be beneficial even in long-standing cases
+
+Treatment may be necessary for several months.
+---
+# 334 Management of Age-Related Cataract
+
+Steroids Topically, by periocular or intravitreal (triamcinolone acetate 0.05-0.1 ml of 40 mg/ml) injection.
+
+Carbonic anhydrase inhibitors given systemically topically:
+
+Intravitreal anti-VEGF agents:
+
+Pars plana vitrectomy may be useful for CMO refractory therapy, even in eyes without apparent vitreous disturbance.
+
+# Dysphotopsia
+
+Up to 1 in 10 patients complain of annoying visual phenomena following uncomplicated cataract surgery with monofocal IOL implantation. Multifocal IOLs have particular issues that are discussed separately above. Improvement in and adaptation to the symptoms typically occurs over several months and the number of patients actually requiring further surgery for the symptoms is very small. Rounded-edged IOLs may be less prone to negative photopsia and silicone IOLs may be less liable to result in dysphotopsia than acrylic IOLs. Optic and capsulorhexis size may also be important.
+
+# Symptoms
+
+A dark shadow in the temporal periphery (negative dysphotopsia often the most troublesome), scintillations; haloes, peripheral or central flaring flashes (positive dysphotopsia) and possibly monocular diplopia.
+
+# Treatment
+
+Encouraging the patient that the symptoms usually improve over time; both because of anatomical changes (e.g. capsulorhexis edge thickening) and because the brain is able to ignore unwanted images. Positive nocturnal symptoms can be helped with gentle pupillary constriction (e.g. brimonidine), but dilatation may help negative dysphotopsia.
+
+Successful alleviation of symptoms has been reported with a variety of techniques, including reverse optic capture (vaulting the optic forward out of the capsular bag, the haptics in place), sulcus IOL implantation, piggyback IOL implantation in the sulcus and IOL exchange (round-edged) may be considered. Laser capsulotomy is best avoided as it markedly complicates IOL exchange. However, in some eyes, Nd: YAG laser removal of a sector of capsulorhexis edge has resulted in reduced symptoms.
+
+# Corneal decompensation
+
+Corneal oedema (see Ch: 7) may occur postoperatively, but is usually mild and transient. Eyes with pre-existing corneal endothelial pathology, particularly low cell counts, are at increased risk. Causes of significant oedema include dense nucleus; which requires high phacoemulsification energy, complicated or prolonged surgery, pseudoexfoliation, intraoperative endothelial trauma and elevated postoperative IOP. Use of a dispersive viscoelastic may help to protect the corneal endothelium during surgery in high-risk eyes.
+
+Fig: 10.24 (4) Decentred optic with one haptic in the angle (arrows) and the other in the bag; (B) inferior subluxation of an IOL (Courtesy of P Gili fig: B)
+---
+# Retinal detachment
+
+Rhegmatogenous retinal detachment (RRD) is uncommon after uncomplicated phacoemulsification with IOL implantation. Pre-operative risk factors include lattice degeneration, retinal breaks and high myopia. The key intraoperative risk is vitreous loss. Pars plana vitrectomy is usually the surgical modality employed for pseudophakic RRD.
+
+# Refractive 'surprise'
+
+Small under-or over-corrections are not uncommon after this surgery. If there is a significant residual refractive error as a consequence of a failure to achieve the intended postoperative refractive target, patient dissatisfaction may ensue. The management is as follows:
+
+1. Identify the cause
+- Obtain a subjective refraction: distended
+- Examine the eye to exclude conditions like a capsular bag (myopic shift) and CMO (hyperopic shift).
+- Check the biometry and the strength of the implanted IOL.
+- Repeat the biometry, keratometry (undiagnosed keratoconus) and measure corneal thickness (undiagnosed previous laser refractive surgery).
+2. Treatment
+- If no obvious cause can be identified and the patient is happy to use spectacles or wear a contact lens to correct the refractive error, no further treatment is needed.
+- If the patient remains dissatisfied and once the refraction is stable, undertake further surgery.
+- IOL exchange is a good early option, but should be undertaken before capsular fibrosis occurs.
+- Corneal refractive surgery could be considered, as this can deal with a range of refractive errors.
+- 'Piggy back' sulcus IOL implantation is a reasonable option for high degrees of uncorrected refractive error, but is less accurate than laser refractive surgery.
+
+# CONGENITAL CATARACT
+
+# Aetiology
+
+Congenital cataract occurs in about 3 in 10,000 live births. Two-thirds are bilateral and a cause can be identified in about half of these. Autosomal dominant (AD) inheritance is the most common aetiological factor. Others include chromosomal abnormalities, metabolic disorders and intrauterine infections. Isolated inherited congenital cataracts carry a better visual prognosis than those with coexisting ocular and systemic abnormality. Unilateral cataracts are usually sporadic, without a family history or systemic disease and affected infants are usually otherwise healthy.
+
+# Associated metabolic disorders
+
+# Galactosaemia
+
+Galactosaemia is an autosomal recessive (AR) condition characterized by impairment of galactose utilization caused by absence of the enzyme galactose-1-phosphate uridyl transferase (GPUT). Unless galactose (milk and milk products) is withheld from the diet, severe systemic complications culminate in early death. 'Oil droplet' lens opacity develops within the first few days or weeks of life in a large percentage of patients. Exclusion of galactose may reverse early lens changes.
+
+# Lowe syndrome
+
+Lowe (oculocerebrorenal) syndrome is an X-linked recessive (gene: OCRLi) inborn error of amino acid metabolism with neuromuscular, renal and other manifestations. Cataract is universal and microphakia may also be present. Congenital glaucoma is present in about half of patients. Female carriers may have visually insignificant cortical lens opacities.
+
+# Fabry disease
+
+See Chapter 7.
+
+# Mannosidosis
+
+Mannosidosis is an AR disorder with deficiency of β-mannosidase. Infantile and juvenile-adult forms are seen, both of which feature progressive mental deterioration, musculoskeletal and other abnormalities. Punctate lens opacities arranged in a spoke-like pattern in the posterior lens cortex are frequent. Corneal clouding can also occur but is less common.
+
+# Other metabolic disorders
+
+Potential causes include hypo- and pseudohypoparathyroidism and hypo- and hyperglycaemia.
+
+# Associated intrauterine infections
+
+# Rubella
+
+Congenital rubella results from transplacental transmission of virus from an infected mother and may lead to severe fetal malformations. Pearly nuclear or more diffuse unilateral or bilateral cataract occurs in around 15%.
+
+# Toxoplasmosis
+
+Ophthalmic features of congenital toxoplasmosis include cataract, chorioretinitis, microphthalmos and optic atrophy.
+
+# Cytomegalovirus infection
+
+Systemic features of congenital cytomegalovirus (CMV) infection include jaundice, hepatosplenomegaly, microcephaly and intracranial calcification. Ocular features apart from cataract include chorioretinitis, microphthalmos, keratitis and optic atrophy.
+---
+# 336 Congenital Cataract
+
+Fg. 10.25 Congenital cataracts. (A) Extensive blue dot; (B) nuclear; (C) coronary; (D) lamellar with riders (arrow); (E) *oil droplet; (F) sutural with blue dots; (G) anterior polar; (H) posterior polar
+
+(Courtesy of L Merin fig: C; K Nischal fig: E)
+---
+# Varicella
+
+Systemic features include learning disability, scarring, cortical cerebral atrophy, cutaneous and limb deformities. Death in early infancy is common. Ocular features may include cataract, microphthalmos, chorioretinitis, optic disc hypoplasia and optic atrophy.
+
+# Others
+
+Measles, syphilis, herpes simplex and human immunodeficiency virus (HIV). (See also Ch. 12.)
+
+# Other systemic associations
+
+# Down syndrome (trisomy 21)
+
+Systemic features include learning difficulties, stunted growth, distinctive facial and peripheral features, thyroid dysfunction, cardiorespiratory disease and reduced life span.
+
+Ocular features: Cataract of varied morphology (75%). The opacities are usually symmetrical and often develop in late childhood. Other features include iris Brushfield spots (see Fig: 20.14B), hypoplasia, chronic blepharitis, myopia, strabismus and keratoconus.
+
+# Edwards syndrome (trisomy 18)
+
+Systemic features: Characteristic facial and peripheral features, deafness, cardiac anomalies, learning disability and early death. Ocular features apart from cataract include ptosis, microphthalmos, corneal opacity, uveal and disc coloboma and vitreoretinal dysplasia.
+
+# Miscellaneous
+
+Hallermann-Streiff syndrome features impaired growth and other features; with cataract in 90%. Nance-Horan syndrome is an X-linked condition comprising distinctive dental and facial anomalies together with congenital cataract and microcornea. Female carriers may show Y suture opacities (see Fig: 10.25F).
+
+# Management
+
+# Ocular assessment
+
+In the neonate, determining the visual significance of lens opacity is based principally on the appearance of the red reflex and the quality of the fundus view. There are three possibilities:
+
+- Very dense cataract with no red reflex.
+- Less dense but still visually significant cataract (e.g: central or posterior opacities over 3 mm in diameter) will permit visualization of the retinal vasculature with the indirect but not with the direct ophthalmoscope.
+- A visually insignificant opacity will allow clear visualization of the retinal vasculature with both the indirect and direct ophthalmoscope.
+
+Other indicators of severe visual impairment include absence of central fixation, nystagmus and strabismus.
+
+# Morphology
+
+Blue dot opacities (Fig: 10.254) are common and innocuous. Nuclear opacities (Fig: 10.25B) are confined to the embryonic or fetal nucleus. The cataract may be dense or composed of fine dust-like (pulverulent) opacities. Coronary (supranuclear) cataract lies in the deep cortex; surrounding the nucleus like a crown. It is usually sporadic but occasionally hereditary (Fig: 10.25C).
+
+Lamellar opacities affect a particular lamella of the lens both anteriorly and posteriorly and may be associated with radial extensions (Fig: 10.25D). Lamellar opacities may be AD or occur in isolation as well as in association with metabolic disorders and intrauterine infections.
+
+Central 'oil droplet' opacities (Fig: 10.25E) are characteristic of galactosaemia. Sutural, in which the opacity follows the anterior or posterior Y suture (Fig: 10.25F). This may be seen in female Nance-Horan carriers.
+
+Anterior polar cataract may be flat or project into the AC (Fig: 10.25G). Occasional associations include persistent pupillary membrane, aniridia, Peters anomaly and anterior lenticonus.
+
+Posterior polar cataract (Fig: 10.25H) may be associated with posterior lenticonus or fetal vascular remnants including a Mittendorf dot. This form of opacity is often closely integrated with the lens capsule and/or a pre-existing defect, with a very high risk of dehiscence during surgery.
+
+Associated ocular pathology may involve the anterior (e.g: corneal clouding, microphthalmos, glaucoma, persistent fetal vasculature) or posterior segments (e.g: chorioretinitis, Leber amaurosis, rubella retinopathy, foveal or optic nerve hypoplasia). Its presence may give an additional indication of visual prognosis. The differential diagnosis of leukocoria may apply (see Ch. 20).
+
+Assessment of family members for subclinical familial cataract is prudent. Ultrasonography should be performed if the fundus is not visible and may reveal a definitive cause such as persistent fetal vasculature. Special tests such as forced-choice preferential looking and visual evoked potentials may provide useful supporting information.
+
+# Systemic investigations
+
+Investigation of familial cataract is unnecessary, but otherwise the following should be considered. Assessment beyond a search for infection and possibly urinary reducing substance is probably unnecessary in unilateral cases:
+
+- Screening for intrauterine infections should usually be performed in all unilateral and bilateral cases.
+- Urinalysis for reducing substance after drinking milk (galactosaemia) and chromatography for amino acids (Lowe syndrome).
+---
+# Ectopia Lentis
+
+Other investigations may include fasting blood glucose; calcium and phosphorus, red blood cell GPUT and serum galactokinase levels. Children who have calcium and phosphorus anomalies severe enough to cause cataract are likely to be unwell. Referral to a Paediatrician may be warranted for suspicion of other systemic diseases or dysmorphic features. Chromosome analysis may be useful in this context.
+
+# Treatment
+
+The requirement for urgent surgery is balanced by the fact that the earlier this takes place, particularly before 4 weeks of age, the higher the chance of glaucoma developing during the juvenile years:
+
+- Bilateral dense cataracts require surgery between 4-10 weeks of age to prevent the development of stimulus deprivation amblyopia. If severity is asymmetrical, the eye with the more marked opacity should be addressed first.
+- Bilateral partial cataracts may not require surgery until later; indeed at any stage: In cases of doubt it may be prudent to defer surgery in favour of careful monitoring.
+- Unilateral dense cataract merits more urgent surgery: However, there is no consensus regarding timing except that weeks is the latest point at which elective surgery should be performed. Many authorities would advocate surgery between 4 and 6 weeks, followed by aggressive anti-amblyopia therapy.
+
+Despite this, the VA results are often disappointing: If the cataract is detected after 16 weeks of age, then the visual prognosis is particularly poor.
+
+Partial unilateral cataract can usually be observed or treated non-surgically with pupillary dilatation and possibly part-time contralateral occlusion.
+
+Surgery involves anterior capsulorhexis, aspiration of lens matter; capsulorhexis of the posterior capsule; limited anterior vitrectomy and IOL implantation, if appropriate. It is important to correct associated refractive errors.
+
+# Postoperative complications
+
+Surgery carries a higher incidence of complications than in adults. Posterior capsular opacification is nearly universal if the posterior capsule is retained and can have substantial amblyogenic effect. Posterior capsulorhexis with vitrectomy is generally performed during the primary lens extraction. Secondary membranes may form across the pupil, particularly if postoperative uveitis is not treated aggressively. Proliferation of lens epithelium is universal, often forming Soemmering ring (see Fig: 21D). It is usually visually inconsequential.
+
+# Glaucoma
+
+The younger the age at which the surgery is undertaken, the greater the risk of developing glaucoma. Secondary open-angle glaucoma may develop in up to 20% of eyes by 5 years after surgery.
+
+# Causes
+
+|Acquired|Familial ectopia lentis|
+|---|---|
+|Trauma|This is an AD condition characterized by bilateral symmetrical superotemporal displacement: It may manifest congenitally or later in life.|
+|Pseudoexfoliation|Ectopia lentis et pupillae is a rare disorder with AR inheritance characterized by displacement of the pupil and the lens in opposite directions (Fig: 10.264). The pupils are small and dilate poorly: Microspherophakia may be present.|
+|Inflammation; eg chronic cyclitis, syphilis.| |
+|Hypermature cataract.| |
+|Large eye, eg high myopia, buphthalmos.| |
+|Anterior uveal tumours:| |
+|Without systemic associations| |
+
+---
+# CHAPTER 10
+
+# Lens
+
+Bilateral ectopia lentis (80%); subluxation is most frequently superotemporal (Fig: 10.27C). The zonules are frequently intact so that accommodation is retained, although rarely the lens may dislocate into the AC or vitreous (Fig: 10.27D).
+
+Other ocular features: angle anomaly may lead to glaucoma and lattice retinal degeneration to retinal detachment. There may be hypoplasia of the dilator pupillae, microspherophakia and strabismus.
+
+Weill-Marchesani syndrome is a rare systemic connective tissue disease, conceptually the converse of Marfan syndrome: Inheritance is AR or AD, the latter resulting from polymorphisms in FBN1, the same gene as Marfan syndrome: Systemic features include short stature, short fingers and toes (brachydactyly) and learning difficulties (Fig: 10.284). Ectopia lentis (50%). Subluxation is in an inferior direction and occurs in late childhood or early adulthood. Microspherophakia (Fig: 10.28B) is common, so that pupillary block with angle closure may ensue:
+
+Homocystinuria is an AR disorder in which decreased enzymatic metabolism of the amino acid methionine results in systemic accumulation of methionine and homocysteine: Systemic features include coarse blond hair, blue irises, malar flush; Marfanoid habitus, neurodevelopmental delay, marked thrombotic predisposition and early atherosclerosis (Fig: 10.294). Treatment involves oral pyridoxine, folic acid and vitamin B12 to reduce plasma homocysteine and methionine levels.
+
+Ectopia lentis, typically inferonasal, is almost universal by the age of 25 years in untreated cases (Fig: 10.29B). The zonules, which normally contain high levels of cysteine (deficient in homocystinuria), disintegrate so that accommodation is often lost: Pupillary block may occur.
+
+Other ocular features include iris atrophy, optic atrophy, cataract myopia and retinal detachment.
+
+Other systemic conditions associated with ectopia lentis include sulfite oxidase deficiency (ectopia lentis is universal) and occasionally Stickler syndrome (retinal detachment is the most common ocular manifestation see Ch: 16), Ehlers-Danlos syndrome and hyperlysinaemia:
+
+# Aniridia is occasionally associated with ectopia lentis
+
+(Fig: 10.26B).
+
+# With systemic associations
+
+# Marfan syndrome
+
+AD inheritance (gene: FBN1) with variable expressivity. Musculoskeletal features include a tall, thin stature with disproportionately long limbs (arm span > height), long fingers (Fig: 10.274) and toes (arachnodactyly), a narrow high-arched ('gothic') palate (Fig: 10.27B). Kyphoscoliosis, sternal abnormalities, mild joint laxity, muscular underdevelopment and predisposition to hernias.
+
+Cardiovascular lesions include dilatation of the aortic root; mitral valve prolapse and aortic aneurysm formation.
+
+# Management
+
+The main complications of ectopia lentis are refractive error of any type depending on lens position, optical distortion due to astigmatism and/or lens edge effect, glaucoma (see Ch: 11) and, rarely, lens-induced uveitis.
+
+Spectacle correction may correct astigmatism induced by lens tilt or edge effect in eyes with mild subluxation. Aphakic correction may also afford good visual results if a significant portion of the visual axis is clear in the undilated state: Surgical removal of the lens is indicated for intractable ametropia, meridional amblyopia, cataract, lens-induced glaucoma or uveitis, or endothelial touch:
+---
+# Ectopia Lentis
+
+Flg: 10.27 Marfan syndrome.
+
+- (A) Arachnodactyly;
+- (B) high-arched palate;
+- (C) superotemporal subluxation with intact zonules;
+- (D) dislocation into the vitreous (rare)
+---
+# CHAPTER 10
+
+# Lens
+
+Fig: 10.28 Weill--Marchesani syndrome. (A) Brachydactyly; (B) dislocation of microspheric lens into the anterior chamber (Courtesy of R Curtis fig: B)
+
+Fig. 10.29 Homocystinuria. (A) Coarse blonde hair; (B) inferior subluxation with zonular disintegration
+---
+# 342 Abnormalities of Lens Shape
+
+# ABNORMALITIES OF LENS SHAPE
+
+Most cases are unilateral; sporadic and not associated with systemic disease: With age, bulging progressively increases and the lens cortex may opacify. Posterior subcapsular opacification is common (Fig: 10.30D). Progression of cataract is variable; but an opacified lens is sometimes seen in early childhood acutely.
+
+# Anterio lenticonus
+
+Anterio lenticonus consists of the anterior surface of the lens into the AC (Fig: 10.304). The 'oil droplet' sign can be seen on retroillumination (Fig: 10.30B). Almost all patients have Alport syndrome; hereditary condition characterized by progressive sensorineural deafness and renal disease associated with abnormal glomerular basement membrane: Retinal flecks and posterior polymorphous corneal dystrophy may also occur.
+
+# Posterior lenticonus
+
+Posterior lenticonus (Fig: 10.30C) is associated with bulging of the posterior axial lens, which may be seen as an isolated familial (dominant) abnormality, or in association with a number of systemic conditions including local thinning or absence of the posterior lenticonus capsule.
+
+# Lentiglobus
+
+Lentiglobus is a very rare, usually unilateral, spherical deformity of the lens. It may be associated with posterior polar opacity.
+
+# Microspherophakia and microphakia
+
+The lens is small and spherical in microspherophakia (Fig: 10.31A), which may be seen as an isolated familial (dominant) abnormality, or in association with a number of systemic conditions.
+
+Fg: 10.30 Abnormalities of lens shape: (A) Anterior lenticonus; (B) 'oil droplet' sign; (C) posterior lenticonus (arrow); (D) retroillumination showing opacification of the posterior capsule.
+---
+# CHAPTER 10
+
+# Lens
+
+Fig: 10.31 Abnormalities of lens shape. (A) Microspherophakia; (B) microphakia; (C) lens coloboma (Courtesy of R Bates fig: A)
+
+Marfan and Weill-Marchesani syndromes, hyperlysinaemia and congenital rubella. Ocular associations include Peters anomaly and familial ectopia lentis et pupillae. Complications can include lenticular myopia, subluxation and dislocation. Microphakia (Fig: 10.31B) is the term used for a lens with a smaller than normal diameter. It may be found in isolation, but may also occur in patients with Lowe syndrome.
+
+Coloboma is characterized by congenital indentation of the lens periphery (Fig: 10.31C) and occurs as a result of localized zonular deficiency. It is not a true coloboma, as there is no focal absence of a tissue layer due to failure of closure of the optic fissure. Occasionally a lens coloboma is associated with a coloboma of the iris or fundus.

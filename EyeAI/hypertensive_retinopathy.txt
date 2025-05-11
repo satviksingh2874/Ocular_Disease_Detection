@@ -1,0 +1,22 @@
+# Hypertensive Eye Disease
+
+Fig. 13.42 Ocular ischaemic syndrome.
+(A) Venous dilatation, arteriolar narrowing, a few scattered flame haemorrhages and hard exudates, and disc oedema;
+(B) and (C) FA early phase showing delayed choroidal filling and prolonged arteriovenous transit;
+(D) FA late phase showing disc and perivascular hyperfluorescence, with spotty hyperfluorescence at the posterior pole due to leakage
+(Courtesy of Moorfields Eye Hospital)
+
+- FA. Delayed choroidal filling and prolonged arteriovenous transit is the major feature. Non-perfusion, vessel wall staining and retinal oedema may also be evident (Fig. 13.42B–D).
+- Carotid imaging may involve duplex ultrasonography, digital subtraction angiography, MR or CT angiography.
+
+# Management
+
+- Anterior segment inflammation is treated with topical steroid and a mydriatic as appropriate.
+- Neovascular glaucoma is managed medically or surgically (see Ch. 11).
+- Proliferative retinopathy can be treated with PRP although the outcome is considerably less certain than in proliferative diabetic retinopathy. Intravitreal anti-VEGF agents may be beneficial.
+- Macular oedema may respond to intravitreal steroid or anti-VEGF agents, or to carotid surgery.
+- Carotid surgery. Endarterectomy or stenting may be performed to reduce the risk of stroke. It may be beneficial for proliferative retinopathy and neovascular glaucoma and may help to stabilize vision. Endarterectomy cannot be performed where there is total obstruction, and in this situation extracranial–intracranial arterial bypass surgery is sometimes carried out. It should be noted that an increase in ocular perfusion following surgery can sometimes be associated with a rise in IOP. Surgery tends to be of greater benefit when performed before the onset of severe ocular ischaemia.
+
+# Retinopathy
+
+Systemic arterial hypertension is common. In addition to heart, kidneys and brain, the eye is often affected by hypertension. Ocular effects can be observed in the retina, choroid and optic nerve. The primary response of the retinal arterioles to systemic hypertension is vasoconstriction, which is less marked in older individuals.
