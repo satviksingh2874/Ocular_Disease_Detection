@@ -240,16 +240,16 @@ def do_inference(image_path, idx_to_label, model):
 prob, diagnosis = do_inference(r'C:\Users\satvi\Desktop\Ocular_Academia\dataset\glaucoma\_34_836194.jpg', idx_to_label, model)
 
 # %%
-history = """
-Doctor, I’ve been having trouble with my eyes lately, and I’m worried it might be something serious.
+# history = """
+# Doctor, I’ve been having trouble with my eyes lately, and I’m worried it might be something serious.
 
-Over the past few months, I’ve noticed that my peripheral vision isn’t as sharp as it used to be—it’s like I’m looking through a tunnel sometimes. I’ve also been getting frequent headaches, especially around my brow and temples, and my eyes often feel achy or strained.
+# Over the past few months, I’ve noticed that my peripheral vision isn’t as sharp as it used to be—it’s like I’m looking through a tunnel sometimes. I’ve also been getting frequent headaches, especially around my brow and temples, and my eyes often feel achy or strained.
 
-A few times, I’ve had sudden blurry vision in one eye, along with halos around lights, particularly at night. My right eye seems worse—colors don’t look as vivid, and sometimes there’s a dull pain behind it.
-"""
+# A few times, I’ve had sudden blurry vision in one eye, along with halos around lights, particularly at night. My right eye seems worse—colors don’t look as vivid, and sometimes there’s a dull pain behind it.
+# """
 
-# %%
-do_all(diagnosis, history, language = "en")
+# # %%
+# do_all(diagnosis, history, language = "en")
 
 # %%
 
