@@ -17,6 +17,7 @@ import os
 from torchvision import transforms
 from PIL import Image
 from torchvision import models
+from dotenv import load_dotenv
 #import optuna
 
 # %%
